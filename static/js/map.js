@@ -330,3 +330,37 @@ document.addEventListener('alpine:init', () => {
         }
     }));
 });
+
+// Remova o bloco anterior 'document.addEventListener('click', ...)' e substitua por este:
+
+// -------------------------------------------------------------
+// Fechar o painel em telas pequenas ao clicar fora (Solução FINAL - Evento Leaflet)
+// -------------------------------------------------------------
+map.on('click', function(e) {
+    const sidebar = document.getElementById('sidebar');
+    const isSmallScreen = window.innerWidth < 768;
+
+    // 1. Verifica se a tela é pequena E se a sidebar está aberta.
+    if (isSmallScreen && sidebar && window.appState?.sidebarOpen) {
+        
+        // 2. Verifica se o clique **NÃO** atingiu o elemento da sidebar.
+        // O `e.originalEvent.target` é o elemento DOM clicado pelo Leaflet.
+        const clickedInsideSidebar = sidebar.contains(e.originalEvent.target);
+
+        if (!clickedInsideSidebar) {
+            
+            // 3. Verifica se o clique **NÃO** foi no botão de toggle (para evitar fechamento imediato após abrir).
+            const toggleButtonSelector = '[title="Alternar Filtros e Lista"]';
+            const clickedOnToggleButton = e.originalEvent.target.closest(toggleButtonSelector);
+
+            if (!clickedOnToggleButton) {
+                
+                // 4. Fecha a sidebar chamando o método reativo do Alpine.js
+                if (typeof window.appState.toggleSidebar === 'function') {
+                    window.appState.toggleSidebar(); 
+                    console.log('✅ SOLUÇÃO FINAL: Painel fechado por clique no mapa (evento Leaflet).');
+                }
+            }
+        }
+    }
+});
