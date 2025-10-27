@@ -4,12 +4,12 @@
     "cnpj": null,
     "cidade": "Belo Horizonte - MG",
     "contato": "Felipe",
-    "telefone": "nan",
+    "telefone": "(31)99169-3232",
     "lat": -19.9028756,
     "lng": -44.0195711,
     "equipamentos": [
-      "11/10/2023 - 642 - Centro BHX 055",
-      "11/10/2023 - 642 - Edge 7"
+      "10/11/2023 - 642 - Centro BHX 055",
+      "10/11/2023 - 642 - Edge 7"
     ]
   },
   {
@@ -17,11 +17,11 @@
     "cnpj": null,
     "cidade": "Santa Cruz do Capibaribe - PE",
     "contato": "Silvia",
-    "telefone": "nan",
-    "lat": -7.9438953,
-    "lng": -36.2160357,
+    "telefone": "(81)99432-7895",
+    "lat": -7.9438807,
+    "lng": -36.2154,
     "equipamentos": [
-      "19/02/2025 - 1532 - Turbo Duo Dna"
+      "2/19/2025 - 1532 - Turbo Duo Dna"
     ]
   },
   {
@@ -29,11 +29,11 @@
     "cnpj": null,
     "cidade": "Macapá - AP",
     "contato": "Roderik",
-    "telefone": "nan",
-    "lat": 0.0158116,
-    "lng": -51.0697371,
+    "telefone": "(96)99144-4103",
+    "lat": 0.015518,
+    "lng": -51.0697541,
     "equipamentos": [
-      "20/12/2023 - 720 - Commander"
+      "12/20/2023 - 720 - Commander"
     ]
   },
   {
@@ -41,11 +41,11 @@
     "cnpj": null,
     "cidade": "Jaboticabal - SP",
     "contato": "Andreza",
-    "telefone": "nan",
-    "lat": -21.252,
-    "lng": -48.3252,
+    "telefone": "(16)99606-9992",
+    "lat": -21.2639671,
+    "lng": -48.3533772,
     "equipamentos": [
-      "06/05/2020 - nan - AX Pro 3020"
+      "05/06/2020 - nan - AX Pro 3020"
     ]
   },
   {
@@ -53,11 +53,11 @@
     "cnpj": null,
     "cidade": "Itapema - SC",
     "contato": "Rafael",
-    "telefone": "nan",
-    "lat": -27.1458384,
-    "lng": -48.6418064,
+    "telefone": "(47)99178-5099",
+    "lat": -27.09472,
+    "lng": -48.6137778,
     "equipamentos": [
-      "23/06/2025 - 1707 - Turbo Duo Dna + coletor"
+      "6/23/2025 - 1707 - Turbo Duo Dna + coletor"
     ]
   },
   {
@@ -65,11 +65,11 @@
     "cnpj": null,
     "cidade": "São Paulo - SP",
     "contato": "Alberto",
-    "telefone": "nan",
-    "lat": -23.5329,
-    "lng": -46.6395,
+    "telefone": "(11)97611-3011",
+    "lat": -23.5383214,
+    "lng": -46.6391624,
     "equipamentos": [
-      "05/08/2020 - 39 - Elite X 2S+Fot 3020"
+      "08/05/2020 - 39 - Elite X 2S+Fot 3020"
     ]
   },
   {
@@ -77,11 +77,11 @@
     "cnpj": null,
     "cidade": "São José - SC",
     "contato": "Alexsandro",
-    "telefone": "nan",
-    "lat": -27.6136,
-    "lng": -48.6366,
+    "telefone": "48 99166-7953",
+    "lat": -27.6157733,
+    "lng": -48.6276491,
     "equipamentos": [
-      "01/09/2020 - 54 - Elite X 5019"
+      "09/01/2020 - 54 - Elite X 5019"
     ]
   },
   {
@@ -89,7 +89,7 @@
     "cnpj": null,
     "cidade": "Araras - SP",
     "contato": "Wanderlei",
-    "telefone": "nan",
+    "telefone": "(19)99724-3966",
     "lat": -22.3412252,
     "lng": -47.3973974,
     "equipamentos": [
@@ -101,12 +101,12 @@
     "cnpj": null,
     "cidade": "Luiz Alves - SC",
     "contato": "Vittus",
-    "telefone": "nan",
-    "lat": -26.7630748,
-    "lng": -48.923087,
+    "telefone": "(47)3377-8700",
+    "lat": -26.7118577,
+    "lng": -48.9126756,
     "equipamentos": [
-      "08/09/2023 - 600 - Revo 1210",
-      "17/05/2022 - 299 - Elite"
+      "09/08/2023 - 600 - Revo 1210",
+      "5/17/2022 - 299 - Elite"
     ]
   },
   {
@@ -114,11 +114,11 @@
     "cnpj": null,
     "cidade": "Joinville - SC",
     "contato": "Eduardo",
-    "telefone": "nan",
-    "lat": -26.3045,
-    "lng": -48.8487,
+    "telefone": "47 3242-3687",
+    "lat": -26.3044898,
+    "lng": -48.8486726,
     "equipamentos": [
-      "25/11/2020 - 111 - Evo Heavy c/ desc"
+      "11/25/2020 - 111 - Evo Heavy c/ desc"
     ]
   },
   {
@@ -126,11 +126,11 @@
     "cnpj": null,
     "cidade": "São Marcos - RS",
     "contato": "Eleandro",
-    "telefone": "nan",
-    "lat": -28.9677,
-    "lng": -51.0696,
+    "telefone": "54 99935-0730",
+    "lat": -28.9768476,
+    "lng": -51.0722028,
     "equipamentos": [
-      "07/08/2020 - 43 - Elite X 3020 3S"
+      "08/07/2020 - 43 - Elite X 3020 3S"
     ]
   },
   {
@@ -138,11 +138,11 @@
     "cnpj": null,
     "cidade": "Fazenda Rio Grande - PR",
     "contato": "Guilherme",
-    "telefone": "nan",
-    "lat": -25.6392068,
-    "lng": -49.3066328,
+    "telefone": "41 3287-0748",
+    "lat": -25.6391441,
+    "lng": -49.3066286,
     "equipamentos": [
-      "03/12/2021 - 243 - Evo Esp 5020 2S"
+      "12/03/2021 - 243 - Evo Esp 5020 2S"
     ]
   },
   {
@@ -150,12 +150,12 @@
     "cnpj": null,
     "cidade": "Barra Velha - SC",
     "contato": "Marcio",
-    "telefone": "nan",
-    "lat": -26.6453931,
-    "lng": -48.687159,
+    "telefone": "47 98464-6464",
+    "lat": -26.6338203,
+    "lng": -48.6835001,
     "equipamentos": [
-      "20/10/2021 - 221 - Vetor CNC",
-      "29/05/2020 - nan - Spark 2013"
+      "10/20/2021 - 221 - Vetor CNC",
+      "5/29/2020 - nan - Spark 2013"
     ]
   },
   {
@@ -163,11 +163,11 @@
     "cnpj": null,
     "cidade": "Jaraguá do Sul - SC",
     "contato": "Adilson",
-    "telefone": "nan",
-    "lat": -26.45821,
-    "lng": -49.1479852,
+    "telefone": "(47)98836-5915",
+    "lat": -26.4584331,
+    "lng": -49.1476913,
     "equipamentos": [
-      "05/06/2023 - 514 - Spark 2819"
+      "06/05/2023 - 514 - Spark 2819"
     ]
   },
   {
@@ -175,11 +175,11 @@
     "cnpj": null,
     "cidade": "Crissiumal - RS",
     "contato": "Adriano",
-    "telefone": "nan",
-    "lat": -27.5102141,
-    "lng": -54.0993307,
+    "telefone": "(55)99700-5750",
+    "lat": -27.4982242,
+    "lng": -54.1024643,
     "equipamentos": [
-      "22/01/2024 - 741 - Turbo Duo"
+      "1/22/2024 - 741 - Turbo Duo"
     ]
   },
   {
@@ -187,11 +187,11 @@
     "cnpj": null,
     "cidade": "Paiçandu - PR",
     "contato": "Emerson/Keila",
-    "telefone": "nan",
-    "lat": -23.4603661,
-    "lng": -52.054065,
+    "telefone": "(44)99827-2100",
+    "lat": -23.4575884,
+    "lng": -52.048988,
     "equipamentos": [
-      "16/08/2024 - 1034 - Mach Pro ATCL dna"
+      "8/16/2024 - 1034 - Mach Pro ATCL dna"
     ]
   },
   {
@@ -199,11 +199,11 @@
     "cnpj": null,
     "cidade": "São Paulo - SP",
     "contato": "Hedy",
-    "telefone": "nan",
-    "lat": -23.5329,
-    "lng": -46.6395,
+    "telefone": "(11) 3816-2228",
+    "lat": -23.5383214,
+    "lng": -46.6391624,
     "equipamentos": [
-      "24/11/2021 - 236 - M32"
+      "11/24/2021 - 236 - M32"
     ]
   },
   {
@@ -211,11 +211,11 @@
     "cnpj": null,
     "cidade": "Maringá - PR",
     "contato": "Julio",
-    "telefone": "nan",
-    "lat": -23.453836,
-    "lng": -51.919994,
+    "telefone": "(44)9990-4039",
+    "lat": -23.2064992,
+    "lng": -45.8948505,
     "equipamentos": [
-      "05/09/2025 - 1976 - ATCL Dna + coletor"
+      "09/05/2025 - 1976 - ATCL Dna + coletor"
     ]
   },
   {
@@ -223,11 +223,11 @@
     "cnpj": null,
     "cidade": "Jaraguá do Sul - SC",
     "contato": "Fernando",
-    "telefone": "nan",
-    "lat": -26.4278115,
-    "lng": -49.0778075,
+    "telefone": "(47)9272-7151",
+    "lat": -26.4494595,
+    "lng": -49.0514755,
     "equipamentos": [
-      "11/06/2024 - 910 - Turbo Dna"
+      "06/11/2024 - 910 - Turbo Dna"
     ]
   },
   {
@@ -235,11 +235,11 @@
     "cnpj": null,
     "cidade": "Várzea Paulista - SP",
     "contato": "Adão",
-    "telefone": "nan",
-    "lat": -23.220093,
-    "lng": -46.8402839,
+    "telefone": "(11)97223-0431",
+    "lat": -23.2269234,
+    "lng": -46.8407433,
     "equipamentos": [
-      "26/12/2024 - 1310 - Turbo Dna + coletor de pó 10 cv"
+      "12/26/2024 - 1310 - Turbo Dna + coletor de pó 10 cv"
     ]
   },
   {
@@ -247,9 +247,9 @@
     "cnpj": null,
     "cidade": "Timóteo - MG",
     "contato": "Criveli/Paloma",
-    "telefone": "nan",
-    "lat": -19.5730763,
-    "lng": -42.6385269,
+    "telefone": "(31)99404-2628",
+    "lat": -19.5728141,
+    "lng": -42.6389748,
     "equipamentos": [
       "06/06/2024 - 922/1124 - Commander+Edge 8"
     ]
@@ -259,11 +259,11 @@
     "cnpj": null,
     "cidade": "Sorriso - MT",
     "contato": "Vitor",
-    "telefone": "nan",
-    "lat": -12.5425,
-    "lng": -55.7211,
+    "telefone": "(66)99954-8495",
+    "lat": -12.5734241,
+    "lng": -55.7275586,
     "equipamentos": [
-      "02/04/2025 - 1528 - Mach Pro ATCL dna"
+      "04/02/2025 - 1528 - Mach Pro ATCL dna"
     ]
   },
   {
@@ -271,11 +271,11 @@
     "cnpj": null,
     "cidade": "Curitiba - PR",
     "contato": "Everaldo",
-    "telefone": "nan",
-    "lat": -25.4512471,
-    "lng": -49.3047309,
+    "telefone": "(41)8750-3334",
+    "lat": -25.4448719,
+    "lng": -49.3047573,
     "equipamentos": [
-      "09/07/2024 - 953 - Mesa de descarga (turbo)"
+      "07/09/2024 - 953 - Mesa de descarga (turbo)"
     ]
   },
   {
@@ -283,11 +283,11 @@
     "cnpj": null,
     "cidade": "Canelones - UR (Uruguai)",
     "contato": "Alejandro",
-    "telefone": "nan",
+    "telefone": "-",
     "lat": null,
     "lng": null,
     "equipamentos": [
-      "05/08/2022 - 340 - Mach Pro 1S"
+      "08/05/2022 - 340 - Mach Pro 1S"
     ]
   },
   {
@@ -295,9 +295,9 @@
     "cnpj": null,
     "cidade": "Diadema - SP",
     "contato": "Alex",
-    "telefone": "nan",
-    "lat": -23.6813,
-    "lng": -46.6205,
+    "telefone": "(11)94720-8673",
+    "lat": -23.6824729,
+    "lng": -46.5997506,
     "equipamentos": [
       "07/07/2025 - 1771 - ATCL Dna"
     ]
@@ -307,11 +307,11 @@
     "cnpj": null,
     "cidade": "Uberlândia - MG",
     "contato": "Alex",
-    "telefone": "nan",
+    "telefone": "(34)99813-9644",
     "lat": -18.8987606,
     "lng": -48.301203,
     "equipamentos": [
-      "19/01/2024 - 738 - Laser 1390 semi nova"
+      "1/19/2024 - 738 - Laser 1390 semi nova"
     ]
   },
   {
@@ -319,11 +319,11 @@
     "cnpj": null,
     "cidade": "Palmas - PR",
     "contato": "Eduardo",
-    "telefone": "nan",
-    "lat": -10.24,
-    "lng": -48.3558,
+    "telefone": "(46)99115-1713",
+    "lat": -26.483868,
+    "lng": -51.988812,
     "equipamentos": [
-      "04/08/2023 - 568 - Mach Laser 1490 + 4° eixo"
+      "08/04/2023 - 568 - Mach Laser 1490 + 4° eixo"
     ]
   },
   {
@@ -331,11 +331,11 @@
     "cnpj": null,
     "cidade": "Mandirituba - PR",
     "contato": "Fabio",
-    "telefone": "nan",
-    "lat": -25.777,
-    "lng": -49.3282,
+    "telefone": "41 99964-0158",
+    "lat": -25.774483,
+    "lng": -49.325091,
     "equipamentos": [
-      "09/06/2021 - 187 - Laser 1490 c/ abertura e 4º eixo"
+      "06/09/2021 - 187 - Laser 1490 c/ abertura e 4º eixo"
     ]
   },
   {
@@ -343,11 +343,11 @@
     "cnpj": null,
     "cidade": "Uruguai - UY",
     "contato": "Santiago",
-    "telefone": "nan",
+    "telefone": "(59)89225-0335",
     "lat": null,
     "lng": null,
     "equipamentos": [
-      "23/06/2025 - 1705 - Turbo Duo Dna"
+      "6/23/2025 - 1705 - Turbo Duo Dna"
     ]
   },
   {
@@ -355,11 +355,11 @@
     "cnpj": null,
     "cidade": "Maringá - PR",
     "contato": "Cristian",
-    "telefone": "nan",
-    "lat": -23.4443391,
-    "lng": -51.9190408,
+    "telefone": "(44)99854-0218",
+    "lat": -23.4447952,
+    "lng": -51.9178199,
     "equipamentos": [
-      "31/07/2024 - 1000 - Turbo Dna"
+      "7/31/2024 - 1000 - Turbo Dna"
     ]
   },
   {
@@ -367,11 +367,11 @@
     "cnpj": null,
     "cidade": "Luiz Alves - SC",
     "contato": "Sidnei",
-    "telefone": "nan",
-    "lat": -26.7630748,
-    "lng": -48.923087,
+    "telefone": "(47)9239-6785",
+    "lat": -26.7118577,
+    "lng": -48.9126756,
     "equipamentos": [
-      "22/08/2023 - 581 - Mach Pro Turbo Duo",
+      "8/22/2023 - 581 - Mach Pro Turbo Duo",
       "nan - 1149 - Edge 8 Turbo"
     ]
   },
@@ -380,11 +380,11 @@
     "cnpj": null,
     "cidade": "Ribeirão das Neves - MG",
     "contato": "Paulo Altino",
-    "telefone": "nan",
+    "telefone": "(31)9681-3411",
     "lat": -19.8367888,
     "lng": -44.0364941,
     "equipamentos": [
-      "20/12/2023 - 721 - Esquadrejadeira"
+      "12/20/2023 - 721 - Esquadrejadeira"
     ]
   },
   {
@@ -393,10 +393,10 @@
     "cidade": "Águas Mornas - SC",
     "contato": "Alexandre",
     "telefone": "31 99818-4348",
-    "lat": -27.6955,
-    "lng": -48.8231503,
+    "lat": -27.696316,
+    "lng": -48.8247831,
     "equipamentos": [
-      "29/07/2022 - 337 - Lifter"
+      "7/29/2022 - 337 - Lifter"
     ]
   },
   {
@@ -404,11 +404,11 @@
     "cnpj": null,
     "cidade": "São Paulo - SP",
     "contato": "Marcos",
-    "telefone": "nan",
-    "lat": -23.8831406,
-    "lng": -46.4222111,
+    "telefone": "(13)98847-5265",
+    "lat": -23.5383214,
+    "lng": -46.6391624,
     "equipamentos": [
-      "05/09/2025 - 1967 - Edge 8 turbo + coletor"
+      "09/05/2025 - 1967 - Edge 8 turbo + coletor"
     ]
   },
   {
@@ -416,11 +416,11 @@
     "cnpj": null,
     "cidade": "Taubaté - SP",
     "contato": "Ana Paula",
-    "telefone": "nan",
-    "lat": -23.0486901,
-    "lng": -45.5467348,
+    "telefone": "(12)97408-8060",
+    "lat": -23.0494273,
+    "lng": -45.5667506,
     "equipamentos": [
-      "19/08/2024 - 1031 - Edge 7 s.a"
+      "8/19/2024 - 1031 - Edge 7 s.a"
     ]
   },
   {
@@ -428,23 +428,23 @@
     "cnpj": null,
     "cidade": "Maringá - PR",
     "contato": "Josue",
-    "telefone": "nan",
-    "lat": -23.4217044,
-    "lng": -51.9597731,
+    "telefone": "(44)3224-6724",
+    "lat": -23.2064992,
+    "lng": -45.8948505,
     "equipamentos": [
-      "20/08/2025 - 1911 - Turbo Dna 2819"
+      "8/20/2025 - 1911 - Turbo Dna 2819"
     ]
   },
   {
-    "nome": "Andre Henrique - Marcenaria",
+    "nome": "Odair Henrique de Souza",
     "cnpj": null,
     "cidade": "São Paulo - SP",
     "contato": "Andre",
-    "telefone": "nan",
-    "lat": -23.5329,
-    "lng": -46.6395,
+    "telefone": "11 95108-1720",
+    "lat": -23.5383214,
+    "lng": -46.6391624,
     "equipamentos": [
-      "24/09/2020 - 65 - Elite X 2819 2S BG"
+      "9/24/2020 - 65 - Elite X 2819 2S BG"
     ]
   },
   {
@@ -452,11 +452,11 @@
     "cnpj": null,
     "cidade": "Foz do Iguaçu - PR",
     "contato": "Andrei",
-    "telefone": "nan",
-    "lat": -25.4988155,
-    "lng": -54.570822,
+    "telefone": "(45)99991-8019",
+    "lat": -25.5856342,
+    "lng": -54.5635327,
     "equipamentos": [
-      "28/03/2025 - 1525 - Edge 5"
+      "3/28/2025 - 1525 - Edge 5"
     ]
   },
   {
@@ -464,11 +464,11 @@
     "cnpj": null,
     "cidade": "Indaiatuba - SP",
     "contato": "Cris",
-    "telefone": "nan",
+    "telefone": "(19)97403-4465",
     "lat": -29.9169009,
     "lng": -51.1402584,
     "equipamentos": [
-      "31/01/2025 - 1418 - Turbo Dna"
+      "1/31/2025 - 1418 - Turbo Dna"
     ]
   },
   {
@@ -476,11 +476,11 @@
     "cnpj": null,
     "cidade": "Vargem Grande Paulista - SP",
     "contato": "Adriano/Cabral",
-    "telefone": "nan",
-    "lat": -23.5993,
-    "lng": -47.022,
+    "telefone": "(11)91070-5315",
+    "lat": -23.6317516,
+    "lng": -47.0344285,
     "equipamentos": [
-      "02/07/2024 - 950 - Commander"
+      "07/02/2024 - 950 - Commander"
     ]
   },
   {
@@ -488,11 +488,11 @@
     "cnpj": null,
     "cidade": "Ponta Grossa - PR",
     "contato": "Cristiano",
-    "telefone": "nan",
+    "telefone": "(42)98877-3245",
     "lat": -25.0891632,
     "lng": -50.1202523,
     "equipamentos": [
-      "13/11/2024 - 1236 - ATCL Dna"
+      "11/13/2024 - 1236 - ATCL Dna"
     ]
   },
   {
@@ -500,11 +500,11 @@
     "cnpj": null,
     "cidade": "Colatina - ES",
     "contato": "Marcos",
-    "telefone": "nan",
-    "lat": -19.5493,
-    "lng": -40.6269,
+    "telefone": "(27)99999-7428",
+    "lat": -19.4963745,
+    "lng": -40.6307482,
     "equipamentos": [
-      "04/06/2024 - 905 - Turbo Dna + mesa"
+      "06/04/2024 - 905 - Turbo Dna + mesa"
     ]
   },
   {
@@ -512,11 +512,11 @@
     "cnpj": null,
     "cidade": "Campo Alegre - SC",
     "contato": "Junior",
-    "telefone": "nan",
-    "lat": -9.78451,
-    "lng": -36.3525,
+    "telefone": "(47) 99597291",
+    "lat": -26.1941684,
+    "lng": -49.2657484,
     "equipamentos": [
-      "30/10/2020 - 107 e 108 - Spark 1310"
+      "10/30/2020 - 107 e 108 - Spark 1310"
     ]
   },
   {
@@ -524,25 +524,25 @@
     "cnpj": null,
     "cidade": "Nova Mamoré - RO",
     "contato": "Antonio",
-    "telefone": "nan",
-    "lat": -10.4107508,
-    "lng": -65.3294487,
+    "telefone": "69 9969-6873",
+    "lat": -10.4104864,
+    "lng": -65.3313761,
     "equipamentos": [
-      "24/03/2021 - 156 - EVO 2030 ATC L"
+      "3/24/2021 - 156 - EVO 2030 ATC L"
     ]
   },
   {
     "nome": "Aquarilopa Arte e Artesanato LTDA",
     "cnpj": null,
     "cidade": "Joinville - SC",
-    "contato": "nan",
-    "telefone": "nan",
+    "contato": "Ariete",
+    "telefone": "(47)99162-1896",
     "lat": -26.3450975,
     "lng": -48.8523493,
     "equipamentos": [
-      "05/07/2021 - 192 - Ax pro 2515 esp",
-      "06/02/2023 - 428 - Spark 3019",
-      "13/07/2022 - 318 - Spark 2815"
+      "02/06/2023 - 428 - Spark 3019",
+      "07/05/2021 - 192 - Ax pro 2515 esp",
+      "7/13/2022 - 318 - Spark 2815"
     ]
   },
   {
@@ -550,12 +550,12 @@
     "cnpj": null,
     "cidade": "Macapá - AP",
     "contato": "Douglas",
-    "telefone": "nan",
-    "lat": 0.0419511,
-    "lng": -51.0700816,
+    "telefone": "96 98414-1466",
+    "lat": 0.0198824,
+    "lng": -51.0715543,
     "equipamentos": [
-      "10/02/2021 - 144 - M32",
-      "26/01/2021 - 136 - Fio quente FCM3"
+      "02/10/2021 - 144 - M32",
+      "1/26/2021 - 136 - Fio quente FCM3"
     ]
   },
   {
@@ -564,22 +564,22 @@
     "cidade": "Londrina - PR",
     "contato": "Marcos",
     "telefone": "nan",
-    "lat": -23.304,
-    "lng": -51.1691,
+    "lat": -23.2982561,
+    "lng": -51.1957834,
     "equipamentos": [
-      "23/01/2020 - nan - Evo 3020"
+      "1/23/2020 - nan - Evo 3020"
     ]
   },
   {
     "nome": "Ariete Wenk Hoengen",
     "cnpj": null,
     "cidade": "Joinville - SC",
-    "contato": "nan",
+    "contato": "Ariete",
     "telefone": "nan",
-    "lat": -26.3045,
-    "lng": -48.8487,
+    "lat": -26.3044898,
+    "lng": -48.8486726,
     "equipamentos": [
-      "03/12/2020 - 115 - Spark 1310 especial comando"
+      "12/03/2020 - 115 - Spark 1310 especial comando"
     ]
   },
   {
@@ -591,7 +591,7 @@
     "lat": -29.9169009,
     "lng": -51.1402584,
     "equipamentos": [
-      "31/01/2025 - 1389 - Edge 6"
+      "1/31/2025 - 1389 - Edge 6"
     ]
   },
   {
@@ -603,7 +603,7 @@
     "lat": -20.1837118,
     "lng": -40.1960386,
     "equipamentos": [
-      "05/10/2022 - 369 - Elite Duo"
+      "10/05/2022 - 369 - Elite Duo"
     ]
   },
   {
@@ -615,7 +615,7 @@
     "lat": -22.9582874,
     "lng": -47.0058188,
     "equipamentos": [
-      "15/08/2025 - 1898 - Turbo Dna 2819"
+      "8/15/2025 - 1898 - Turbo Dna 2819"
     ]
   },
   {
@@ -627,7 +627,7 @@
     "lat": -26.8935042,
     "lng": -48.700445,
     "equipamentos": [
-      "06/10/2021 - 219 - Mach Pro ATCL 2819"
+      "10/06/2021 - 219 - Mach Pro ATCL 2819"
     ]
   },
   {
@@ -639,7 +639,7 @@
     "lat": -25.0883848,
     "lng": -50.1604592,
     "equipamentos": [
-      "27/06/2024 - 929 - Mach Pro 5019 Dna + coletor de pó"
+      "6/27/2024 - 929 - Mach Pro 5019 Dna + coletor de pó"
     ]
   },
   {
@@ -651,7 +651,7 @@
     "lat": -27.0019673,
     "lng": -51.2405514,
     "equipamentos": [
-      "30/05/2025 - 1661 - ATCL Dna"
+      "5/30/2025 - 1661 - ATCL Dna"
     ]
   },
   {
@@ -663,7 +663,7 @@
     "lat": -23.1282654,
     "lng": -47.2222872,
     "equipamentos": [
-      "29/07/2025 - 1833 - Turbo Dna + Edge 6"
+      "7/29/2025 - 1833 - Turbo Dna + Edge 6"
     ]
   },
   {
@@ -672,10 +672,10 @@
     "cidade": "Colombo - PR",
     "contato": "Rodrigo/William",
     "telefone": "nan",
-    "lat": -25.2824158,
-    "lng": -49.2502308,
+    "lat": -25.2879246,
+    "lng": -49.2599525,
     "equipamentos": [
-      "19/02/2024 - 767 - Turbo Duo Dna"
+      "2/19/2024 - 767 - Turbo Duo Dna"
     ]
   },
   {
@@ -684,10 +684,10 @@
     "cidade": "São Paulo - SP",
     "contato": "Renan",
     "telefone": "nan",
-    "lat": -23.5329,
-    "lng": -46.6395,
+    "lat": -23.5383214,
+    "lng": -46.6391624,
     "equipamentos": [
-      "30/11/2021 - 242 - Evo Duo"
+      "11/30/2021 - 242 - Evo Duo"
     ]
   },
   {
@@ -696,11 +696,11 @@
     "cidade": "Timbó - SC",
     "contato": "Guilherme",
     "telefone": "nan",
-    "lat": -26.8246,
-    "lng": -49.269,
+    "lat": -26.8097952,
+    "lng": -49.2792354,
     "equipamentos": [
-      "13/02/2024 - 1431 - Mesa de descarga",
-      "31/08/2023 - 593 - Mach Pro Turbo"
+      "2/13/2024 - 1431 - Mesa de descarga",
+      "8/31/2023 - 593 - Mach Pro Turbo"
     ]
   },
   {
@@ -709,10 +709,10 @@
     "cidade": "Aparecida de Goiás - GO",
     "contato": "Elias",
     "telefone": "nan",
-    "lat": null,
-    "lng": null,
+    "lat": -16.8020159,
+    "lng": -49.3537439,
     "equipamentos": [
-      "30/04/2021 - 166/181 - Ultimate"
+      "4/30/2021 - 166/181 - Ultimate"
     ]
   },
   {
@@ -721,11 +721,11 @@
     "cidade": "Imbituba - SC",
     "contato": "Vinicius",
     "telefone": "nan",
-    "lat": -28.2496983,
-    "lng": -48.6787846,
+    "lat": -28.241827,
+    "lng": -48.6643444,
     "equipamentos": [
-      "30/09/2024 - 1159 - Edge 7 (s.a)",
-      "30/09/2024 - 1159 - Turbo Dna"
+      "9/30/2024 - 1159 - Edge 7 (s.a)",
+      "9/30/2024 - 1159 - Turbo Dna"
     ]
   },
   {
@@ -734,10 +734,10 @@
     "cidade": "São Paulo - SP",
     "contato": "Mauricio",
     "telefone": "nan",
-    "lat": -23.5329,
-    "lng": -46.6395,
+    "lat": -23.5383214,
+    "lng": -46.6391624,
     "equipamentos": [
-      "23/11/2021 - 235 - Mach pro ATCL"
+      "11/23/2021 - 235 - Mach pro ATCL"
     ]
   },
   {
@@ -749,7 +749,7 @@
     "lat": -27.0890707,
     "lng": -48.9115015,
     "equipamentos": [
-      "15/04/2021 - 163 - Evo Duo"
+      "4/15/2021 - 163 - Evo Duo"
     ]
   },
   {
@@ -758,10 +758,10 @@
     "cidade": "Pérola - PR",
     "contato": "Roberto",
     "telefone": "nan",
-    "lat": -25.8859577,
-    "lng": -53.7596492,
+    "lat": -23.8031666,
+    "lng": -53.6824972,
     "equipamentos": [
-      "31/05/2024 - nan - Spark 3019 Especial"
+      "5/31/2024 - nan - Spark 3019 Especial"
     ]
   },
   {
@@ -770,10 +770,10 @@
     "cidade": "Nova Serrana - MG",
     "contato": "Bruno",
     "telefone": "nan",
-    "lat": -19.8713,
-    "lng": -44.9847,
+    "lat": -19.881846,
+    "lng": -44.9843371,
     "equipamentos": [
-      "10/02/2021 - 143 - Spark 8060 (3und)"
+      "02/10/2021 - 143 - Spark 8060 (3und)"
     ]
   },
   {
@@ -782,10 +782,10 @@
     "cidade": "Campo Grande - SP",
     "contato": "Marcelo",
     "telefone": "nan",
-    "lat": -20.4486,
-    "lng": -54.6295,
+    "lat": -23.6722214,
+    "lng": -46.684628,
     "equipamentos": [
-      "25/01/2023 - 423 - Revo 3020"
+      "1/25/2023 - 423 - Revo 3020"
     ]
   },
   {
@@ -806,11 +806,11 @@
     "cidade": "Barueri - SP",
     "contato": "Marcio",
     "telefone": "nan",
-    "lat": -23.5057,
-    "lng": -46.879,
+    "lat": -23.4978404,
+    "lng": -46.9184537,
     "equipamentos": [
-      "02/12/2024 - 1256 - Edge 6",
-      "02/12/2024 - 1256 - Mesa de descarga"
+      "12/02/2024 - 1256 - Edge 6",
+      "12/02/2024 - 1256 - Mesa de descarga"
     ]
   },
   {
@@ -819,10 +819,10 @@
     "cidade": "Barueri - SP",
     "contato": "Marcio",
     "telefone": "nan",
-    "lat": -23.5057,
-    "lng": -46.879,
+    "lat": -23.4978404,
+    "lng": -46.9184537,
     "equipamentos": [
-      "27/07/2023 - 557 - Mach Pro Turbo"
+      "7/27/2023 - 557 - Mach Pro Turbo"
     ]
   },
   {
@@ -831,10 +831,10 @@
     "cidade": "Manaus - AM",
     "contato": "Elton",
     "telefone": "nan",
-    "lat": -3.1247604,
-    "lng": -60.0152771,
+    "lat": 1.9635842,
+    "lng": -67.7824958,
     "equipamentos": [
-      "10/08/2021 - 199 - Ax pro 2819 comp"
+      "08/10/2021 - 199 - Ax pro 2819 comp"
     ]
   },
   {
@@ -843,10 +843,10 @@
     "cidade": "Mirandópolis - SP",
     "contato": "Highor",
     "telefone": "nan",
-    "lat": -21.1313,
-    "lng": -51.1035,
+    "lat": -21.1038745,
+    "lng": -51.1583652,
     "equipamentos": [
-      "04/06/2024 - 872 - ATCL Dna + Edge 7 + 2 coletor"
+      "06/04/2024 - 872 - ATCL Dna + Edge 7 + 2 coletor"
     ]
   },
   {
@@ -855,10 +855,10 @@
     "cidade": "Mairiporã - SP",
     "contato": "Rodolfo",
     "telefone": "nan",
-    "lat": -23.3171,
-    "lng": -46.5897,
+    "lat": -23.4158121,
+    "lng": -46.6643673,
     "equipamentos": [
-      "28/01/2025 - 1383 - Turbo Duo carga descarga + centrinho mach drill"
+      "1/28/2025 - 1383 - Turbo Duo carga descarga + centrinho mach drill"
     ]
   },
   {
@@ -867,10 +867,10 @@
     "cidade": "Blumenau - SC",
     "contato": "Bruno",
     "telefone": "nan",
-    "lat": -26.9155,
-    "lng": -49.0709,
+    "lat": -26.9195567,
+    "lng": -49.0658025,
     "equipamentos": [
-      "29/11/2019 - nan - Elite S 3020"
+      "11/29/2019 - nan - Elite S 3020"
     ]
   },
   {
@@ -879,10 +879,10 @@
     "cidade": "Toledo - PR",
     "contato": "Lidia",
     "telefone": "nan",
-    "lat": -24.7246,
-    "lng": -53.7412,
+    "lat": -24.7222438,
+    "lng": -53.7402476,
     "equipamentos": [
-      "20/02/2023 - 437 - Spark 2819"
+      "2/20/2023 - 437 - Spark 2819"
     ]
   },
   {
@@ -894,7 +894,7 @@
     "lat": null,
     "lng": null,
     "equipamentos": [
-      "16/01/2025 - 1385 - Mach Door ATC + coletor"
+      "1/16/2025 - 1385 - Mach Door ATC + coletor"
     ]
   },
   {
@@ -903,10 +903,10 @@
     "cidade": "Ipatinga - MG",
     "contato": "Marcelo",
     "telefone": "nan",
-    "lat": -19.4703,
-    "lng": -42.5476,
+    "lat": -19.4723144,
+    "lng": -42.5561982,
     "equipamentos": [
-      "15/10/2025 - 2106 - Tubo Dna com Elevador"
+      "10/15/2025 - 2106 - Tubo Dna com Elevador"
     ]
   },
   {
@@ -915,10 +915,10 @@
     "cidade": "São José dos Pinhais - PR",
     "contato": "Marcelo",
     "telefone": "nan",
-    "lat": -25.5756733,
-    "lng": -49.162032,
+    "lat": -25.573221,
+    "lng": -49.1685071,
     "equipamentos": [
-      "10/05/2022 - 298 - Spark 2013"
+      "05/10/2022 - 298 - Spark 2013"
     ]
   },
   {
@@ -927,10 +927,10 @@
     "cidade": "São Paulo - SP",
     "contato": "Ricardo",
     "telefone": "nan",
-    "lat": -23.5329,
-    "lng": -46.6395,
+    "lat": -23.5383214,
+    "lng": -46.6391624,
     "equipamentos": [
-      "15/03/2023 - 529 - Laser 1325"
+      "3/15/2023 - 529 - Laser 1325"
     ]
   },
   {
@@ -939,10 +939,10 @@
     "cidade": "Fortaleza - CE",
     "contato": "Anilton",
     "telefone": "nan",
-    "lat": -3.71664,
-    "lng": -38.5423,
+    "lat": -3.8660947,
+    "lng": -38.5306096,
     "equipamentos": [
-      "08/12/2020 - 117 - fio quente imp"
+      "12/08/2020 - 117 - fio quente imp"
     ]
   },
   {
@@ -951,10 +951,10 @@
     "cidade": "Campo do Tenente - PR",
     "contato": "Mario",
     "telefone": "nan",
-    "lat": -25.98,
-    "lng": -49.6844,
+    "lat": -25.9814143,
+    "lng": -49.684518,
     "equipamentos": [
-      "26/08/2021 - 204 - Spark 8060 Esp"
+      "8/26/2021 - 204 - Spark 8060 Esp"
     ]
   },
   {
@@ -966,7 +966,7 @@
     "lat": -5.0856925,
     "lng": -42.7816965,
     "equipamentos": [
-      "08/07/2022 - 322 - Mach Pro Turbo"
+      "07/08/2022 - 322 - Mach Pro Turbo"
     ]
   },
   {
@@ -978,7 +978,7 @@
     "lat": -25.3473271,
     "lng": -49.175278,
     "equipamentos": [
-      "16/02/2023 - 433 - Spark 2819"
+      "2/16/2023 - 433 - Spark 2819"
     ]
   },
   {
@@ -987,10 +987,10 @@
     "cidade": "Araruna - PR",
     "contato": "Hanna",
     "telefone": "nan",
-    "lat": -6.54848,
-    "lng": -35.7498,
+    "lat": -23.9279184,
+    "lng": -52.4760677,
     "equipamentos": [
-      "02/12/2020 - 97/98 - Evo 3SPE52BG completa"
+      "12/02/2020 - 97/98 - Evo 3SPE52BG completa"
     ]
   },
   {
@@ -1002,9 +1002,9 @@
     "lat": -19.86983,
     "lng": -44.9845447,
     "equipamentos": [
-      "01/03/2021 - 150 - Spark 8060",
-      "15/10/2020 - 83 - Spark 8060",
-      "26/01/2021 - 137/160 - Spark 8060"
+      "03/01/2021 - 150 - Spark 8060",
+      "1/26/2021 - 137/160 - Spark 8060",
+      "10/15/2020 - 83 - Spark 8060"
     ]
   },
   {
@@ -1016,7 +1016,7 @@
     "lat": -15.643946,
     "lng": -56.0253836,
     "equipamentos": [
-      "04/09/2025 - 1977 - ATCL Dna"
+      "09/04/2025 - 1977 - ATCL Dna"
     ]
   },
   {
@@ -1025,10 +1025,10 @@
     "cidade": "Joinville - SC",
     "contato": "Bruno",
     "telefone": "nan",
-    "lat": -26.3045,
-    "lng": -48.8487,
+    "lat": -26.3044898,
+    "lng": -48.8486726,
     "equipamentos": [
-      "30/07/2025 - 1905 - Elite 2819 1S"
+      "7/30/2025 - 1905 - Elite 2819 1S"
     ]
   },
   {
@@ -1040,7 +1040,7 @@
     "lat": -25.4503332,
     "lng": -49.5171925,
     "equipamentos": [
-      "16/11/2022 - 382 - Mach Laser 1390"
+      "11/16/2022 - 382 - Mach Laser 1390"
     ]
   },
   {
@@ -1049,10 +1049,10 @@
     "cidade": "Juazeiro do Norte - CE",
     "contato": "Erivelto",
     "telefone": "nan",
-    "lat": -7.2192348,
-    "lng": -39.3017777,
+    "lat": -7.2204731,
+    "lng": -39.3173373,
     "equipamentos": [
-      "01/07/2024 - 914 - Spark 2819"
+      "07/01/2024 - 914 - Spark 2819"
     ]
   },
   {
@@ -1064,7 +1064,7 @@
     "lat": -19.953056,
     "lng": -45.084166,
     "equipamentos": [
-      "16/12/2024 - 1347 - Spark 8060 AL PLUS"
+      "12/16/2024 - 1347 - Spark 8060 AL PLUS"
     ]
   },
   {
@@ -1073,10 +1073,10 @@
     "cidade": "Mogi das Cruzes - SP",
     "contato": "Bruno",
     "telefone": "nan",
-    "lat": -23.5208,
-    "lng": -46.1854,
+    "lat": -23.5521163,
+    "lng": -46.2342052,
     "equipamentos": [
-      "05/08/2020 - 41 - Elite X 3020 1S"
+      "08/05/2020 - 41 - Elite X 3020 1S"
     ]
   },
   {
@@ -1085,10 +1085,10 @@
     "cidade": "Concórdia - SC",
     "contato": "Augusto",
     "telefone": "nan",
-    "lat": -27.217801,
-    "lng": -52.0472018,
+    "lat": -27.2428507,
+    "lng": -52.0347638,
     "equipamentos": [
-      "26/05/2025 - 1658 - Turbo Dna"
+      "5/26/2025 - 1658 - Turbo Dna"
     ]
   },
   {
@@ -1097,10 +1097,10 @@
     "cidade": "Itapema - SC",
     "contato": "Edilçon",
     "telefone": "nan",
-    "lat": -27.1458384,
-    "lng": -48.6418064,
+    "lat": -27.09472,
+    "lng": -48.6137778,
     "equipamentos": [
-      "30/09/2024 - 1089 - Turbo Duo Dna"
+      "9/30/2024 - 1089 - Turbo Duo Dna"
     ]
   },
   {
@@ -1112,7 +1112,7 @@
     "lat": null,
     "lng": null,
     "equipamentos": [
-      "23/02/2024 - 778 - Turbo"
+      "2/23/2024 - 778 - Turbo"
     ]
   },
   {
@@ -1121,10 +1121,10 @@
     "cidade": "Maringá - PR",
     "contato": "Ruan",
     "telefone": "nan",
-    "lat": -23.3984688,
-    "lng": -51.9432349,
+    "lat": -23.4029281,
+    "lng": -51.930464,
     "equipamentos": [
-      "16/09/2025 - 2028 - Seccionadora Maksiwa"
+      "9/16/2025 - 2028 - Seccionadora Maksiwa"
     ]
   },
   {
@@ -1136,7 +1136,7 @@
     "lat": -26.9554936,
     "lng": -48.6432427,
     "equipamentos": [
-      "29/07/2025 - 1837 - Commander Dna/Edge 8 Turbo"
+      "7/29/2025 - 1837 - Commander Dna/Edge 8 Turbo"
     ]
   },
   {
@@ -1148,7 +1148,7 @@
     "lat": -26.9554936,
     "lng": -48.6432427,
     "equipamentos": [
-      "29/08/2025 - 1941 - Esteira de retorno"
+      "8/29/2025 - 1941 - Esteira de retorno"
     ]
   },
   {
@@ -1157,10 +1157,10 @@
     "cidade": "Panambi - RS",
     "contato": "Josiane",
     "telefone": "nan",
-    "lat": -28.2880743,
-    "lng": -53.5110052,
+    "lat": -28.2898542,
+    "lng": -53.501822,
     "equipamentos": [
-      "06/08/2025 - 1871 - ATCL Dna"
+      "08/06/2025 - 1871 - ATCL Dna"
     ]
   },
   {
@@ -1172,7 +1172,7 @@
     "lat": -29.1892137,
     "lng": -51.4995775,
     "equipamentos": [
-      "24/04/2023 - 469 - Mach Pro Turbo"
+      "4/24/2023 - 469 - Mach Pro Turbo"
     ]
   },
   {
@@ -1181,10 +1181,10 @@
     "cidade": "São Paulo - SP",
     "contato": "Ronaldo",
     "telefone": "nan",
-    "lat": -23.5329,
-    "lng": -46.6395,
+    "lat": -23.5383214,
+    "lng": -46.6391624,
     "equipamentos": [
-      "20/05/2025 - 1629 - Turbo Duo Dna"
+      "5/20/2025 - 1629 - Turbo Duo Dna"
     ]
   },
   {
@@ -1193,10 +1193,10 @@
     "cidade": "São Paulo - SP",
     "contato": "Ronaldo",
     "telefone": "nan",
-    "lat": -23.5329,
-    "lng": -46.6395,
+    "lat": -23.5383214,
+    "lng": -46.6391624,
     "equipamentos": [
-      "20/05/2025 - 1631 - Turbo Dna"
+      "5/20/2025 - 1631 - Turbo Dna"
     ]
   },
   {
@@ -1205,10 +1205,10 @@
     "cidade": "São Paulo - SP",
     "contato": "Ronaldo",
     "telefone": "nan",
-    "lat": -23.5329,
-    "lng": -46.6395,
+    "lat": -23.5383214,
+    "lng": -46.6391624,
     "equipamentos": [
-      "19/05/2025 - 1611 - Turbo Duo Dna"
+      "5/19/2025 - 1611 - Turbo Duo Dna"
     ]
   },
   {
@@ -1217,10 +1217,10 @@
     "cidade": "São Paulo - SP",
     "contato": "Ronaldo",
     "telefone": "nan",
-    "lat": -23.5329,
-    "lng": -46.6395,
+    "lat": -23.5383214,
+    "lng": -46.6391624,
     "equipamentos": [
-      "21/07/2025 - 1811 - ATCL Dna"
+      "7/21/2025 - 1811 - ATCL Dna"
     ]
   },
   {
@@ -1229,10 +1229,10 @@
     "cidade": "São Paulo - SP",
     "contato": "Ronaldo",
     "telefone": "nan",
-    "lat": -23.5329,
-    "lng": -46.6395,
+    "lat": -23.5383214,
+    "lng": -46.6391624,
     "equipamentos": [
-      "23/07/2025 - 1826 - ATCL Dna"
+      "7/23/2025 - 1826 - ATCL Dna"
     ]
   },
   {
@@ -1241,10 +1241,10 @@
     "cidade": "São Paulo - SP",
     "contato": "Ronaldo",
     "telefone": "nan",
-    "lat": -23.5329,
-    "lng": -46.6395,
+    "lat": -23.5383214,
+    "lng": -46.6391624,
     "equipamentos": [
-      "04/06/2025 - 1665 - ATCL Dna"
+      "06/04/2025 - 1665 - ATCL Dna"
     ]
   },
   {
@@ -1253,10 +1253,10 @@
     "cidade": "São Paulo - SP",
     "contato": "Ronaldo",
     "telefone": "nan",
-    "lat": -23.5329,
-    "lng": -46.6395,
+    "lat": -23.5383214,
+    "lng": -46.6391624,
     "equipamentos": [
-      "04/06/2025 - 1666 - Turbo Dna"
+      "06/04/2025 - 1666 - Turbo Dna"
     ]
   },
   {
@@ -1265,10 +1265,10 @@
     "cidade": "Natal - RN",
     "contato": "Glaysson",
     "telefone": "nan",
-    "lat": -5.7359848,
-    "lng": -35.2833954,
+    "lat": -5.8053634,
+    "lng": -35.2098342,
     "equipamentos": [
-      "13/03/2023 - 454 - 2 uni comando DDCS"
+      "3/13/2023 - 454 - 2 uni comando DDCS"
     ]
   },
   {
@@ -1277,10 +1277,10 @@
     "cidade": "Mogi das Cruzes - SP",
     "contato": "Ronaldo",
     "telefone": "nan",
-    "lat": -23.5208,
-    "lng": -46.1854,
+    "lat": -23.5521163,
+    "lng": -46.2342052,
     "equipamentos": [
-      "31/07/2024 - 1001 - ATCL 5619 ESPECIAL"
+      "7/31/2024 - 1001 - ATCL 5619 ESPECIAL"
     ]
   },
   {
@@ -1289,10 +1289,10 @@
     "cidade": "Cotia - SP",
     "contato": "Kayo",
     "telefone": "nan",
-    "lat": -23.6022,
-    "lng": -46.919,
+    "lat": -23.6124139,
+    "lng": -46.9248924,
     "equipamentos": [
-      "24/04/2024 - 849 - ATCL Dna + Edge 5"
+      "4/24/2024 - 849 - ATCL Dna + Edge 5"
     ]
   },
   {
@@ -1301,10 +1301,10 @@
     "cidade": "Ipanema - MG",
     "contato": "Gilmar",
     "telefone": "nan",
-    "lat": -19.8007414,
-    "lng": -41.7229682,
+    "lat": -19.7999954,
+    "lng": -41.7138807,
     "equipamentos": [
-      "25/06/2024 - 927 - ATCL ESPECIAL"
+      "6/25/2024 - 927 - ATCL ESPECIAL"
     ]
   },
   {
@@ -1313,11 +1313,11 @@
     "cidade": "Penha - SC",
     "contato": "Catilene",
     "telefone": "nan",
-    "lat": -27.8109331,
-    "lng": -50.2862773,
+    "lat": -26.775418,
+    "lng": -48.6465251,
     "equipamentos": [
-      "09/12/2024 - 1301 - Turbo Duo Dna + coletor de pó 10",
-      "29/04/2025 - 1595 - Edge 7"
+      "12/09/2024 - 1301 - Turbo Duo Dna + coletor de pó 10",
+      "4/29/2025 - 1595 - Edge 7"
     ]
   },
   {
@@ -1326,10 +1326,10 @@
     "cidade": "Augusto Pestana - RS",
     "contato": "Lucas",
     "telefone": "nan",
-    "lat": -28.5176896,
-    "lng": -53.9938747,
+    "lat": -28.5148413,
+    "lng": -53.9906433,
     "equipamentos": [
-      "16/05/2023 - 492 - Mach ATCL"
+      "5/16/2023 - 492 - Mach ATCL"
     ]
   },
   {
@@ -1338,20 +1338,20 @@
     "cidade": "Nova Friburgo - RJ",
     "contato": "Celio",
     "telefone": "nan",
-    "lat": -22.2932,
-    "lng": -42.5377,
+    "lat": -22.3256764,
+    "lng": -42.477383,
     "equipamentos": [
-      "11/01/2021 - 131 - Fio quente FCM3"
+      "01/11/2021 - 131 - Fio quente FCM3"
     ]
   },
   {
     "nome": "Cenobeegrafia Eventos",
     "cnpj": null,
     "cidade": "São Paulo - SP",
-    "contato": "nan",
+    "contato": "Armando",
     "telefone": "nan",
-    "lat": -23.5329,
-    "lng": -46.6395,
+    "lat": -23.5383214,
+    "lng": -46.6391624,
     "equipamentos": [
       "10/10/2025 - 2095 - ATCL Dna 2819"
     ]
@@ -1362,10 +1362,10 @@
     "cidade": "Jaraguá do Sul - SC",
     "contato": "Cheila",
     "telefone": "nan",
-    "lat": -26.4851,
-    "lng": -49.0713,
+    "lat": -26.4925205,
+    "lng": -49.0748652,
     "equipamentos": [
-      "15/11/2024 - 1233 - Edge 6"
+      "11/15/2024 - 1233 - Edge 6"
     ]
   },
   {
@@ -1374,10 +1374,10 @@
     "cidade": "Diadema - SP",
     "contato": "Fabio",
     "telefone": "nan",
-    "lat": -23.6813,
-    "lng": -46.6205,
+    "lat": -23.6740669,
+    "lng": -46.5976357,
     "equipamentos": [
-      "18/08/2025 - 1903 - Spark Dna"
+      "8/18/2025 - 1903 - Spark Dna"
     ]
   },
   {
@@ -1386,8 +1386,8 @@
     "cidade": "Cariacica - ES",
     "contato": "Leandro",
     "telefone": "nan",
-    "lat": -20.2632,
-    "lng": -40.4165,
+    "lat": -20.3189274,
+    "lng": -40.4352182,
     "equipamentos": [
       "05/05/2023 - 480 - Mach pro 5019 2S"
     ]
@@ -1413,7 +1413,7 @@
     "lat": -20.3999814,
     "lng": -54.5860943,
     "equipamentos": [
-      "10/07/2024 - 995 - Turbo Duo Dna + Edge 7 arredon. + coletores de pó"
+      "07/10/2024 - 995 - Turbo Duo Dna + Edge 7 arredon. + coletores de pó"
     ]
   },
   {
@@ -1422,8 +1422,8 @@
     "cidade": "Campina Grande - PB",
     "contato": "Caio",
     "telefone": "nan",
-    "lat": -7.2407038,
-    "lng": -35.8980565,
+    "lat": -7.2143781,
+    "lng": -36.0073718,
     "equipamentos": [
       "05/05/2021 - 165 - Elite S Especial"
     ]
@@ -1434,11 +1434,11 @@
     "cidade": "Blumenau - SC",
     "contato": "Sandro",
     "telefone": "nan",
-    "lat": -26.9067826,
-    "lng": -49.132589,
+    "lat": -26.9084001,
+    "lng": -49.1503156,
     "equipamentos": [
-      "09/10/2024 - 1143 - Mach Pro ATCL dna",
-      "17/10/2025 - 2111 - Coladeira EDGE 6"
+      "10/09/2024 - 1143 - Mach Pro ATCL dna",
+      "10/17/2025 - 2111 - Coladeira EDGE 6"
     ]
   },
   {
@@ -1450,7 +1450,7 @@
     "lat": null,
     "lng": null,
     "equipamentos": [
-      "22/08/2025 - 1937 - Turbo Dna"
+      "8/22/2025 - 1937 - Turbo Dna"
     ]
   },
   {
@@ -1459,10 +1459,10 @@
     "cidade": "Taubaté - SP",
     "contato": "Emanuel",
     "telefone": "nan",
-    "lat": -23.0135797,
-    "lng": -45.52481,
+    "lat": -23.0221147,
+    "lng": -45.5368691,
     "equipamentos": [
-      "25/10/2021 - 224 - Mach Pro 1S 2819"
+      "10/25/2021 - 224 - Mach Pro 1S 2819"
     ]
   },
   {
@@ -1474,7 +1474,7 @@
     "lat": -25.1027346,
     "lng": -50.1035627,
     "equipamentos": [
-      "02/09/2025 - 1983 - Mach Door"
+      "09/02/2025 - 1983 - Mach Door"
     ]
   },
   {
@@ -1483,10 +1483,10 @@
     "cidade": "Guaíra - SP",
     "contato": "Sergio",
     "telefone": "nan",
-    "lat": -20.4454364,
-    "lng": -48.2879042,
+    "lat": -20.3245873,
+    "lng": -48.3148818,
     "equipamentos": [
-      "14/01/2025 - 1346 - Spark Dna"
+      "1/14/2025 - 1346 - Spark Dna"
     ]
   },
   {
@@ -1498,7 +1498,7 @@
     "lat": -25.5061622,
     "lng": -49.2063666,
     "equipamentos": [
-      "21/09/2021 - 213 - Mach Pro 5019 ESP"
+      "9/21/2021 - 213 - Mach Pro 5019 ESP"
     ]
   },
   {
@@ -1507,10 +1507,10 @@
     "cidade": "Mauá - SP",
     "contato": "Alfredo",
     "telefone": "nan",
-    "lat": -23.6677,
-    "lng": -46.4613,
+    "lat": -23.6818722,
+    "lng": -46.4655555,
     "equipamentos": [
-      "22/01/2025 - 1350 - Edge 6 a pronta entrega"
+      "1/22/2025 - 1350 - Edge 6 a pronta entrega"
     ]
   },
   {
@@ -1522,7 +1522,7 @@
     "lat": -30.0750428,
     "lng": -51.1960762,
     "equipamentos": [
-      "16/09/2025 - 1959 - Turbo Duo Dna"
+      "9/16/2025 - 1959 - Turbo Duo Dna"
     ]
   },
   {
@@ -1531,10 +1531,10 @@
     "cidade": "Santo André - SP",
     "contato": "Edvar",
     "telefone": "nan",
-    "lat": -7.22016,
-    "lng": -36.6213,
+    "lat": -23.7672489,
+    "lng": -46.3727555,
     "equipamentos": [
-      "19/12/2024 - 1314 - Turbo Duo Dna + coletor de pó 10"
+      "12/19/2024 - 1314 - Turbo Duo Dna + coletor de pó 10"
     ]
   },
   {
@@ -1546,7 +1546,7 @@
     "lat": -26.9307449,
     "lng": -48.9662734,
     "equipamentos": [
-      "28/06/2024 - 939 - ATCL Dna 2819"
+      "6/28/2024 - 939 - ATCL Dna 2819"
     ]
   },
   {
@@ -1555,10 +1555,10 @@
     "cidade": "Três Lagoas - MS",
     "contato": "Felipe",
     "telefone": "nan",
-    "lat": -20.7849,
-    "lng": -51.7007,
+    "lat": -20.6018813,
+    "lng": -51.6053499,
     "equipamentos": [
-      "26/12/2024 - 1309 - ATCL Dna"
+      "12/26/2024 - 1309 - ATCL Dna"
     ]
   },
   {
@@ -1567,10 +1567,10 @@
     "cidade": "Curitiba - PR",
     "contato": "Guilherme/Aline",
     "telefone": "nan",
-    "lat": -25.5986303,
-    "lng": -49.3847178,
+    "lat": -25.4372457,
+    "lng": -49.3033661,
     "equipamentos": [
-      "28/02/2024 - 785 - Commander"
+      "2/28/2024 - 785 - Commander"
     ]
   },
   {
@@ -1579,10 +1579,10 @@
     "cidade": "Belo Horizonte - MG",
     "contato": "Renato",
     "telefone": "nan",
-    "lat": -19.9102,
-    "lng": -43.9266,
+    "lat": -19.850977,
+    "lng": -43.949192,
     "equipamentos": [
-      "30/11/2023 - 692 - Edge 8"
+      "11/30/2023 - 692 - Edge 8"
     ]
   },
   {
@@ -1591,10 +1591,10 @@
     "cidade": "Fortaleza - CE",
     "contato": "Gleyson",
     "telefone": "nan",
-    "lat": -3.71664,
-    "lng": -38.5423,
+    "lat": -3.8660947,
+    "lng": -38.5306096,
     "equipamentos": [
-      "16/04/2025 - 1571 - MACH DOUBLE SAW E MCU ATCL 3000"
+      "4/16/2025 - 1571 - MACH DOUBLE SAW E MCU ATCL 3000"
     ]
   },
   {
@@ -1603,10 +1603,10 @@
     "cidade": "Ourinhos - SP",
     "contato": "Reginaldo",
     "telefone": "nan",
-    "lat": -22.9797,
-    "lng": -49.8697,
+    "lat": -22.9726135,
+    "lng": -49.8738263,
     "equipamentos": [
-      "11/03/2024 - 796 - Turbo Duo Dna"
+      "03/11/2024 - 796 - Turbo Duo Dna"
     ]
   },
   {
@@ -1615,10 +1615,10 @@
     "cidade": "Belém - PA",
     "contato": "Luma",
     "telefone": "nan",
-    "lat": -1.4642417,
-    "lng": -48.4904974,
+    "lat": -1.4590555,
+    "lng": -48.4729334,
     "equipamentos": [
-      "16/01/2024 - 728 - Mach Laser 1325"
+      "1/16/2024 - 728 - Mach Laser 1325"
     ]
   },
   {
@@ -1630,7 +1630,7 @@
     "lat": -15.6318057,
     "lng": -47.832752,
     "equipamentos": [
-      "18/09/2025 - 2009 - 2 UND ATCL Dna 2819"
+      "9/18/2025 - 2009 - 2 UND ATCL Dna 2819"
     ]
   },
   {
@@ -1639,10 +1639,10 @@
     "cidade": "Curitiba - PR",
     "contato": "nan",
     "telefone": "nan",
-    "lat": -25.5362709,
-    "lng": -49.3150719,
+    "lat": -25.5003844,
+    "lng": -49.3421512,
     "equipamentos": [
-      "14/06/2022 - 312 - Master ATCL"
+      "6/14/2022 - 312 - Master ATCL"
     ]
   },
   {
@@ -1651,11 +1651,11 @@
     "cidade": "São João de Meriti - RJ",
     "contato": "Daniel",
     "telefone": "nan",
-    "lat": -22.7909681,
-    "lng": -43.3750892,
+    "lat": -22.7845043,
+    "lng": -43.3786207,
     "equipamentos": [
-      "08/05/2023 - 486 - Mach pro 5019 2S",
-      "23/06/2023 - 530 - Mach Laser 1325"
+      "05/08/2023 - 486 - Mach pro 5019 2S",
+      "6/23/2023 - 530 - Mach Laser 1325"
     ]
   },
   {
@@ -1679,7 +1679,7 @@
     "lat": -19.4273043,
     "lng": -42.5686024,
     "equipamentos": [
-      "11/03/2024 - 793 - Turbo Dna"
+      "03/11/2024 - 793 - Turbo Dna"
     ]
   },
   {
@@ -1688,10 +1688,10 @@
     "cidade": "Nova Bassano - RS",
     "contato": "Darlei",
     "telefone": "nan",
-    "lat": -28.7391312,
-    "lng": -51.697155,
+    "lat": -28.7304074,
+    "lng": -51.7034689,
     "equipamentos": [
-      "25/06/2025 - 1753 - Edge 6"
+      "6/25/2025 - 1753 - Edge 6"
     ]
   },
   {
@@ -1700,10 +1700,10 @@
     "cidade": "Pelotas - RS",
     "contato": "Andre",
     "telefone": "nan",
-    "lat": -31.7649,
-    "lng": -52.3371,
+    "lat": -31.7256338,
+    "lng": -52.3300986,
     "equipamentos": [
-      "09/10/2020 - 75 - Ax pro 3020"
+      "10/09/2020 - 75 - Ax pro 3020"
     ]
   },
   {
@@ -1712,10 +1712,10 @@
     "cidade": "Várzea Grande - MT",
     "contato": "Fernando",
     "telefone": "nan",
-    "lat": -15.6153358,
-    "lng": -56.1790926,
+    "lat": -15.7087221,
+    "lng": -56.1309731,
     "equipamentos": [
-      "20/07/2022 - 331 - Mach Laser 2513"
+      "7/20/2022 - 331 - Mach Laser 2513"
     ]
   },
   {
@@ -1727,7 +1727,7 @@
     "lat": -27.0240488,
     "lng": -48.6604016,
     "equipamentos": [
-      "30/11/2023 - 693 - Mach Laser 1325"
+      "11/30/2023 - 693 - Mach Laser 1325"
     ]
   },
   {
@@ -1736,10 +1736,10 @@
     "cidade": "Guamiranga - PR",
     "contato": "Gilberto",
     "telefone": "nan",
-    "lat": -25.1912,
-    "lng": -50.8021,
+    "lat": -25.1909033,
+    "lng": -50.8116961,
     "equipamentos": [
-      "24/11/2020 - 109 - Evo 2819 comp"
+      "11/24/2020 - 109 - Evo 2819 comp"
     ]
   },
   {
@@ -1748,10 +1748,10 @@
     "cidade": "Pederneiras - SP",
     "contato": "Juliano",
     "telefone": "nan",
-    "lat": -22.3511,
-    "lng": -48.7781,
+    "lat": -22.3622772,
+    "lng": -48.7699085,
     "equipamentos": [
-      "16/03/2022 - 272 - Mach Pro ATCL"
+      "3/16/2022 - 272 - Mach Pro ATCL"
     ]
   },
   {
@@ -1760,10 +1760,10 @@
     "cidade": "Pimenta - MG",
     "contato": "Lucas Castro",
     "telefone": "nan",
-    "lat": -16.7445414,
-    "lng": -43.8507841,
+    "lat": -20.4827995,
+    "lng": -45.7985894,
     "equipamentos": [
-      "30/09/2025 - 2067 - Spark"
+      "9/30/2025 - 2067 - Spark"
     ]
   },
   {
@@ -1772,10 +1772,10 @@
     "cidade": "Luziânia - GO",
     "contato": "Paiva Antonio",
     "telefone": "nan",
-    "lat": -16.2522542,
-    "lng": -47.9103868,
+    "lat": -16.1432553,
+    "lng": -47.9316435,
     "equipamentos": [
-      "14/08/2024 - 1026 - Mach Pro ATCL dna"
+      "8/14/2024 - 1026 - Mach Pro ATCL dna"
     ]
   },
   {
@@ -1784,10 +1784,10 @@
     "cidade": "Piedade - SP",
     "contato": "Antuany",
     "telefone": "nan",
-    "lat": -23.7139,
-    "lng": -47.4256,
+    "lat": -23.7216905,
+    "lng": -47.4354085,
     "equipamentos": [
-      "25/11/2020 - 114 - Spark 2113"
+      "11/25/2020 - 114 - Spark 2113"
     ]
   },
   {
@@ -1799,7 +1799,7 @@
     "lat": -21.7629976,
     "lng": -48.2066461,
     "equipamentos": [
-      "31/07/2025 - 1842 - Commander Dna/Edge 8 Turbo/ Mesa de retorno / Compressor 20CV"
+      "7/31/2025 - 1842 - Commander Dna/Edge 8 Turbo/ Mesa de retorno / Compressor 20CV"
     ]
   },
   {
@@ -1811,7 +1811,7 @@
     "lat": -26.9111064,
     "lng": -49.0973947,
     "equipamentos": [
-      "30/09/2022 - 363 - Mach Bcam"
+      "9/30/2022 - 363 - Mach Bcam"
     ]
   },
   {
@@ -1820,10 +1820,10 @@
     "cidade": "Massaranduba - SC",
     "contato": "Odair",
     "telefone": "nan",
-    "lat": -26.6117352,
-    "lng": -49.0081232,
+    "lat": -26.610868,
+    "lng": -49.005351,
     "equipamentos": [
-      "26/07/2022 - 335 - Mach Pro Turbo"
+      "7/26/2022 - 335 - Mach Pro Turbo"
     ]
   },
   {
@@ -1832,11 +1832,11 @@
     "cidade": "Teixeira Soares - PR",
     "contato": "Diego",
     "telefone": "nan",
-    "lat": -25.3652357,
-    "lng": -50.4621533,
+    "lat": -25.3719287,
+    "lng": -50.4586285,
     "equipamentos": [
-      "23/09/2024 - 1113 - Turbo Dna",
-      "28/11/2024 - 1262 - Edge 7"
+      "11/28/2024 - 1262 - Edge 7",
+      "9/23/2024 - 1113 - Turbo Dna"
     ]
   },
   {
@@ -1845,10 +1845,10 @@
     "cidade": "Tupanciretã - RS",
     "contato": "Vitor",
     "telefone": "nan",
-    "lat": -29.0828165,
-    "lng": -53.8316974,
+    "lat": -29.0798756,
+    "lng": -53.8386668,
     "equipamentos": [
-      "15/07/2024 - 961 - Turbo Duo Esp"
+      "7/15/2024 - 961 - Turbo Duo Esp"
     ]
   },
   {
@@ -1857,10 +1857,10 @@
     "cidade": "São Caetano do Sul - SP",
     "contato": "Jose Luiz",
     "telefone": "nan",
-    "lat": -23.6229,
-    "lng": -46.5548,
+    "lat": -23.6166339,
+    "lng": -46.5787364,
     "equipamentos": [
-      "05/07/2024 - 941 - Turbo Duo Dna"
+      "07/05/2024 - 941 - Turbo Duo Dna"
     ]
   },
   {
@@ -1872,7 +1872,7 @@
     "lat": -23.0073108,
     "lng": -47.016175,
     "equipamentos": [
-      "14/08/2025 - 1875 - 5019 ATCL Esp"
+      "8/14/2025 - 1875 - 5019 ATCL Esp"
     ]
   },
   {
@@ -1881,10 +1881,10 @@
     "cidade": "Chapecó - SC",
     "contato": "Derli",
     "telefone": "nan",
-    "lat": -27.1004,
-    "lng": -52.6152,
+    "lat": -27.1056204,
+    "lng": -53.399227,
     "equipamentos": [
-      "06/02/2020 - nan - Solid 2515"
+      "02/06/2020 - nan - Solid 2515"
     ]
   },
   {
@@ -1896,7 +1896,7 @@
     "lat": -19.8600221,
     "lng": -44.6075442,
     "equipamentos": [
-      "09/02/2024 - 764 - Turbo Duo Dna"
+      "02/09/2024 - 764 - Turbo Duo Dna"
     ]
   },
   {
@@ -1905,10 +1905,10 @@
     "cidade": "Blumenau - SC",
     "contato": "William Alves",
     "telefone": "nan",
-    "lat": -26.8488,
-    "lng": -49.0644438,
+    "lat": -26.8493198,
+    "lng": -49.0827998,
     "equipamentos": [
-      "09/10/2025 - 2086 - Turbo Dna"
+      "10/09/2025 - 2086 - Turbo Dna"
     ]
   },
   {
@@ -1917,10 +1917,10 @@
     "cidade": "Curitiba - PR",
     "contato": "Everaldo",
     "telefone": "nan",
-    "lat": -25.436751,
-    "lng": -49.3188819,
+    "lat": -25.4392543,
+    "lng": -49.3423221,
     "equipamentos": [
-      "24/11/2022 - 392 - Mach Pro Turbo"
+      "11/24/2022 - 392 - Mach Pro Turbo"
     ]
   },
   {
@@ -1932,7 +1932,7 @@
     "lat": null,
     "lng": null,
     "equipamentos": [
-      "26/07/2023 - 561 - Mach Pro Turbo"
+      "7/26/2023 - 561 - Mach Pro Turbo"
     ]
   },
   {
@@ -1944,7 +1944,7 @@
     "lat": -27.4439526,
     "lng": -52.9183699,
     "equipamentos": [
-      "31/03/2021 - 159 - Evo 2819 1S"
+      "3/31/2021 - 159 - Evo 2819 1S"
     ]
   },
   {
@@ -1953,10 +1953,10 @@
     "cidade": "Fortaleza - CE",
     "contato": "Gleydson/Julio",
     "telefone": "nan",
-    "lat": -3.71664,
-    "lng": -38.5423,
+    "lat": -3.8660947,
+    "lng": -38.5306096,
     "equipamentos": [
-      "06/05/2022 - 290 - Mach Pro ATCL"
+      "05/06/2022 - 290 - Mach Pro ATCL"
     ]
   },
   {
@@ -1968,7 +1968,7 @@
     "lat": -20.456214,
     "lng": -54.6046546,
     "equipamentos": [
-      "25/11/2021 - 238 - Mach Pro 5016"
+      "11/25/2021 - 238 - Mach Pro 5016"
     ]
   },
   {
@@ -1977,11 +1977,11 @@
     "cidade": "Cachoeirinha - RS",
     "contato": "Lilian/Pedro",
     "telefone": "nan",
-    "lat": -29.9395245,
-    "lng": -51.1006556,
+    "lat": -29.9523434,
+    "lng": -51.1047533,
     "equipamentos": [
-      "24/06/2024 - 923 - ATCL Dna",
-      "24/06/2024 - 955 - Edge 6"
+      "6/24/2024 - 923 - ATCL Dna",
+      "6/24/2024 - 955 - Edge 6"
     ]
   },
   {
@@ -1990,13 +1990,13 @@
     "cidade": "Frederico Westphalen - RS",
     "contato": "Alisson",
     "telefone": "nan",
-    "lat": -27.3598147,
-    "lng": -53.4078919,
+    "lat": -27.35711,
+    "lng": -53.3964117,
     "equipamentos": [
-      "04/05/2023 - 479 - Spark 1455 faca oscilante",
-      "08/04/2024 - 835 - Spark",
-      "19/09/2024 - 1104 - Spark",
-      "20/02/2025 - 1451 - Maquina de corte CNC Spark 6016 esp dix"
+      "04/08/2024 - 835 - Spark",
+      "05/04/2023 - 479 - Spark 1455 faca oscilante",
+      "2/20/2025 - 1451 - Maquina de corte CNC Spark 6016 esp dix",
+      "9/19/2024 - 1104 - Spark"
     ]
   },
   {
@@ -2008,7 +2008,7 @@
     "lat": -27.5771623,
     "lng": -48.661744,
     "equipamentos": [
-      "31/05/2022 - 303 - Mach Pro ATCL"
+      "5/31/2022 - 303 - Mach Pro ATCL"
     ]
   },
   {
@@ -2020,7 +2020,7 @@
     "lat": -25.3854293,
     "lng": -49.2808821,
     "equipamentos": [
-      "14/12/2023 - 709 - Laser 1490"
+      "12/14/2023 - 709 - Laser 1490"
     ]
   },
   {
@@ -2032,7 +2032,7 @@
     "lat": -25.3854293,
     "lng": -49.2808821,
     "equipamentos": [
-      "04/10/2022 - 366 - Laser 1490"
+      "10/04/2022 - 366 - Laser 1490"
     ]
   },
   {
@@ -2041,10 +2041,10 @@
     "cidade": "Governador Celso Ramos - SC",
     "contato": "Douglas",
     "telefone": "nan",
-    "lat": -27.3634886,
-    "lng": -48.6001187,
+    "lat": -27.317161,
+    "lng": -48.557608,
     "equipamentos": [
-      "20/06/2025 - 1724 - Turbo Dna"
+      "6/20/2025 - 1724 - Turbo Dna"
     ]
   },
   {
@@ -2053,10 +2053,10 @@
     "cidade": "Schroeder - SC",
     "contato": "Uesley",
     "telefone": "nan",
-    "lat": -26.408446,
-    "lng": -49.0775411,
+    "lat": -26.411571,
+    "lng": -49.074041,
     "equipamentos": [
-      "18/03/2025 - 1487 - ATCL Dna + Coletor 7,5KW"
+      "3/18/2025 - 1487 - ATCL Dna + Coletor 7,5KW"
     ]
   },
   {
@@ -2068,7 +2068,7 @@
     "lat": -3.1221945,
     "lng": -40.1514585,
     "equipamentos": [
-      "05/06/2023 - 513 - Mach Pro Turbo"
+      "06/05/2023 - 513 - Mach Pro Turbo"
     ]
   },
   {
@@ -2077,10 +2077,10 @@
     "cidade": "Gravataí - RS",
     "contato": "Douglas",
     "telefone": "nan",
-    "lat": -29.928911,
-    "lng": -50.929249,
+    "lat": -29.9569099,
+    "lng": -50.9712088,
     "equipamentos": [
-      "30/05/2025 - 1648 - ATCL Dna"
+      "5/30/2025 - 1648 - ATCL Dna"
     ]
   },
   {
@@ -2092,7 +2092,7 @@
     "lat": -27.6248745,
     "lng": -48.6682898,
     "equipamentos": [
-      "26/01/2023 - 416 - Mach Pro Turbo"
+      "1/26/2023 - 416 - Mach Pro Turbo"
     ]
   },
   {
@@ -2101,10 +2101,10 @@
     "cidade": "Guaratinguetá - SP",
     "contato": "Alexandre",
     "telefone": "nan",
-    "lat": -22.8075,
-    "lng": -45.1938,
+    "lat": -22.7833398,
+    "lng": -45.13965,
     "equipamentos": [
-      "18/09/2025 - 2014 - ATCL Dna 2819 + coletor"
+      "9/18/2025 - 2014 - ATCL Dna 2819 + coletor"
     ]
   },
   {
@@ -2113,10 +2113,10 @@
     "cidade": "Arapongas - PR",
     "contato": "Naim",
     "telefone": "nan",
-    "lat": -23.4153,
-    "lng": -51.4259,
+    "lat": -23.4060078,
+    "lng": -51.4569965,
     "equipamentos": [
-      "22/08/2025 - 1930 - Spark Dna"
+      "8/22/2025 - 1930 - Spark Dna"
     ]
   },
   {
@@ -2128,7 +2128,7 @@
     "lat": -26.3369217,
     "lng": -48.8496444,
     "equipamentos": [
-      "30/09/2025 - 2058 - Spark"
+      "9/30/2025 - 2058 - Spark"
     ]
   },
   {
@@ -2137,10 +2137,10 @@
     "cidade": "Campinas - SP",
     "contato": "Guilherme",
     "telefone": "nan",
-    "lat": -22.9053,
-    "lng": -47.0659,
+    "lat": -22.7118231,
+    "lng": -47.1430297,
     "equipamentos": [
-      "05/08/2020 - 40 - AX pro 2515 Comp"
+      "08/05/2020 - 40 - AX pro 2515 Comp"
     ]
   },
   {
@@ -2152,7 +2152,7 @@
     "lat": -26.2647494,
     "lng": -48.8634365,
     "equipamentos": [
-      "09/03/2023 - 448 - Mach Pro Turbo"
+      "03/09/2023 - 448 - Mach Pro Turbo"
     ]
   },
   {
@@ -2161,10 +2161,10 @@
     "cidade": "Limeira - SP",
     "contato": "Ederson",
     "telefone": "nan",
-    "lat": -22.566,
-    "lng": -47.397,
+    "lat": -22.5491704,
+    "lng": -47.4114475,
     "equipamentos": [
-      "11/05/2021 - 183 - Evo 1 S"
+      "05/11/2021 - 183 - Evo 1 S"
     ]
   },
   {
@@ -2176,7 +2176,7 @@
     "lat": -26.510254,
     "lng": -49.108808,
     "equipamentos": [
-      "07/10/2022 - 368 - Plasma/Oxic"
+      "10/07/2022 - 368 - Plasma/Oxic"
     ]
   },
   {
@@ -2185,10 +2185,10 @@
     "cidade": "São Leopoldo - RS",
     "contato": "Edilio",
     "telefone": "nan",
-    "lat": -29.7545,
-    "lng": -51.1498,
+    "lat": -29.7365873,
+    "lng": -51.1710471,
     "equipamentos": [
-      "19/02/2020 - nan - Elite 8060"
+      "2/19/2020 - nan - Elite 8060"
     ]
   },
   {
@@ -2197,10 +2197,10 @@
     "cidade": "Contagem - MG",
     "contato": "Eduardo",
     "telefone": "nan",
-    "lat": -19.9197353,
-    "lng": -44.0761238,
+    "lat": -19.9148754,
+    "lng": -44.0756826,
     "equipamentos": [
-      "19/04/2024 - 847 - MCU Esp e Mach Pro Esp"
+      "4/19/2024 - 847 - MCU Esp e Mach Pro Esp"
     ]
   },
   {
@@ -2209,10 +2209,10 @@
     "cidade": "Portão - RS",
     "contato": "Eduardo",
     "telefone": "nan",
-    "lat": -29.6966812,
-    "lng": -51.2439581,
+    "lat": -29.6932554,
+    "lng": -51.2331837,
     "equipamentos": [
-      "26/10/2023 - 653 - Spark 2819"
+      "10/26/2023 - 653 - Spark 2819"
     ]
   },
   {
@@ -2221,10 +2221,10 @@
     "cidade": "Lauro de Freitas - BA",
     "contato": "Edvaldo",
     "telefone": "nan",
-    "lat": -12.8978,
-    "lng": -38.321,
+    "lat": -12.8751773,
+    "lng": -38.3399593,
     "equipamentos": [
-      "09/12/2020 - 119 - Ax pro 3020"
+      "12/09/2020 - 119 - Ax pro 3020"
     ]
   },
   {
@@ -2233,10 +2233,10 @@
     "cidade": "São José de Ribamar - MA",
     "contato": "Pedro",
     "telefone": "nan",
-    "lat": -2.54704,
-    "lng": -44.0597,
+    "lat": -2.4821668,
+    "lng": -44.1913814,
     "equipamentos": [
-      "02/04/2025 - 1535 - Spark Dna"
+      "04/02/2025 - 1535 - Spark Dna"
     ]
   },
   {
@@ -2248,7 +2248,7 @@
     "lat": -33.6895237,
     "lng": -53.454704,
     "equipamentos": [
-      "12/05/2023 - 490 - Spark 2819"
+      "05/12/2023 - 490 - Spark 2819"
     ]
   },
   {
@@ -2260,7 +2260,7 @@
     "lat": -7.1237779,
     "lng": -34.9810348,
     "equipamentos": [
-      "06/05/2021 - 169 - Spark 8060"
+      "05/06/2021 - 169 - Spark 8060"
     ]
   },
   {
@@ -2269,10 +2269,10 @@
     "cidade": "Brusque - SC",
     "contato": "Renato",
     "telefone": "nan",
-    "lat": -27.0694111,
-    "lng": -48.8966364,
+    "lat": -27.0450425,
+    "lng": -48.8927714,
     "equipamentos": [
-      "20/05/2022 - 296 - Mach Pro ATCL"
+      "5/20/2022 - 296 - Mach Pro ATCL"
     ]
   },
   {
@@ -2281,10 +2281,10 @@
     "cidade": "Bauru - SP",
     "contato": "Marcos",
     "telefone": "nan",
-    "lat": -22.3246,
-    "lng": -49.0871,
+    "lat": -22.3146943,
+    "lng": -49.0426495,
     "equipamentos": [
-      "16/01/2020 - nan - Evo 5020"
+      "1/16/2020 - nan - Evo 5020"
     ]
   },
   {
@@ -2293,10 +2293,10 @@
     "cidade": "Governador Celso Ramos - SC",
     "contato": "Enio",
     "telefone": "nan",
-    "lat": -27.3634886,
-    "lng": -48.6001187,
+    "lat": -27.317161,
+    "lng": -48.557608,
     "equipamentos": [
-      "11/06/2025 - 1691 - Turbo Dna"
+      "06/11/2025 - 1691 - Turbo Dna"
     ]
   },
   {
@@ -2305,11 +2305,11 @@
     "cidade": "Pedro Leopoldo - MG",
     "contato": "Ernani",
     "telefone": "nan",
-    "lat": -19.6308,
-    "lng": -44.0383,
+    "lat": -19.5647223,
+    "lng": -44.0360675,
     "equipamentos": [
-      "19/09/2024 - 1099 - Turbo Dna",
-      "28/01/2025 - 1371 - Mach Laser 1390"
+      "1/28/2025 - 1371 - Mach Laser 1390",
+      "9/19/2024 - 1099 - Turbo Dna"
     ]
   },
   {
@@ -2318,10 +2318,10 @@
     "cidade": "Ituiutaba - MG",
     "contato": "Rever",
     "telefone": "nan",
-    "lat": -18.9701254,
-    "lng": -49.4612138,
+    "lat": -18.9782919,
+    "lng": -49.4590569,
     "equipamentos": [
-      "10/07/2024 - 935 - Turbo Dna"
+      "07/10/2024 - 935 - Turbo Dna"
     ]
   },
   {
@@ -2330,10 +2330,10 @@
     "cidade": "Ituiutaba - MG",
     "contato": "Rever",
     "telefone": "nan",
-    "lat": -18.9668387,
-    "lng": -49.4904584,
+    "lat": -18.9921507,
+    "lng": -49.4455477,
     "equipamentos": [
-      "30/06/2025 - 1751 - Edge 7"
+      "6/30/2025 - 1751 - Edge 7"
     ]
   },
   {
@@ -2342,10 +2342,10 @@
     "cidade": "Patos - PB",
     "contato": "Sebastian",
     "telefone": "nan",
-    "lat": -7.01743,
-    "lng": -37.2747,
+    "lat": -7.2231838,
+    "lng": -38.290701,
     "equipamentos": [
-      "29/09/2021 - 214 - EVO Duo"
+      "9/29/2021 - 214 - EVO Duo"
     ]
   },
   {
@@ -2357,7 +2357,7 @@
     "lat": -29.9433343,
     "lng": -50.9946084,
     "equipamentos": [
-      "05/02/2024 - 760 - Spark 2819"
+      "02/05/2024 - 760 - Spark 2819"
     ]
   },
   {
@@ -2378,10 +2378,10 @@
     "cidade": "Jaraguá do Sul - SC",
     "contato": "Claudete",
     "telefone": "nan",
-    "lat": -26.45821,
-    "lng": -49.1479852,
+    "lat": -26.4584331,
+    "lng": -49.1476913,
     "equipamentos": [
-      "26/05/2023 - 507 - Mach Pro ATCL c/ 4º eixo"
+      "5/26/2023 - 507 - Mach Pro ATCL c/ 4º eixo"
     ]
   },
   {
@@ -2390,10 +2390,10 @@
     "cidade": "Guaramirim - SC",
     "contato": "Fabiane",
     "telefone": "nan",
-    "lat": -26.4742721,
-    "lng": -49.0010955,
+    "lat": -26.4744805,
+    "lng": -48.9981151,
     "equipamentos": [
-      "28/03/2022 - 277 - Mach Pro ATCL ESP"
+      "3/28/2022 - 277 - Mach Pro ATCL ESP"
     ]
   },
   {
@@ -2402,23 +2402,23 @@
     "cidade": "Brusque - SC",
     "contato": "Daniel",
     "telefone": "nan",
-    "lat": -27.1396392,
-    "lng": -48.9676833,
+    "lat": -27.1442996,
+    "lng": -48.9658976,
     "equipamentos": [
-      "06/10/2023 - 636 - Mach Pro ATCL"
+      "10/06/2023 - 636 - Mach Pro ATCL"
     ]
   },
   {
     "nome": "Estudio 153 Letreiros Ltda",
     "cnpj": null,
     "cidade": "Toledo - PR",
-    "contato": "nan",
-    "telefone": "nan",
-    "lat": -24.7146495,
-    "lng": -53.7361331,
+    "contato": "Gerson",
+    "telefone": "45 99944-0552",
+    "lat": -24.7145178,
+    "lng": -53.744175,
     "equipamentos": [
-      "15/12/2020 - 120 - Ax Pro 2515",
-      "21/11/2022 - 383 - Mach Laser 1490 Potencial"
+      "11/21/2022 - 383 - Mach Laser 1490 Potencial",
+      "12/15/2020 - 120 - Ax Pro 2515"
     ]
   },
   {
@@ -2427,10 +2427,10 @@
     "cidade": "Cajamar - SP",
     "contato": "Aline",
     "telefone": "nan",
-    "lat": -23.355,
-    "lng": -46.8781,
+    "lat": -23.3108546,
+    "lng": -46.9124378,
     "equipamentos": [
-      "15/08/2019 - nan - Elite 3020+vácuo"
+      "8/15/2019 - nan - Elite 3020+vácuo"
     ]
   },
   {
@@ -2442,7 +2442,7 @@
     "lat": -19.953056,
     "lng": -45.084166,
     "equipamentos": [
-      "14/05/2021 - 177 - (1) Spark 8060"
+      "5/14/2021 - 177 - (1) Spark 8060"
     ]
   },
   {
@@ -2451,10 +2451,10 @@
     "cidade": "Lucas do Rio Verde - MT",
     "contato": "Evandro",
     "telefone": "nan",
-    "lat": -13.0588,
-    "lng": -55.9042,
+    "lat": -13.0971142,
+    "lng": -55.9126343,
     "equipamentos": [
-      "03/12/2020 - 116 - Laser 1390 130W"
+      "12/03/2020 - 116 - Laser 1390 130W"
     ]
   },
   {
@@ -2463,10 +2463,10 @@
     "cidade": "Ipatinga - MG",
     "contato": "Marilene",
     "telefone": "nan",
-    "lat": -19.7889154,
-    "lng": -42.1364323,
+    "lat": -19.7888738,
+    "lng": -42.136555,
     "equipamentos": [
-      "17/03/2022 - 271 - Laser 1490 4º eixo"
+      "3/17/2022 - 271 - Laser 1490 4º eixo"
     ]
   },
   {
@@ -2475,11 +2475,11 @@
     "cidade": "Ceres - GO",
     "contato": "Bruno",
     "telefone": "nan",
-    "lat": -15.3096633,
-    "lng": -49.6025871,
+    "lat": -15.3103568,
+    "lng": -49.6032054,
     "equipamentos": [
-      "21/03/2025 - 1450 - Laser 1390",
-      "26/02/2025 - 1450 - 5019 Dna + coletor"
+      "2/26/2025 - 1450 - 5019 Dna + coletor",
+      "3/21/2025 - 1450 - Laser 1390"
     ]
   },
   {
@@ -2488,23 +2488,23 @@
     "cidade": "Belo Horizonte - MG",
     "contato": "Rafael",
     "telefone": "nan",
-    "lat": -19.907017,
-    "lng": -44.026674,
+    "lat": -19.9066435,
+    "lng": -44.0357535,
     "equipamentos": [
-      "08/09/2023 - 606 - Mach Pro Turbo",
-      "16/01/2024 - 731 - Edge 5"
+      "09/08/2023 - 606 - Mach Pro Turbo",
+      "1/16/2024 - 731 - Edge 5"
     ]
   },
   {
-    "nome": "F Pereira  Dias/ anterior Soberano Móveis",
+    "nome": "F Pereira Dias/ anterior Soberano Móveis",
     "cnpj": null,
     "cidade": "Canaã dos Carajás - PA",
     "contato": "Diego",
     "telefone": "nan",
-    "lat": -6.49659,
-    "lng": -49.8776,
+    "lat": -6.5174363,
+    "lng": -49.8638952,
     "equipamentos": [
-      "28/10/2020 - 92 - Elite X 3020 2S"
+      "10/28/2020 - 92 - Elite X 3020 2S"
     ]
   },
   {
@@ -2516,7 +2516,7 @@
     "lat": -27.0020228,
     "lng": -48.6466161,
     "equipamentos": [
-      "12/07/2021 - 195 - Elite X esp"
+      "07/12/2021 - 195 - Elite X esp"
     ]
   },
   {
@@ -2525,12 +2525,12 @@
     "cidade": "Ituporanga - SC",
     "contato": "Ricardo",
     "telefone": "nan",
-    "lat": -27.4101,
-    "lng": -49.5963,
+    "lat": -27.3990091,
+    "lng": -49.6035661,
     "equipamentos": [
-      "19/02/2021 - 147/189 - Ultimate",
-      "26/11/2021 - 232/233 - Elite ATC L 2819 Especial",
-      "28/05/2021 - 184 - Laser 1490"
+      "11/26/2021 - 232/233 - Elite ATC L 2819 Especial",
+      "2/19/2021 - 147/189 - Ultimate",
+      "5/28/2021 - 184 - Laser 1490"
     ]
   },
   {
@@ -2539,10 +2539,10 @@
     "cidade": "Ipatinga - MG",
     "contato": "José Geraldo",
     "telefone": "nan",
-    "lat": -19.4461247,
-    "lng": -42.3608628,
+    "lat": -19.411389,
+    "lng": -42.42,
     "equipamentos": [
-      "24/03/2022 - 274 - Mach Pro ATCL ESP"
+      "3/24/2022 - 274 - Mach Pro ATCL ESP"
     ]
   },
   {
@@ -2551,10 +2551,10 @@
     "cidade": "Nova Iguaçu - RJ",
     "contato": "Mauricio",
     "telefone": "nan",
-    "lat": -22.7556,
-    "lng": -43.4603,
+    "lat": -22.7322773,
+    "lng": -43.5000645,
     "equipamentos": [
-      "07/08/2025 - 1870 - Edge 8 Turbo"
+      "08/07/2025 - 1870 - Edge 8 Turbo"
     ]
   },
   {
@@ -2563,10 +2563,10 @@
     "cidade": "Imbituva - PR",
     "contato": "Lutero",
     "telefone": "nan",
-    "lat": -25.1835776,
-    "lng": -50.6463263,
+    "lat": -25.2293338,
+    "lng": -50.6051002,
     "equipamentos": [
-      "25/03/2025 - 1516 - Turbo Duo Dna + Edge 8 Turbo"
+      "3/25/2025 - 1516 - Turbo Duo Dna + Edge 8 Turbo"
     ]
   },
   {
@@ -2575,10 +2575,10 @@
     "cidade": "Içara - SC",
     "contato": "Douglas-Dinabox",
     "telefone": "nan",
-    "lat": -28.7132,
-    "lng": -49.3087,
+    "lat": -28.7528099,
+    "lng": -49.2965098,
     "equipamentos": [
-      "20/11/2019 - nan - Evo 3020/2020"
+      "11/20/2019 - nan - Evo 3020/2020"
     ]
   },
   {
@@ -2587,10 +2587,10 @@
     "cidade": "Caldas Novas - GO",
     "contato": "Felipe",
     "telefone": "nan",
-    "lat": -17.7441,
-    "lng": -48.6246,
+    "lat": -17.7389514,
+    "lng": -48.6382997,
     "equipamentos": [
-      "25/05/2020 - nan - AX Pro 3020"
+      "5/25/2020 - nan - AX Pro 3020"
     ]
   },
   {
@@ -2599,10 +2599,10 @@
     "cidade": "Nova Friburgo - RJ",
     "contato": "Felipe",
     "telefone": "nan",
-    "lat": -22.2932,
-    "lng": -42.5377,
+    "lat": -22.3256764,
+    "lng": -42.477383,
     "equipamentos": [
-      "14/08/2025 - 1894 - Turbo Duo Dna"
+      "8/14/2025 - 1894 - Turbo Duo Dna"
     ]
   },
   {
@@ -2611,10 +2611,10 @@
     "cidade": "Campo Mourão - PR",
     "contato": "Felipe/Igor",
     "telefone": "nan",
-    "lat": -24.0243428,
-    "lng": -52.3643645,
+    "lat": -24.04462,
+    "lng": -52.3772627,
     "equipamentos": [
-      "12/07/2023 - 544 - Spark 2819"
+      "07/12/2023 - 544 - Spark 2819"
     ]
   },
   {
@@ -2623,10 +2623,10 @@
     "cidade": "São Bento do Sul - SC",
     "contato": "Sr Geraldo",
     "telefone": "nan",
-    "lat": -26.2495,
-    "lng": -49.3831,
+    "lat": -26.2063207,
+    "lng": -49.3601763,
     "equipamentos": [
-      "30/01/2020 - nan - Plasma/Oxic 3126"
+      "1/30/2020 - nan - Plasma/Oxic 3126"
     ]
   },
   {
@@ -2635,10 +2635,10 @@
     "cidade": "Blumenau - SC",
     "contato": "Jacques",
     "telefone": "nan",
-    "lat": -26.9155,
-    "lng": -49.0709,
+    "lat": -26.9195567,
+    "lng": -49.0658025,
     "equipamentos": [
-      "28/01/2021 - 139 - Elite 2013 especial"
+      "1/28/2021 - 139 - Elite 2013 especial"
     ]
   },
   {
@@ -2650,7 +2650,7 @@
     "lat": -26.281566,
     "lng": -49.3819649,
     "equipamentos": [
-      "16/07/2024 - 970 - ATCL Dna"
+      "7/16/2024 - 970 - ATCL Dna"
     ]
   },
   {
@@ -2659,10 +2659,10 @@
     "cidade": "Osasco - SP",
     "contato": "Ismael",
     "telefone": "nan",
-    "lat": -23.5324,
-    "lng": -46.7916,
+    "lat": -23.5299744,
+    "lng": -46.7825411,
     "equipamentos": [
-      "11/04/2025 - 1546 - MCU Compacta 1200"
+      "04/11/2025 - 1546 - MCU Compacta 1200"
     ]
   },
   {
@@ -2671,10 +2671,10 @@
     "cidade": "Dracena - SP",
     "contato": "Evandro",
     "telefone": "nan",
-    "lat": -21.4843,
-    "lng": -51.535,
+    "lat": -21.4884653,
+    "lng": -51.5325767,
     "equipamentos": [
-      "15/02/2022 - 257 - Elite ATC L"
+      "2/15/2022 - 257 - Elite ATC L"
     ]
   },
   {
@@ -2686,7 +2686,7 @@
     "lat": -3.8112553,
     "lng": -38.5086124,
     "equipamentos": [
-      "28/02/2022 - 264 - Evo 5019"
+      "2/28/2022 - 264 - Evo 5019"
     ]
   },
   {
@@ -2698,7 +2698,7 @@
     "lat": -16.7426675,
     "lng": -49.2190629,
     "equipamentos": [
-      "30/11/2021 - 241 - Elite Duo"
+      "11/30/2021 - 241 - Elite Duo"
     ]
   },
   {
@@ -2710,7 +2710,7 @@
     "lat": -31.7482241,
     "lng": -52.3878485,
     "equipamentos": [
-      "12/09/2023 - 612 - Laser 1490 e 4°eixo"
+      "09/12/2023 - 612 - Laser 1490 e 4°eixo"
     ]
   },
   {
@@ -2719,10 +2719,10 @@
     "cidade": "Dracena - SP",
     "contato": "Gabriel",
     "telefone": "nan",
-    "lat": -21.4843,
-    "lng": -51.535,
+    "lat": -21.4884653,
+    "lng": -51.5325767,
     "equipamentos": [
-      "02/08/2022 - 339 - Mach Pro ATCL"
+      "08/02/2022 - 339 - Mach Pro ATCL"
     ]
   },
   {
@@ -2731,10 +2731,10 @@
     "cidade": "Assis - SP",
     "contato": "Carlos Eugenio",
     "telefone": "nan",
-    "lat": -22.6382505,
-    "lng": -50.3963182,
+    "lat": -22.6366928,
+    "lng": -50.4030114,
     "equipamentos": [
-      "14/06/2024 - 911 - Turbo Duo Dna"
+      "6/14/2024 - 911 - Turbo Duo Dna"
     ]
   },
   {
@@ -2743,10 +2743,10 @@
     "cidade": "Franco da Rocha - SP",
     "contato": "Gilberto",
     "telefone": "nan",
-    "lat": -23.3229,
-    "lng": -46.729,
+    "lat": -23.297173,
+    "lng": -46.7067854,
     "equipamentos": [
-      "31/07/2023 - 566 - 5019+1325+usado"
+      "7/31/2023 - 566 - 5019+1325+usado"
     ]
   },
   {
@@ -2755,11 +2755,11 @@
     "cidade": "Palmares - PE",
     "contato": "Ednilson Neto",
     "telefone": "nan",
-    "lat": -8.6789139,
-    "lng": -35.5868582,
+    "lat": -8.684226,
+    "lng": -35.589032,
     "equipamentos": [
-      "03/06/2024 - 886 - Edge 5 e coletor 7,5CV",
-      "03/06/2024 - 898 - Turbo Dna e coletor 7,5CV"
+      "06/03/2024 - 886 - Edge 5 e coletor 7,5CV",
+      "06/03/2024 - 898 - Turbo Dna e coletor 7,5CV"
     ]
   },
   {
@@ -2771,7 +2771,7 @@
     "lat": -24.1795192,
     "lng": -51.6927177,
     "equipamentos": [
-      "12/09/2025 - 1996 - Edge 5"
+      "09/12/2025 - 1996 - Edge 5"
     ]
   },
   {
@@ -2780,10 +2780,10 @@
     "cidade": "Brasília - DF",
     "contato": "Moacir",
     "telefone": "nan",
-    "lat": -15.7664316,
-    "lng": -47.7899323,
+    "lat": -15.7508868,
+    "lng": -47.9250462,
     "equipamentos": [
-      "12/06/2025 - 1692 - ATCL"
+      "06/12/2025 - 1692 - ATCL"
     ]
   },
   {
@@ -2792,10 +2792,10 @@
     "cidade": "Carambeí - PR",
     "contato": "Adilson",
     "telefone": "nan",
-    "lat": -24.9480708,
-    "lng": -50.1280414,
+    "lat": -24.9513298,
+    "lng": -50.1171293,
     "equipamentos": [
-      "03/11/2022 - 380 - Bcam Duo"
+      "11/03/2022 - 380 - Bcam Duo"
     ]
   },
   {
@@ -2804,10 +2804,10 @@
     "cidade": "Nova Serrana - MG",
     "contato": "Dica",
     "telefone": "nan",
-    "lat": -19.8713,
-    "lng": -44.9847,
+    "lat": -19.8861288,
+    "lng": -44.9811147,
     "equipamentos": [
-      "28/07/2021 - 196 - Elite X Esp 1279"
+      "7/28/2021 - 196 - Elite X Esp 1279"
     ]
   },
   {
@@ -2819,7 +2819,7 @@
     "lat": -20.4978536,
     "lng": -47.4055889,
     "equipamentos": [
-      "30/06/2025 - 1745 - Edge 8 Turbo"
+      "6/30/2025 - 1745 - Edge 8 Turbo"
     ]
   },
   {
@@ -2828,10 +2828,10 @@
     "cidade": "Gramado - RS",
     "contato": "Alvaro",
     "telefone": "nan",
-    "lat": -29.3734,
-    "lng": -50.8762,
+    "lat": -29.3792867,
+    "lng": -50.8792104,
     "equipamentos": [
-      "04/08/2025 - 1896 - ATCL Dna"
+      "08/04/2025 - 1896 - ATCL Dna"
     ]
   },
   {
@@ -2840,10 +2840,10 @@
     "cidade": "Bombinhas - SC",
     "contato": "Gean",
     "telefone": "nan",
-    "lat": -27.1492275,
-    "lng": -48.5141553,
+    "lat": -27.1519159,
+    "lng": -48.4875691,
     "equipamentos": [
-      "26/08/2021 - 203 - Master ATC L"
+      "8/26/2021 - 203 - Master ATC L"
     ]
   },
   {
@@ -2852,8 +2852,8 @@
     "cidade": "São Luís - MA",
     "contato": "Sr Gilson",
     "telefone": "nan",
-    "lat": -2.603,
-    "lng": -44.2219,
+    "lat": -2.5291054,
+    "lng": -44.3065662,
     "equipamentos": [
       "07/07/2021 - 185 - Elite Super Drill"
     ]
@@ -2864,10 +2864,10 @@
     "cidade": "São Paulo - SP",
     "contato": "Douglas",
     "telefone": "nan",
-    "lat": -23.5329,
-    "lng": -46.6395,
+    "lat": -23.5383214,
+    "lng": -46.6391624,
     "equipamentos": [
-      "09/10/2023 - 671 - Turbo Duo"
+      "10/09/2023 - 671 - Turbo Duo"
     ]
   },
   {
@@ -2876,10 +2876,10 @@
     "cidade": "Dois Córregos - SP",
     "contato": "Antonio",
     "telefone": "nan",
-    "lat": -22.3673,
-    "lng": -48.3819,
+    "lat": -22.9942809,
+    "lng": -47.0048233,
     "equipamentos": [
-      "21/07/2022 - 332 - Master Duo"
+      "7/21/2022 - 332 - Master Duo"
     ]
   },
   {
@@ -2888,10 +2888,10 @@
     "cidade": "Mafra - SC",
     "contato": "Rafael",
     "telefone": "nan",
-    "lat": -26.1159,
-    "lng": -49.8086,
+    "lat": -26.1550994,
+    "lng": -49.8237585,
     "equipamentos": [
-      "28/11/2023 - 690 - Mach Pro ATCL (Elite)"
+      "11/28/2023 - 690 - Mach Pro ATCL (Elite)"
     ]
   },
   {
@@ -2900,10 +2900,10 @@
     "cidade": "Marabá - PA",
     "contato": "Fábio",
     "telefone": "nan",
-    "lat": -5.38075,
-    "lng": -49.1327,
+    "lat": -5.6573152,
+    "lng": -49.7996545,
     "equipamentos": [
-      "15/10/2020 - 81 - Elite X 3020"
+      "10/15/2020 - 81 - Elite X 3020"
     ]
   },
   {
@@ -2912,10 +2912,10 @@
     "cidade": "Rio de Janeiro - RJ",
     "contato": "Daniel",
     "telefone": "nan",
-    "lat": -22.9129,
-    "lng": -43.2003,
+    "lat": -22.9080777,
+    "lng": -43.1790268,
     "equipamentos": [
-      "03/11/2020 - 102 - Laser 1390"
+      "11/03/2020 - 102 - Laser 1390"
     ]
   },
   {
@@ -2924,10 +2924,10 @@
     "cidade": "São José - SC",
     "contato": "Adriana",
     "telefone": "nan",
-    "lat": -27.7151565,
-    "lng": -48.6490204,
+    "lat": -27.6748257,
+    "lng": -48.6711818,
     "equipamentos": [
-      "02/06/2022 - 308 - Mach Pro 1S"
+      "06/02/2022 - 308 - Mach Pro 1S"
     ]
   },
   {
@@ -2936,10 +2936,10 @@
     "cidade": "São Domingos do Norte - ES",
     "contato": "Felipe/ Walace",
     "telefone": "nan",
-    "lat": -19.0773574,
-    "lng": -40.4188152,
+    "lat": -19.1461276,
+    "lng": -40.6214803,
     "equipamentos": [
-      "27/01/2021 - 134 - Master esp 3725"
+      "1/27/2021 - 134 - Master esp 3725"
     ]
   },
   {
@@ -2951,8 +2951,8 @@
     "lat": -26.1843027,
     "lng": -50.3756131,
     "equipamentos": [
-      "04/07/2025 - 1765 - Edge 5",
-      "20/06/2025 - 1718 - Elite Super Drill"
+      "07/04/2025 - 1765 - Edge 5",
+      "6/20/2025 - 1718 - Elite Super Drill"
     ]
   },
   {
@@ -2964,7 +2964,7 @@
     "lat": -26.1843027,
     "lng": -50.3756131,
     "equipamentos": [
-      "04/07/2025 - 1718 - Turbo Dna + coletor"
+      "07/04/2025 - 1718 - Turbo Dna + coletor"
     ]
   },
   {
@@ -2976,8 +2976,8 @@
     "lat": -25.5292734,
     "lng": -49.1926655,
     "equipamentos": [
-      "27/06/2022 - 314 - Mach Pro ATCL",
-      "30/09/2025 - 2061 - Coladeira EDGE 6"
+      "6/27/2022 - 314 - Mach Pro ATCL",
+      "9/30/2025 - 2061 - Coladeira EDGE 6"
     ]
   },
   {
@@ -2986,11 +2986,11 @@
     "cidade": "São Paulo - SP",
     "contato": "Humberto",
     "telefone": "nan",
-    "lat": -23.5329,
-    "lng": -46.6395,
+    "lat": -23.5383214,
+    "lng": -46.6391624,
     "equipamentos": [
-      "03/11/2023 - 670 - Centro e Secccionadora",
-      "18/03/2022 - 270 - Mach Pro ATCL"
+      "11/03/2023 - 670 - Centro e Secccionadora",
+      "3/18/2022 - 270 - Mach Pro ATCL"
     ]
   },
   {
@@ -3002,7 +3002,7 @@
     "lat": -19.8142967,
     "lng": -43.9922941,
     "equipamentos": [
-      "24/07/2025 - 1810 - ATCL Dna"
+      "7/24/2025 - 1810 - ATCL Dna"
     ]
   },
   {
@@ -3014,7 +3014,7 @@
     "lat": -27.6064594,
     "lng": -48.5359889,
     "equipamentos": [
-      "18/10/2022 - 370 - Mach Laser 1390+4º eixo e lente"
+      "10/18/2022 - 370 - Mach Laser 1390+4º eixo e lente"
     ]
   },
   {
@@ -3023,10 +3023,10 @@
     "cidade": "Osório - RS",
     "contato": "Hiago",
     "telefone": "nan",
-    "lat": -29.8992512,
-    "lng": -50.2476061,
+    "lat": -29.8890733,
+    "lng": -50.2740498,
     "equipamentos": [
-      "26/03/2025 - 1526 - Edge 6"
+      "3/26/2025 - 1526 - Edge 6"
     ]
   },
   {
@@ -3035,10 +3035,10 @@
     "cidade": "Guabiruba - SC",
     "contato": "Jean",
     "telefone": "nan",
-    "lat": -27.0848003,
-    "lng": -48.9727146,
+    "lat": -27.0864326,
+    "lng": -48.9781319,
     "equipamentos": [
-      "11/10/2023 - 641 - Spark 2819"
+      "10/11/2023 - 641 - Spark 2819"
     ]
   },
   {
@@ -3047,10 +3047,10 @@
     "cidade": "Guabiruba - SC",
     "contato": "Jean",
     "telefone": "nan",
-    "lat": -27.0808,
-    "lng": -48.9804,
+    "lat": -27.0848003,
+    "lng": -48.9727146,
     "equipamentos": [
-      "17/12/2019 - nan - Master 3020/2020"
+      "12/17/2019 - nan - Master 3020/2020"
     ]
   },
   {
@@ -3062,7 +3062,7 @@
     "lat": -29.9296579,
     "lng": -51.0225625,
     "equipamentos": [
-      "19/09/2024 - 1100 - Mach Pro ATCL dna"
+      "9/19/2024 - 1100 - Mach Pro ATCL dna"
     ]
   },
   {
@@ -3074,9 +3074,9 @@
     "lat": -23.2125846,
     "lng": -47.2828625,
     "equipamentos": [
-      "03/12/2024 - 1274 - ATCL Dna",
-      "03/12/2024 - 1274 - COLETOR DE PÓ 10 CV",
-      "03/12/2024 - 1274 - Edge 5"
+      "12/03/2024 - 1274 - ATCL Dna",
+      "12/03/2024 - 1274 - COLETOR DE PÓ 10 CV",
+      "12/03/2024 - 1274 - Edge 5"
     ]
   },
   {
@@ -3085,10 +3085,10 @@
     "cidade": "Marataízes - ES",
     "contato": "Rafael",
     "telefone": "nan",
-    "lat": -21.020248,
-    "lng": -40.8115312,
+    "lat": -21.0443673,
+    "lng": -40.8272204,
     "equipamentos": [
-      "31/08/2023 - 588 - Spark 2819"
+      "8/31/2023 - 588 - Spark 2819"
     ]
   },
   {
@@ -3100,7 +3100,7 @@
     "lat": -21.0716128,
     "lng": -42.6371378,
     "equipamentos": [
-      "11/07/2025 - 1785 - ATCL Dna"
+      "07/11/2025 - 1785 - ATCL Dna"
     ]
   },
   {
@@ -3112,7 +3112,7 @@
     "lat": -19.6988548,
     "lng": -43.9583194,
     "equipamentos": [
-      "04/07/2024 - 938 - Edge 7 com arredondador"
+      "07/04/2024 - 938 - Edge 7 com arredondador"
     ]
   },
   {
@@ -3124,7 +3124,7 @@
     "lat": -25.0977405,
     "lng": -50.1228967,
     "equipamentos": [
-      "14/08/2024 - 1030 - Mach Door especial + Equip"
+      "8/14/2024 - 1030 - Mach Door especial + Equip"
     ]
   },
   {
@@ -3136,7 +3136,7 @@
     "lat": -27.6043658,
     "lng": -48.6671735,
     "equipamentos": [
-      "02/10/2025 - 2065 - Coladeira EDGE 6"
+      "10/02/2025 - 2065 - Coladeira EDGE 6"
     ]
   },
   {
@@ -3148,7 +3148,7 @@
     "lat": null,
     "lng": null,
     "equipamentos": [
-      "15/03/2024 - 804 - Turbo Dna"
+      "3/15/2024 - 804 - Turbo Dna"
     ]
   },
   {
@@ -3157,10 +3157,10 @@
     "cidade": "Fortaleza - CE",
     "contato": "André",
     "telefone": "nan",
-    "lat": -3.71664,
-    "lng": -38.5423,
+    "lat": -3.8335027,
+    "lng": -38.4641217,
     "equipamentos": [
-      "20/01/2023 - 409 - Spark 2819"
+      "1/20/2023 - 409 - Spark 2819"
     ]
   },
   {
@@ -3172,7 +3172,7 @@
     "lat": -25.3390681,
     "lng": -49.20908,
     "equipamentos": [
-      "27/05/2022 - 305 - Mach Pro 5019"
+      "5/27/2022 - 305 - Mach Pro 5019"
     ]
   },
   {
@@ -3181,10 +3181,10 @@
     "cidade": "Maringá - PR",
     "contato": "Thiago",
     "telefone": "nan",
-    "lat": -23.4205,
-    "lng": -51.9333,
+    "lat": -23.2064992,
+    "lng": -45.8948505,
     "equipamentos": [
-      "25/06/2020 - nan - Ax Pro 3020"
+      "6/25/2020 - nan - Ax Pro 3020"
     ]
   },
   {
@@ -3193,11 +3193,11 @@
     "cidade": "Campina Grande - PB",
     "contato": "Caio",
     "telefone": "nan",
-    "lat": -7.2407038,
-    "lng": -35.8980565,
+    "lat": -7.2143781,
+    "lng": -36.0073718,
     "equipamentos": [
-      "05/06/2023 - 515 - Spark 2819",
-      "05/06/2023 - 516 - Spark 2819"
+      "06/05/2023 - 515 - Spark 2819",
+      "06/05/2023 - 516 - Spark 2819"
     ]
   },
   {
@@ -3206,10 +3206,10 @@
     "cidade": "Nova Serrana - MG",
     "contato": "Rogério",
     "telefone": "nan",
-    "lat": -19.8713,
-    "lng": -44.9847,
+    "lat": -19.8861288,
+    "lng": -44.9811147,
     "equipamentos": [
-      "13/11/2020 - 132 - Spark 8060"
+      "11/13/2020 - 132 - Spark 8060"
     ]
   },
   {
@@ -3218,10 +3218,10 @@
     "cidade": "Irani - SC",
     "contato": "Davi/ Ismael",
     "telefone": "nan",
-    "lat": -27.0228809,
-    "lng": -51.9024681,
+    "lat": -27.0230476,
+    "lng": -51.9010675,
     "equipamentos": [
-      "26/01/2023 - 421 - Mach Pro Turbo"
+      "1/26/2023 - 421 - Mach Pro Turbo"
     ]
   },
   {
@@ -3230,10 +3230,10 @@
     "cidade": "Campina Grande - PB",
     "contato": "Caio",
     "telefone": "nan",
-    "lat": -7.22196,
-    "lng": -35.8731,
+    "lat": -7.2407038,
+    "lng": -35.8980565,
     "equipamentos": [
-      "23/11/2020 - 110 - Elite X 2819"
+      "11/23/2020 - 110 - Elite X 2819"
     ]
   },
   {
@@ -3242,10 +3242,10 @@
     "cidade": "Guaramirim - SC",
     "contato": "Jean",
     "telefone": "nan",
-    "lat": -26.4742721,
-    "lng": -49.0010955,
+    "lat": -26.4744805,
+    "lng": -48.9981151,
     "equipamentos": [
-      "07/08/2025 - 1879 - Turbo Duo Dna com mesa"
+      "08/07/2025 - 1879 - Turbo Duo Dna com mesa"
     ]
   },
   {
@@ -3254,10 +3254,10 @@
     "cidade": "Balneário Camboriú - SC",
     "contato": "Samuel",
     "telefone": "nan",
-    "lat": -27.0135649,
-    "lng": -48.6172804,
+    "lat": -26.9982837,
+    "lng": -48.6259119,
     "equipamentos": [
-      "29/08/2025 - 1938 - Turbo Duo Dna"
+      "8/29/2025 - 1938 - Turbo Duo Dna"
     ]
   },
   {
@@ -3266,10 +3266,10 @@
     "cidade": "Irani - SC",
     "contato": "Davi",
     "telefone": "nan",
-    "lat": -27.0228809,
-    "lng": -51.9024681,
+    "lat": -27.0230476,
+    "lng": -51.9010675,
     "equipamentos": [
-      "01/03/2024 - 788 - Turbo especial"
+      "03/01/2024 - 788 - Turbo especial"
     ]
   },
   {
@@ -3278,10 +3278,10 @@
     "cidade": "Joinville - SC",
     "contato": "Sr Ingo",
     "telefone": "nan",
-    "lat": -26.3045,
-    "lng": -48.8487,
+    "lat": -26.3044898,
+    "lng": -48.8486726,
     "equipamentos": [
-      "22/11/2022 - 385 - Spark 1310"
+      "11/22/2022 - 385 - Spark 1310"
     ]
   },
   {
@@ -3293,8 +3293,8 @@
     "lat": -22.3753684,
     "lng": -47.555449,
     "equipamentos": [
-      "27/04/2023 - 482 - Mach 5 eixos",
-      "27/04/2023 - 483 - Elite Esp"
+      "4/27/2023 - 482 - Mach 5 eixos",
+      "4/27/2023 - 483 - Elite Esp"
     ]
   },
   {
@@ -3303,10 +3303,10 @@
     "cidade": "Limeira - SP",
     "contato": "Leandro",
     "telefone": "nan",
-    "lat": -22.566,
-    "lng": -47.397,
+    "lat": -22.5491704,
+    "lng": -47.4114475,
     "equipamentos": [
-      "15/07/2020 - nan - Elite S TAF 3020"
+      "7/15/2020 - nan - Elite S TAF 3020"
     ]
   },
   {
@@ -3315,10 +3315,10 @@
     "cidade": "Curitiba - PR",
     "contato": "Rafael",
     "telefone": "nan",
-    "lat": -25.4398052,
-    "lng": -49.7497133,
+    "lat": -25.4372457,
+    "lng": -49.3033661,
     "equipamentos": [
-      "28/05/2025 - 1675 - Turbo Duo Dna"
+      "5/28/2025 - 1675 - Turbo Duo Dna"
     ]
   },
   {
@@ -3330,7 +3330,7 @@
     "lat": -7.0815455,
     "lng": -41.4528375,
     "equipamentos": [
-      "18/10/2025 - 2113 - ATCL Dna 2819"
+      "10/18/2025 - 2113 - ATCL Dna 2819"
     ]
   },
   {
@@ -3339,10 +3339,10 @@
     "cidade": "Duque de Caxias - RJ",
     "contato": "Marcelo",
     "telefone": "nan",
-    "lat": -22.6449873,
-    "lng": -43.3062999,
+    "lat": -22.6634858,
+    "lng": -43.2922586,
     "equipamentos": [
-      "08/04/2025 - 1554 - MACH DRILL TOP 2S"
+      "04/08/2025 - 1554 - MACH DRILL TOP 2S"
     ]
   },
   {
@@ -3351,10 +3351,10 @@
     "cidade": "Macaé - RJ",
     "contato": "Rodrigo",
     "telefone": "nan",
-    "lat": -22.3768,
-    "lng": -41.7848,
+    "lat": -22.3414389,
+    "lng": -41.7616326,
     "equipamentos": [
-      "11/08/2022 - 342 - Mach Pro Turbo"
+      "08/11/2022 - 342 - Mach Pro Turbo"
     ]
   },
   {
@@ -3366,7 +3366,7 @@
     "lat": -2.5761912,
     "lng": -44.2174758,
     "equipamentos": [
-      "20/06/2024 - 917 - SPARK 2819 Dna"
+      "6/20/2024 - 917 - SPARK 2819 Dna"
     ]
   },
   {
@@ -3375,10 +3375,10 @@
     "cidade": "Iapu - MG",
     "contato": "Zezinho",
     "telefone": "nan",
-    "lat": -19.4262634,
-    "lng": -42.2533843,
+    "lat": -19.436389,
+    "lng": -42.217223,
     "equipamentos": [
-      "23/06/2025 - 1725 - Turbo Dna"
+      "6/23/2025 - 1725 - Turbo Dna"
     ]
   },
   {
@@ -3387,10 +3387,10 @@
     "cidade": "Alvorada - RS",
     "contato": "Jonatas",
     "telefone": "nan",
-    "lat": -29.9914,
-    "lng": -51.0809,
+    "lat": -29.9981184,
+    "lng": -51.0772509,
     "equipamentos": [
-      "17/10/2024 - 1174 - Turbo Dna"
+      "10/17/2024 - 1174 - Turbo Dna"
     ]
   },
   {
@@ -3402,7 +3402,7 @@
     "lat": -16.1098059,
     "lng": -47.9300303,
     "equipamentos": [
-      "14/08/2024 - 1025 - Mach Laser 1390"
+      "8/14/2024 - 1025 - Mach Laser 1390"
     ]
   },
   {
@@ -3411,11 +3411,11 @@
     "cidade": "Mogi das Cruzes - SP",
     "contato": "Matheus",
     "telefone": "nan",
-    "lat": -23.5208,
-    "lng": -46.1854,
+    "lat": -23.5521163,
+    "lng": -46.2342052,
     "equipamentos": [
-      "06/11/2024 - 1208 - Edge 6",
-      "30/08/2024 - 980 - Turbo Duo Dna"
+      "11/06/2024 - 1208 - Edge 6",
+      "8/30/2024 - 980 - Turbo Duo Dna"
     ]
   },
   {
@@ -3424,10 +3424,10 @@
     "cidade": "Cunha Porã - SC",
     "contato": "Jackson",
     "telefone": "nan",
-    "lat": -26.8919938,
-    "lng": -53.1639771,
+    "lat": -26.8927163,
+    "lng": -53.1716516,
     "equipamentos": [
-      "23/02/2024 - 777 - Turbo Duo"
+      "2/23/2024 - 777 - Turbo Duo"
     ]
   },
   {
@@ -3436,10 +3436,10 @@
     "cidade": "Araquari - SC",
     "contato": "Jair",
     "telefone": "nan",
-    "lat": -26.4209144,
-    "lng": -48.7913052,
+    "lat": -26.3703324,
+    "lng": -48.7210994,
     "equipamentos": [
-      "25/06/2024 - 925 - Edge 5"
+      "6/25/2024 - 925 - Edge 5"
     ]
   },
   {
@@ -3448,10 +3448,10 @@
     "cidade": "Botuverá - SC",
     "contato": "Mari / Karine",
     "telefone": "nan",
-    "lat": -27.199098,
-    "lng": -49.0735885,
+    "lat": -27.1990695,
+    "lng": -49.0726471,
     "equipamentos": [
-      "15/05/2023 - 476 - Mach Pro ATCL"
+      "5/15/2023 - 476 - Mach Pro ATCL"
     ]
   },
   {
@@ -3460,11 +3460,11 @@
     "cidade": "Duque de Caxias - RJ",
     "contato": "Marcelo",
     "telefone": "nan",
-    "lat": -22.6449873,
-    "lng": -43.3062999,
+    "lat": -22.6634858,
+    "lng": -43.2922586,
     "equipamentos": [
-      "12/07/2024 - 992 - Edge 8",
-      "12/07/2024 - 992 - Turbo Duo Dna"
+      "07/12/2024 - 992 - Edge 8",
+      "07/12/2024 - 992 - Turbo Duo Dna"
     ]
   },
   {
@@ -3473,10 +3473,10 @@
     "cidade": "Manaus - AM",
     "contato": "Gilberto",
     "telefone": "nan",
-    "lat": -2.9838521,
-    "lng": -60.0511359,
+    "lat": -2.9910224,
+    "lng": -60.0480604,
     "equipamentos": [
-      "20/12/2024 - 1313 - ATCL Dna"
+      "12/20/2024 - 1313 - ATCL Dna"
     ]
   },
   {
@@ -3485,10 +3485,10 @@
     "cidade": "Senador Canedo - GO",
     "contato": "Gustavo",
     "telefone": "nan",
-    "lat": -16.7066412,
-    "lng": -49.0859033,
+    "lat": -16.7210235,
+    "lng": -49.1464965,
     "equipamentos": [
-      "16/07/2024 - 971 - Mach Door especial"
+      "7/16/2024 - 971 - Mach Door especial"
     ]
   },
   {
@@ -3500,7 +3500,7 @@
     "lat": -29.4521243,
     "lng": -49.9190608,
     "equipamentos": [
-      "30/09/2024 - 1158 - Turbo Dna"
+      "9/30/2024 - 1158 - Turbo Dna"
     ]
   },
   {
@@ -3509,10 +3509,10 @@
     "cidade": "Belo Horizonte - MG",
     "contato": "Harley",
     "telefone": "nan",
-    "lat": -19.9102,
-    "lng": -43.9266,
+    "lat": -19.850977,
+    "lng": -43.949192,
     "equipamentos": [
-      "14/07/2020 - 27 - Elite X 3020"
+      "7/14/2020 - 27 - Elite X 3020"
     ]
   },
   {
@@ -3520,11 +3520,11 @@
     "cnpj": null,
     "cidade": "São Bernardo do Campo - SP",
     "contato": "Jessimar",
-    "telefone": "nan",
-    "lat": -23.6914,
-    "lng": -46.5646,
+    "telefone": "11 99486-6142",
+    "lat": -23.7080345,
+    "lng": -46.5506747,
     "equipamentos": [
-      "04/09/2019 - nan - Elite 1280"
+      "09/04/2019 - nan - Elite 1280"
     ]
   },
   {
@@ -3533,10 +3533,10 @@
     "cidade": "Siqueira Campos - PR",
     "contato": "Jhony- Usa Gabster",
     "telefone": "nan",
-    "lat": -23.6875,
-    "lng": -49.8304,
+    "lat": -23.6883441,
+    "lng": -49.8336359,
     "equipamentos": [
-      "10/12/2019 - nan - Elite 3020 3020/2020"
+      "12/10/2019 - nan - Elite 3020 3020/2020"
     ]
   },
   {
@@ -3545,10 +3545,10 @@
     "cidade": "Nova Iguaçu - RJ",
     "contato": "Joel",
     "telefone": "nan",
-    "lat": -22.7972742,
-    "lng": -43.5567003,
+    "lat": -22.7668684,
+    "lng": -43.4997218,
     "equipamentos": [
-      "08/04/2024 - 833 - Laser 1325 c/ 4º eixo"
+      "04/08/2024 - 833 - Laser 1325 c/ 4º eixo"
     ]
   },
   {
@@ -3560,7 +3560,7 @@
     "lat": -8.0651695,
     "lng": -34.8773942,
     "equipamentos": [
-      "18/01/2022 - 246 - Evo Super Drill"
+      "1/18/2022 - 246 - Evo Super Drill"
     ]
   },
   {
@@ -3569,23 +3569,23 @@
     "cidade": "Cariacica - ES",
     "contato": "Jeffinho",
     "telefone": "nan",
-    "lat": -20.2580821,
-    "lng": -40.4260265,
+    "lat": -20.3857616,
+    "lng": -40.3706897,
     "equipamentos": [
-      "16/03/2022 - 275 - Mach Pro ATCL",
-      "20/12/2023 - 722 - Edge 5"
+      "12/20/2023 - 722 - Edge 5",
+      "3/16/2022 - 275 - Mach Pro ATCL"
     ]
   },
   {
     "nome": "JMBWIND Brasil",
     "cnpj": null,
     "cidade": "Fortaleza - CE",
-    "contato": "nan",
+    "contato": "Michele",
     "telefone": "99 98805-4376",
-    "lat": -3.7447396,
-    "lng": -38.4999874,
+    "lat": -3.7405105,
+    "lng": -38.498623,
     "equipamentos": [
-      "24/05/2022 - 301 - Master 5 eixos auto plus"
+      "5/24/2022 - 301 - Master 5 eixos auto plus"
     ]
   },
   {
@@ -3594,10 +3594,10 @@
     "cidade": "Caieiras - SP",
     "contato": "Jose Mauricio",
     "telefone": "nan",
-    "lat": -23.3607,
-    "lng": -46.7397,
+    "lat": -23.3661206,
+    "lng": -46.7441311,
     "equipamentos": [
-      "21/12/2022 - 400 - Mach Pro 2819 1S"
+      "12/21/2022 - 400 - Mach Pro 2819 1S"
     ]
   },
   {
@@ -3606,10 +3606,10 @@
     "cidade": "Fortaleza - CE",
     "contato": "Cleber",
     "telefone": "nan",
-    "lat": -3.7488129,
-    "lng": -38.520328,
+    "lat": -3.7437543,
+    "lng": -38.5206161,
     "equipamentos": [
-      "13/08/2025 - 1888 - ATCL Dna"
+      "8/13/2025 - 1888 - ATCL Dna"
     ]
   },
   {
@@ -3618,11 +3618,11 @@
     "cidade": "São Bernardo do Campo - SP",
     "contato": "João",
     "telefone": "nan",
-    "lat": -23.6914,
-    "lng": -46.5646,
+    "lat": -23.7080345,
+    "lng": -46.5506747,
     "equipamentos": [
-      "04/11/2024 - 1220 - Edge 8 Turbo",
-      "04/11/2024 - 1220 - Turbo Duo Dna + 2 und coletor de pó"
+      "11/04/2024 - 1220 - Edge 8 Turbo",
+      "11/04/2024 - 1220 - Turbo Duo Dna + 2 und coletor de pó"
     ]
   },
   {
@@ -3631,10 +3631,10 @@
     "cidade": "São Tomás de Aquino - MG",
     "contato": "João Paulo",
     "telefone": "nan",
-    "lat": -20.7735989,
-    "lng": -47.0998763,
+    "lat": -20.7844139,
+    "lng": -47.097717,
     "equipamentos": [
-      "31/07/2024 - 999 - Edge 6"
+      "7/31/2024 - 999 - Edge 6"
     ]
   },
   {
@@ -3646,7 +3646,7 @@
     "lat": -29.8253589,
     "lng": -51.1478101,
     "equipamentos": [
-      "19/02/2024 - 770 - Spark 2819"
+      "2/19/2024 - 770 - Spark 2819"
     ]
   },
   {
@@ -3655,10 +3655,10 @@
     "cidade": "Itaiópolis - SC",
     "contato": "Joel",
     "telefone": "nan",
-    "lat": -26.339,
-    "lng": -49.9092,
+    "lat": -26.3364395,
+    "lng": -49.9058776,
     "equipamentos": [
-      "23/01/2025 - 1348 - Commander + Coladeira Edge 7"
+      "1/23/2025 - 1348 - Commander + Coladeira Edge 7"
     ]
   },
   {
@@ -3670,7 +3670,7 @@
     "lat": -20.4708687,
     "lng": -54.6347029,
     "equipamentos": [
-      "31/08/2023 - 590 - Mach Pro Turbo"
+      "8/31/2023 - 590 - Mach Pro Turbo"
     ]
   },
   {
@@ -3682,7 +3682,7 @@
     "lat": -25.457467,
     "lng": -49.1792628,
     "equipamentos": [
-      "26/03/2025 - 1504 - Spark Dna"
+      "3/26/2025 - 1504 - Spark Dna"
     ]
   },
   {
@@ -3691,10 +3691,10 @@
     "cidade": "Piên - PR",
     "contato": "Jose Roberto",
     "telefone": "nan",
-    "lat": -26.0965,
-    "lng": -49.4336,
+    "lat": -26.1065724,
+    "lng": -49.4372521,
     "equipamentos": [
-      "29/05/2020 - nan - Spark 2013"
+      "5/29/2020 - nan - Spark 2013"
     ]
   },
   {
@@ -3706,7 +3706,7 @@
     "lat": -26.1250569,
     "lng": -49.8148774,
     "equipamentos": [
-      "21/08/2023 - 582 - Mach Pro ATCL"
+      "8/21/2023 - 582 - Mach Pro ATCL"
     ]
   },
   {
@@ -3718,7 +3718,7 @@
     "lat": -5.0415971,
     "lng": -42.8305975,
     "equipamentos": [
-      "31/01/2025 - 1411 - ATCL Dna"
+      "1/31/2025 - 1411 - ATCL Dna"
     ]
   },
   {
@@ -3727,8 +3727,8 @@
     "cidade": "Ubá - MG",
     "contato": "Juliano",
     "telefone": "32 98875-6916",
-    "lat": -21.1236392,
-    "lng": -42.9210547,
+    "lat": -21.1216155,
+    "lng": -42.9260717,
     "equipamentos": [
       "10/10/2025 - 2107 - Turbo Duo Dna"
     ]
@@ -3739,11 +3739,11 @@
     "cidade": "Capão da Canoa - RS",
     "contato": "Jucemar",
     "telefone": "nan",
-    "lat": -29.7263651,
-    "lng": -49.9993236,
+    "lat": -29.7508278,
+    "lng": -50.0210729,
     "equipamentos": [
-      "12/02/2024 - 1428 - Turbo Dna + coletor",
-      "31/07/2025 - 1843 - Edge 6"
+      "02/12/2024 - 1428 - Turbo Dna + coletor",
+      "7/31/2025 - 1843 - Edge 6"
     ]
   },
   {
@@ -3752,10 +3752,10 @@
     "cidade": "Massaranduba - SC",
     "contato": "Ilson",
     "telefone": "nan",
-    "lat": -26.6117352,
-    "lng": -49.0081232,
+    "lat": -26.610868,
+    "lng": -49.005351,
     "equipamentos": [
-      "18/06/2025 - 1728 - Commander Dna"
+      "6/18/2025 - 1728 - Commander Dna"
     ]
   },
   {
@@ -3764,22 +3764,10 @@
     "cidade": "Cruzeiro do Sul - AC",
     "contato": "Juliane",
     "telefone": "nan",
-    "lat": -7.5804963,
-    "lng": -72.8141621,
+    "lat": -7.6362478,
+    "lng": -72.6691649,
     "equipamentos": [
-      "19/08/2025 - 1943 - Edge 5 + Coletor 10CV"
-    ]
-  },
-  {
-    "nome": "Julio Cesar - Olimpus Atacad",
-    "cnpj": null,
-    "cidade": "nan",
-    "contato": "nan",
-    "telefone": "nan",
-    "lat": null,
-    "lng": null,
-    "equipamentos": [
-      "20/11/2020 - nan - Equip 2013 usado"
+      "8/19/2025 - 1943 - Edge 5 + Coletor 10CV"
     ]
   },
   {
@@ -3788,10 +3776,10 @@
     "cidade": "Massaranduba - SC",
     "contato": "Junior",
     "telefone": "nan",
-    "lat": -26.6117352,
-    "lng": -49.0081232,
+    "lat": -26.610868,
+    "lng": -49.005351,
     "equipamentos": [
-      "28/03/2025 - 1540 - Edge 7"
+      "3/28/2025 - 1540 - Edge 7"
     ]
   },
   {
@@ -3803,7 +3791,7 @@
     "lat": -19.8600221,
     "lng": -44.6075442,
     "equipamentos": [
-      "09/02/2024 - 764 - Turbo Duo Dna"
+      "02/09/2024 - 764 - Turbo Duo Dna"
     ]
   },
   {
@@ -3815,7 +3803,7 @@
     "lat": -23.1744973,
     "lng": -47.0486844,
     "equipamentos": [
-      "12/06/2025 - 1696 - Elite Super Drill"
+      "06/12/2025 - 1696 - Elite Super Drill"
     ]
   },
   {
@@ -3827,7 +3815,7 @@
     "lat": -23.1762028,
     "lng": -47.0622501,
     "equipamentos": [
-      "02/07/2025 - 1763 - Edge 5"
+      "07/02/2025 - 1763 - Edge 5"
     ]
   },
   {
@@ -3839,7 +3827,7 @@
     "lat": -24.971063,
     "lng": -53.4819083,
     "equipamentos": [
-      "30/09/2021 - 216 - Mach Pro 5019"
+      "9/30/2021 - 216 - Mach Pro 5019"
     ]
   },
   {
@@ -3848,22 +3836,22 @@
     "cidade": "São Paulo - SP",
     "contato": "Samir",
     "telefone": "nan",
-    "lat": -23.5329,
-    "lng": -46.6395,
+    "lat": -23.5383214,
+    "lng": -46.6391624,
     "equipamentos": [
-      "31/03/2025 - 1517 - Spark Dna"
+      "3/31/2025 - 1517 - Spark Dna"
     ]
   },
   {
     "nome": "Katta / Tecnoframe",
     "cnpj": null,
     "cidade": "Cotia - SP",
-    "contato": "-",
-    "telefone": "nan",
-    "lat": -23.6022,
-    "lng": -46.919,
+    "contato": "Ramon",
+    "telefone": "53 98118-0765",
+    "lat": -23.6124139,
+    "lng": -46.9248924,
     "equipamentos": [
-      "29/04/2025 - 1601 - 5 und Lifter"
+      "4/29/2025 - 1601 - 5 und Lifter"
     ]
   },
   {
@@ -3872,10 +3860,10 @@
     "cidade": "Araquari - SC",
     "contato": "Kaue",
     "telefone": "nan",
-    "lat": -26.3754,
-    "lng": -48.7188,
+    "lat": -26.4209144,
+    "lng": -48.7913052,
     "equipamentos": [
-      "31/03/2021 - 158 - Evo Heavy Duty"
+      "3/31/2021 - 158 - Evo Heavy Duty"
     ]
   },
   {
@@ -3884,10 +3872,10 @@
     "cidade": "Manaus - AM",
     "contato": "Elton",
     "telefone": "nan",
-    "lat": -3.11866,
-    "lng": -60.0212,
+    "lat": 1.9635842,
+    "lng": -67.7824958,
     "equipamentos": [
-      "30/10/2020 - 95 - Laser 1490 150W"
+      "10/30/2020 - 95 - Laser 1490 150W"
     ]
   },
   {
@@ -3896,10 +3884,10 @@
     "cidade": "Manaus - AM",
     "contato": "Elton",
     "telefone": "nan",
-    "lat": -3.0041398,
-    "lng": -59.9939416,
+    "lat": -3.1091975,
+    "lng": -60.0176906,
     "equipamentos": [
-      "27/09/2023 - 626 - Tubo laser 150W"
+      "9/27/2023 - 626 - Tubo laser 150W"
     ]
   },
   {
@@ -3911,7 +3899,7 @@
     "lat": -3.1221945,
     "lng": -40.1514585,
     "equipamentos": [
-      "31/08/2023 - 589 - Macho Pro Turbo"
+      "8/31/2023 - 589 - Macho Pro Turbo"
     ]
   },
   {
@@ -3923,7 +3911,7 @@
     "lat": -29.4512516,
     "lng": -51.6690936,
     "equipamentos": [
-      "10/06/2022 - 310 - Mach Pro ATCL"
+      "06/10/2022 - 310 - Mach Pro ATCL"
     ]
   },
   {
@@ -3932,10 +3920,10 @@
     "cidade": "Goiânia - GO",
     "contato": "Ronnyelson",
     "telefone": "nan",
-    "lat": -16.6864,
-    "lng": -49.2643,
+    "lat": -16.2590184,
+    "lng": -47.9300112,
     "equipamentos": [
-      "21/02/2025 - 1445 - Edge 7"
+      "2/21/2025 - 1445 - Edge 7"
     ]
   },
   {
@@ -3944,10 +3932,10 @@
     "cidade": "Joinville - SC",
     "contato": "Joicelene",
     "telefone": "nan",
-    "lat": -26.2806186,
-    "lng": -48.8030919,
+    "lat": -26.2769061,
+    "lng": -48.7981388,
     "equipamentos": [
-      "30/09/2025 - 2056 - ATCL Dna+coletor"
+      "9/30/2025 - 2056 - ATCL Dna+coletor"
     ]
   },
   {
@@ -3959,7 +3947,7 @@
     "lat": -22.870414,
     "lng": -47.2143819,
     "equipamentos": [
-      "30/09/2025 - 2060 - Edge 7"
+      "9/30/2025 - 2060 - Edge 7"
     ]
   },
   {
@@ -3971,7 +3959,7 @@
     "lat": -5.5350339,
     "lng": -40.7748902,
     "equipamentos": [
-      "26/08/2021 - 207 - Mach Pro 5019"
+      "8/26/2021 - 207 - Mach Pro 5019"
     ]
   },
   {
@@ -3980,10 +3968,10 @@
     "cidade": "Campo Largo - PR",
     "contato": "Elpidio / Neto",
     "telefone": "nan",
-    "lat": -25.1242919,
-    "lng": -49.732377,
+    "lat": -25.4361954,
+    "lng": -49.435565,
     "equipamentos": [
-      "05/04/2024 - 825 - Mach Pro ATCL (usada)"
+      "04/05/2024 - 825 - Mach Pro ATCL (usada)"
     ]
   },
   {
@@ -3992,10 +3980,10 @@
     "cidade": "São Luís - MA",
     "contato": "Lara",
     "telefone": "nan",
-    "lat": -2.5456477,
-    "lng": -44.294267,
+    "lat": -2.5071579,
+    "lng": -44.2529804,
     "equipamentos": [
-      "05/07/2024 - 934/960 - Edge 8"
+      "07/05/2024 - 934/960 - Edge 8"
     ]
   },
   {
@@ -4004,10 +3992,10 @@
     "cidade": "Massaranduba - SC",
     "contato": "Marcos",
     "telefone": "nan",
-    "lat": -26.6117352,
-    "lng": -49.0081232,
+    "lat": -26.610868,
+    "lng": -49.005351,
     "equipamentos": [
-      "23/05/2024 - 887 - Spark 2819 + coletor"
+      "5/23/2024 - 887 - Spark 2819 + coletor"
     ]
   },
   {
@@ -4016,11 +4004,11 @@
     "cidade": "Mauá - SP",
     "contato": "Alexandre",
     "telefone": "nan",
-    "lat": -23.6677,
-    "lng": -46.4613,
+    "lat": -23.6818722,
+    "lng": -46.4655555,
     "equipamentos": [
-      "04/10/2024 - 1150 - Turbo Duo Dna",
-      "22/07/2025 - 1817 - Edge 6"
+      "10/04/2024 - 1150 - Turbo Duo Dna",
+      "7/22/2025 - 1817 - Edge 6"
     ]
   },
   {
@@ -4032,7 +4020,7 @@
     "lat": null,
     "lng": null,
     "equipamentos": [
-      "21/12/2023 - 723 - Spark 2819"
+      "12/21/2023 - 723 - Spark 2819"
     ]
   },
   {
@@ -4041,10 +4029,10 @@
     "cidade": "nan",
     "contato": "nan",
     "telefone": "nan",
-    "lat": null,
-    "lng": null,
+    "lat": -18.8941408,
+    "lng": -48.2622678,
     "equipamentos": [
-      "06/11/2020 - 101 - MCU 4606"
+      "11/06/2020 - 101 - MCU 4606"
     ]
   },
   {
@@ -4056,7 +4044,7 @@
     "lat": -27.1331081,
     "lng": -52.6109523,
     "equipamentos": [
-      "30/01/2025 - 1379 - mach pro atc - l dna"
+      "1/30/2025 - 1379 - mach pro atc - l dna"
     ]
   },
   {
@@ -4065,10 +4053,10 @@
     "cidade": "Teresina - PI",
     "contato": "Mayson/ Leonardo",
     "telefone": "32 98875-6916",
-    "lat": -5.0928581,
-    "lng": -42.7619486,
+    "lat": -5.1066355,
+    "lng": -42.7683206,
     "equipamentos": [
-      "06/07/2022 - 319 - Mach Pro Turbo"
+      "07/06/2022 - 319 - Mach Pro Turbo"
     ]
   },
   {
@@ -4077,10 +4065,10 @@
     "cidade": "Santos - SP",
     "contato": "Daniel",
     "telefone": "nan",
-    "lat": -23.9402213,
-    "lng": -46.3258909,
+    "lat": -23.9340298,
+    "lng": -46.3253693,
     "equipamentos": [
-      "28/08/2024 - 1054 - Commander"
+      "8/28/2024 - 1054 - Commander"
     ]
   },
   {
@@ -4089,10 +4077,10 @@
     "cidade": "Ribeirão das Neves - MG",
     "contato": "Marcos",
     "telefone": "nan",
-    "lat": -19.7621,
-    "lng": -44.0844,
+    "lat": -19.7842827,
+    "lng": -44.0272101,
     "equipamentos": [
-      "07/05/2024 - 865 - Laser 1490"
+      "05/07/2024 - 865 - Laser 1490"
     ]
   },
   {
@@ -4101,10 +4089,10 @@
     "cidade": "Blumenau - SC",
     "contato": "Gilberto",
     "telefone": "nan",
-    "lat": -26.9155,
-    "lng": -49.0709,
+    "lat": -26.9195567,
+    "lng": -49.0658025,
     "equipamentos": [
-      "05/02/2025 - 1419 - Mach Pro 5019 Dna"
+      "02/05/2025 - 1419 - Mach Pro 5019 Dna"
     ]
   },
   {
@@ -4116,7 +4104,7 @@
     "lat": -26.2176164,
     "lng": -48.9144309,
     "equipamentos": [
-      "30/09/2022 - 362 - Mach Pro 4121 ESP"
+      "9/30/2022 - 362 - Mach Pro 4121 ESP"
     ]
   },
   {
@@ -4137,10 +4125,10 @@
     "cidade": "Sorocaba - SP",
     "contato": "Lucas",
     "telefone": "nan",
-    "lat": -23.4969,
-    "lng": -47.4451,
+    "lat": -23.4684836,
+    "lng": -47.4424129,
     "equipamentos": [
-      "27/07/2020 - 32 - Spark 1310 com mesa canal"
+      "7/27/2020 - 32 - Spark 1310 com mesa canal"
     ]
   },
   {
@@ -4152,11 +4140,11 @@
     "lat": -23.0233308,
     "lng": -45.5545573,
     "equipamentos": [
-      "05/10/2022 - 367 - Mach Laser 1390"
+      "10/05/2022 - 367 - Mach Laser 1390"
     ]
   },
   {
-    "nome": "Luis Paulo Parizotto /  maisatual",
+    "nome": "Luis Paulo Parizotto / maisatual",
     "cnpj": null,
     "cidade": "Jaraguá do Sul - SC",
     "contato": "Paulo",
@@ -4164,7 +4152,7 @@
     "lat": -26.4502521,
     "lng": -49.1004084,
     "equipamentos": [
-      "27/06/2024 - 931 - Turbo Dna"
+      "6/27/2024 - 931 - Turbo Dna"
     ]
   },
   {
@@ -4173,10 +4161,10 @@
     "cidade": "Nova Santa Rita - RS",
     "contato": "Rafael",
     "telefone": "51 99873-1281",
-    "lat": -29.8576936,
-    "lng": -51.2752344,
+    "lat": -29.8489972,
+    "lng": -51.2764275,
     "equipamentos": [
-      "15/10/2025 - 2104 - Spark 2819"
+      "10/15/2025 - 2104 - Spark 2819"
     ]
   },
   {
@@ -4185,11 +4173,11 @@
     "cidade": "Guaramirim - SC",
     "contato": "Luiz",
     "telefone": "nan",
-    "lat": -26.4742721,
-    "lng": -49.0010955,
+    "lat": -26.4744805,
+    "lng": -48.9981151,
     "equipamentos": [
-      "02/06/2025 - 1668 - Edge 6",
-      "15/01/2025 - 1344 - Turbo"
+      "06/02/2025 - 1668 - Edge 6",
+      "1/15/2025 - 1344 - Turbo"
     ]
   },
   {
@@ -4198,10 +4186,10 @@
     "cidade": "São Paulo - SP",
     "contato": "Silvia",
     "telefone": "nan",
-    "lat": -23.5329,
-    "lng": -46.6395,
+    "lat": -23.5383214,
+    "lng": -46.6391624,
     "equipamentos": [
-      "23/09/2022 - 357 - Mach Pro ATCL"
+      "9/23/2022 - 357 - Mach Pro ATCL"
     ]
   },
   {
@@ -4210,10 +4198,10 @@
     "cidade": "Taió - SC",
     "contato": "Ivan",
     "telefone": "nan",
-    "lat": -27.1155588,
-    "lng": -49.9966285,
+    "lat": -27.1167574,
+    "lng": -50.0002159,
     "equipamentos": [
-      "16/12/2022 - 397 - Elite Esp 1510 1S"
+      "12/16/2022 - 397 - Elite Esp 1510 1S"
     ]
   },
   {
@@ -4222,10 +4210,10 @@
     "cidade": "Carapicuíba - SP",
     "contato": "Marco",
     "telefone": "nan",
-    "lat": -23.5235,
-    "lng": -46.8407,
+    "lat": -23.5239166,
+    "lng": -46.8302239,
     "equipamentos": [
-      "15/08/2025 - 1846 - Mach Pro ATC L Dna 2819"
+      "8/15/2025 - 1846 - Mach Pro ATC L Dna 2819"
     ]
   },
   {
@@ -4234,10 +4222,10 @@
     "cidade": "Parauapebas - PA",
     "contato": "Eli",
     "telefone": "nan",
-    "lat": -6.06781,
-    "lng": -49.9037,
+    "lat": -6.09044,
+    "lng": -49.8680862,
     "equipamentos": [
-      "15/07/2019 - nan - Elite 3020 completa+ laser"
+      "7/15/2019 - nan - Elite 3020 completa+ laser"
     ]
   },
   {
@@ -4246,10 +4234,10 @@
     "cidade": "Cariacica - ES",
     "contato": "Jeffinho",
     "telefone": "nan",
-    "lat": -20.2580821,
-    "lng": -40.4260265,
+    "lat": -20.3857616,
+    "lng": -40.3706897,
     "equipamentos": [
-      "06/08/2025 - 1859 - Edge 6"
+      "08/06/2025 - 1859 - Edge 6"
     ]
   },
   {
@@ -4258,10 +4246,10 @@
     "cidade": "Teresina - PI",
     "contato": "Maquilande",
     "telefone": "nan",
-    "lat": -5.10565,
-    "lng": -42.7476719,
+    "lat": -5.0987672,
+    "lng": -42.7319876,
     "equipamentos": [
-      "31/03/2022 - 280 - Mach Pro ATCL"
+      "3/31/2022 - 280 - Mach Pro ATCL"
     ]
   },
   {
@@ -4270,22 +4258,22 @@
     "cidade": "Sarandi - PR",
     "contato": "Michele",
     "telefone": "nan",
-    "lat": -27.942,
-    "lng": -52.9231,
+    "lat": -23.4354081,
+    "lng": -51.8845069,
     "equipamentos": [
-      "30/09/2025 - 2054 - Turbo Dna"
+      "9/30/2025 - 2054 - Turbo Dna"
     ]
   },
   {
     "nome": "M M S Industrial Ltda",
     "cnpj": null,
     "cidade": "União da Vitória - PR",
-    "contato": "204",
+    "contato": "Mateus",
     "telefone": "nan",
-    "lat": -26.241491,
-    "lng": -51.1235731,
+    "lat": -26.228596,
+    "lng": -51.0869796,
     "equipamentos": [
-      "24/01/2024 - 745 - Spark C/ Faca + Mach Pro Atcl"
+      "1/24/2024 - 745 - Spark C/ Faca + Mach Pro Atcl"
     ]
   },
   {
@@ -4294,10 +4282,10 @@
     "cidade": "Guarapari - ES",
     "contato": "Marcos",
     "telefone": "nan",
-    "lat": -20.6772,
-    "lng": -40.5093,
+    "lat": -20.6164971,
+    "lng": -40.4545819,
     "equipamentos": [
-      "20/10/2023 - 648 - Mach Pro ATCL"
+      "10/20/2023 - 648 - Mach Pro ATCL"
     ]
   },
   {
@@ -4306,11 +4294,11 @@
     "cidade": "Campina Grande do Sul - PR",
     "contato": "Regiane",
     "telefone": "nan",
-    "lat": -25.3044,
-    "lng": -49.0551,
+    "lat": -25.298793,
+    "lng": -49.0497418,
     "equipamentos": [
-      "19/09/2024 - 1105 / 1319 - Turbo Dna",
-      "19/09/2024 - 1327 - Mesa de descarga"
+      "9/19/2024 - 1105 / 1319 - Turbo Dna",
+      "9/19/2024 - 1327 - Mesa de descarga"
     ]
   },
   {
@@ -4319,11 +4307,11 @@
     "cidade": "Rio Negrinho - SC",
     "contato": "Rafael",
     "telefone": "nan",
-    "lat": -26.2591,
-    "lng": -49.5177,
+    "lat": -26.1973694,
+    "lng": -49.2641372,
     "equipamentos": [
-      "24/10/2024 - 1176 - Elite X 3020 usada",
-      "29/02/2024 - 782 - Turbo"
+      "10/24/2024 - 1176 - Elite X 3020 usada",
+      "2/29/2024 - 782 - Turbo"
     ]
   },
   {
@@ -4332,11 +4320,11 @@
     "cidade": "Contagem - MG",
     "contato": "Avelino",
     "telefone": "nan",
-    "lat": -19.8714144,
-    "lng": -44.0194439,
+    "lat": -19.8337479,
+    "lng": -44.0906825,
     "equipamentos": [
-      "02/07/2024 - 952 - Edge 7 com arredondador",
-      "10/11/2023 - 675 - Mach Pro 5019"
+      "07/02/2024 - 952 - Edge 7 com arredondador",
+      "11/10/2023 - 675 - Mach Pro 5019"
     ]
   },
   {
@@ -4345,10 +4333,10 @@
     "cidade": "São Paulo - SP",
     "contato": "Epitacio",
     "telefone": "nan",
-    "lat": -23.5329,
-    "lng": -46.6395,
+    "lat": -23.5383214,
+    "lng": -46.6391624,
     "equipamentos": [
-      "20/06/2025 - 1732 - Turbo Dna"
+      "6/20/2025 - 1732 - Turbo Dna"
     ]
   },
   {
@@ -4357,10 +4345,10 @@
     "cidade": "Contagem - MG",
     "contato": "Leonardo",
     "telefone": "nan",
-    "lat": -19.899017,
-    "lng": -44.0742696,
+    "lat": -19.9043245,
+    "lng": -44.07389,
     "equipamentos": [
-      "12/09/2023 - 609 - Mach Pro Turbo Duo"
+      "09/12/2023 - 609 - Mach Pro Turbo Duo"
     ]
   },
   {
@@ -4369,10 +4357,10 @@
     "cidade": "Lagoa Santa - MG",
     "contato": "Andre",
     "telefone": "nan",
-    "lat": -19.6397,
-    "lng": -43.8932,
+    "lat": -19.5997257,
+    "lng": -43.9076676,
     "equipamentos": [
-      "05/04/2024 - 827 - Edge 5"
+      "04/05/2024 - 827 - Edge 5"
     ]
   },
   {
@@ -4384,7 +4372,7 @@
     "lat": -26.576406,
     "lng": -49.1386359,
     "equipamentos": [
-      "28/02/2025 - 1575 - Turbo Dna"
+      "2/28/2025 - 1575 - Turbo Dna"
     ]
   },
   {
@@ -4396,7 +4384,7 @@
     "lat": -26.2218297,
     "lng": -49.3911426,
     "equipamentos": [
-      "13/05/2022 - 292 - Mach Pro 5019"
+      "5/13/2022 - 292 - Mach Pro 5019"
     ]
   },
   {
@@ -4405,10 +4393,10 @@
     "cidade": "Espumoso - RS",
     "contato": "Juliano",
     "telefone": "nan",
-    "lat": -28.731201,
-    "lng": -52.841286,
+    "lat": -28.7256962,
+    "lng": -52.8453751,
     "equipamentos": [
-      "18/10/2023 - 647 - Turbo Duo"
+      "10/18/2023 - 647 - Turbo Duo"
     ]
   },
   {
@@ -4417,10 +4405,10 @@
     "cidade": "Porto Velho - RO",
     "contato": "Ricardo",
     "telefone": "nan",
-    "lat": -8.76077,
-    "lng": -63.8999,
+    "lat": -8.7029077,
+    "lng": -63.8744934,
     "equipamentos": [
-      "20/11/2023 - 684 - Mach Pro Turbo ESP"
+      "11/20/2023 - 684 - Mach Pro Turbo ESP"
     ]
   },
   {
@@ -4429,8 +4417,8 @@
     "cidade": "Santo André - SP",
     "contato": "Dalmo Pereira",
     "telefone": "nan",
-    "lat": -7.22016,
-    "lng": -36.6213,
+    "lat": -23.7672489,
+    "lng": -46.3727555,
     "equipamentos": [
       "10/10/2025 - 2091 - ATCL Dna 2819"
     ]
@@ -4441,10 +4429,10 @@
     "cidade": "São Paulo - SP",
     "contato": "Raimundo",
     "telefone": "nan",
-    "lat": -23.5329,
-    "lng": -46.6395,
+    "lat": -23.5383214,
+    "lng": -46.6391624,
     "equipamentos": [
-      "26/10/2021 - 226 - M32"
+      "10/26/2021 - 226 - M32"
     ]
   },
   {
@@ -4453,10 +4441,10 @@
     "cidade": "Curitiba - PR",
     "contato": "Maycon",
     "telefone": "nan",
-    "lat": -25.4195,
-    "lng": -49.2646,
+    "lat": -25.4372457,
+    "lng": -49.3033661,
     "equipamentos": [
-      "08/04/2024 - 834 - Mach Pro 5019"
+      "04/08/2024 - 834 - Mach Pro 5019"
     ]
   },
   {
@@ -4465,10 +4453,10 @@
     "cidade": "Toledo - PR",
     "contato": "Edival",
     "telefone": "nan",
-    "lat": -24.7246,
-    "lng": -53.7412,
+    "lat": -24.7222438,
+    "lng": -53.7402476,
     "equipamentos": [
-      "06/05/2021 - 170 - Spark Esp 8060"
+      "05/06/2021 - 170 - Spark Esp 8060"
     ]
   },
   {
@@ -4477,10 +4465,10 @@
     "cidade": "Luís Eduardo Magalhães - BA",
     "contato": "Marcelo",
     "telefone": "nan",
-    "lat": -12.0956,
-    "lng": -45.7866,
+    "lat": -12.0767718,
+    "lng": -45.7628943,
     "equipamentos": [
-      "28/08/2020 - 51 - Spark 2013 esp"
+      "8/28/2020 - 51 - Spark 2013 esp"
     ]
   },
   {
@@ -4492,7 +4480,7 @@
     "lat": -8.0193251,
     "lng": -34.849364,
     "equipamentos": [
-      "15/05/2024 - 884 - 5019 ATCL Esp"
+      "5/15/2024 - 884 - 5019 ATCL Esp"
     ]
   },
   {
@@ -4504,7 +4492,7 @@
     "lat": -16.3558937,
     "lng": -48.9823053,
     "equipamentos": [
-      "12/11/2024 - 1296 - Edge 7 + coletor de pó 10 cv"
+      "11/12/2024 - 1296 - Edge 7 + coletor de pó 10 cv"
     ]
   },
   {
@@ -4516,8 +4504,8 @@
     "lat": -26.4411283,
     "lng": -49.1454297,
     "equipamentos": [
-      "20/06/2025 - 1682 - Edge 7",
-      "25/07/2023 - 551 - Turbo Duo Dna"
+      "6/20/2025 - 1682 - Edge 7",
+      "7/25/2023 - 551 - Turbo Duo Dna"
     ]
   },
   {
@@ -4526,10 +4514,10 @@
     "cidade": "Guabiruba - SC",
     "contato": "Elisiane",
     "telefone": "nan",
-    "lat": -27.0848003,
-    "lng": -48.9727146,
+    "lat": -27.0864326,
+    "lng": -48.9781319,
     "equipamentos": [
-      "20/01/2025 - 1373 - Turbo Dna"
+      "1/20/2025 - 1373 - Turbo Dna"
     ]
   },
   {
@@ -4538,10 +4526,10 @@
     "cidade": "São Paulo - SP",
     "contato": "Adriano",
     "telefone": "nan",
-    "lat": -23.5329,
-    "lng": -46.6395,
+    "lat": -23.5383214,
+    "lng": -46.6391624,
     "equipamentos": [
-      "06/05/2024 - 863 - Edge 5"
+      "05/06/2024 - 863 - Edge 5"
     ]
   },
   {
@@ -4553,8 +4541,8 @@
     "lat": -19.8476379,
     "lng": -44.0230623,
     "equipamentos": [
-      "09/10/2025 - 1897 - Turbo Duo Dna",
-      "15/08/2025 - 1897 - Turbo Dna 2819  + coletor"
+      "10/09/2025 - 1897 - Turbo Duo Dna",
+      "8/15/2025 - 1897 - Turbo Dna 2819 + coletor"
     ]
   },
   {
@@ -4563,11 +4551,11 @@
     "cidade": "Teresópolis - RJ",
     "contato": "Wesly",
     "telefone": "nan",
-    "lat": -22.4165,
-    "lng": -42.9752,
+    "lat": -22.3838386,
+    "lng": -42.8789861,
     "equipamentos": [
-      "27/11/2024 - 1259 - Edge 7 + 1 coletor de pó",
-      "27/11/2024 - 1259 - Turbo Duo Dna + 1 coletores de pó"
+      "11/27/2024 - 1259 - Edge 7 + 1 coletor de pó",
+      "11/27/2024 - 1259 - Turbo Duo Dna + 1 coletores de pó"
     ]
   },
   {
@@ -4576,10 +4564,10 @@
     "cidade": "São Bernardo do Campo - SP",
     "contato": "Matheus",
     "telefone": "nan",
-    "lat": -23.6914,
-    "lng": -46.5646,
+    "lat": -23.7080345,
+    "lng": -46.5506747,
     "equipamentos": [
-      "22/08/2025 - 1932 - ATCL Dna"
+      "8/22/2025 - 1932 - ATCL Dna"
     ]
   },
   {
@@ -4588,10 +4576,10 @@
     "cidade": "Porto Feliz - SP",
     "contato": "Paulo",
     "telefone": "nan",
-    "lat": -23.2093,
-    "lng": -47.5251,
+    "lat": -23.2342137,
+    "lng": -47.5227418,
     "equipamentos": [
-      "09/08/2024 - 1016 - Turbo"
+      "08/09/2024 - 1016 - Turbo"
     ]
   },
   {
@@ -4600,10 +4588,10 @@
     "cidade": "Penha - SC",
     "contato": "Maicon",
     "telefone": "nan",
-    "lat": -27.8109331,
-    "lng": -50.2862773,
+    "lat": -26.775418,
+    "lng": -48.6465251,
     "equipamentos": [
-      "13/06/2024 - 908 - ATCL Dna"
+      "6/13/2024 - 908 - ATCL Dna"
     ]
   },
   {
@@ -4612,10 +4600,10 @@
     "cidade": "Itu - SP",
     "contato": "Pedro",
     "telefone": "nan",
-    "lat": -23.2544,
-    "lng": -47.2927,
+    "lat": -23.2396117,
+    "lng": -47.3183105,
     "equipamentos": [
-      "15/04/2025 - 1566 - Turbo Duo Dna com elevador"
+      "4/15/2025 - 1566 - Turbo Duo Dna com elevador"
     ]
   },
   {
@@ -4627,7 +4615,7 @@
     "lat": -20.7291194,
     "lng": -46.5949244,
     "equipamentos": [
-      "05/07/2024 - 943 - Turbo Duo Dna + coletor de pó"
+      "07/05/2024 - 943 - Turbo Duo Dna + coletor de pó"
     ]
   },
   {
@@ -4636,10 +4624,10 @@
     "cidade": "Santo André - SP",
     "contato": "Marcos",
     "telefone": "nan",
-    "lat": -7.22016,
-    "lng": -36.6213,
+    "lat": -23.7672489,
+    "lng": -46.3727555,
     "equipamentos": [
-      "02/04/2025 - 1556 - ATCL Dna - EDGE 6 E COLETOR DE PÓ"
+      "04/02/2025 - 1556 - ATCL Dna - EDGE 6 E COLETOR DE PÓ"
     ]
   },
   {
@@ -4648,10 +4636,10 @@
     "cidade": "Campinas - SP",
     "contato": "Marcos/Laura",
     "telefone": "nan",
-    "lat": -22.98874,
-    "lng": -47.1532297,
+    "lat": -22.7964449,
+    "lng": -47.1344781,
     "equipamentos": [
-      "02/06/2023 - 509 - Spark 2819"
+      "06/02/2023 - 509 - Spark 2819"
     ]
   },
   {
@@ -4663,7 +4651,7 @@
     "lat": -27.5945402,
     "lng": -48.5931097,
     "equipamentos": [
-      "30/04/2021 - 168 - Especial"
+      "4/30/2021 - 168 - Especial"
     ]
   },
   {
@@ -4672,10 +4660,10 @@
     "cidade": "Passo Fundo - RS",
     "contato": "Fabiano",
     "telefone": "nan",
-    "lat": -28.2576,
-    "lng": -52.4091,
+    "lat": -28.2371689,
+    "lng": -52.395073,
     "equipamentos": [
-      "21/10/2020 - 85 - Evo com desc"
+      "10/21/2020 - 85 - Evo com desc"
     ]
   },
   {
@@ -4684,10 +4672,10 @@
     "cidade": "Bonito - MS",
     "contato": "Margarete",
     "telefone": "nan",
-    "lat": -21.1316378,
-    "lng": -56.4782849,
+    "lat": -21.1264766,
+    "lng": -56.4902208,
     "equipamentos": [
-      "20/09/2024 - 1103 - Spark Dna"
+      "9/20/2024 - 1103 - Spark Dna"
     ]
   },
   {
@@ -4699,7 +4687,7 @@
     "lat": null,
     "lng": null,
     "equipamentos": [
-      "10/04/2025 - 1613 - Spark Dna"
+      "04/10/2025 - 1613 - Spark Dna"
     ]
   },
   {
@@ -4708,10 +4696,10 @@
     "cidade": "Timbó - SC",
     "contato": "Claudio",
     "telefone": "nan",
-    "lat": -26.8246,
-    "lng": -49.269,
+    "lat": -26.8097952,
+    "lng": -49.2792354,
     "equipamentos": [
-      "29/11/2024 - 1426 - Mach Stone"
+      "11/29/2024 - 1426 - Mach Stone"
     ]
   },
   {
@@ -4720,10 +4708,10 @@
     "cidade": "Quitandinha - PR",
     "contato": "Zezinho",
     "telefone": "nan",
-    "lat": -25.8716119,
-    "lng": -49.4994376,
+    "lat": -25.8737269,
+    "lng": -49.4977717,
     "equipamentos": [
-      "24/01/2023 - 414 - Revo Rock"
+      "1/24/2023 - 414 - Revo Rock"
     ]
   },
   {
@@ -4732,22 +4720,22 @@
     "cidade": "Carmo do Cajuru - MG",
     "contato": "Silvano",
     "telefone": "nan",
-    "lat": -20.2034994,
-    "lng": -44.7547203,
+    "lat": -20.184444,
+    "lng": -44.770834,
     "equipamentos": [
-      "08/07/2022 - 327 - Master ATCL"
+      "07/08/2022 - 327 - Master ATCL"
     ]
   },
   {
-    "nome": "Martonio Ferreira -  ArtMovelarSP (gabster)",
+    "nome": "Martonio Ferreira - ArtMovelarSP (gabster)",
     "cnpj": null,
     "cidade": "São Paulo - SP",
     "contato": "Marco / Andre",
     "telefone": "nan",
-    "lat": -23.5329,
-    "lng": -46.6395,
+    "lat": -23.5383214,
+    "lng": -46.6391624,
     "equipamentos": [
-      "28/11/2019 - nan - Evo 3020"
+      "11/28/2019 - nan - Evo 3020"
     ]
   },
   {
@@ -4756,10 +4744,10 @@
     "cidade": "São José dos Pinhais - PR",
     "contato": "Alexandre",
     "telefone": "nan",
-    "lat": -25.5115167,
-    "lng": -49.1679276,
+    "lat": -25.6643904,
+    "lng": -49.1747715,
     "equipamentos": [
-      "22/06/2022 - 313 - Revo 1280"
+      "6/22/2022 - 313 - Revo 1280"
     ]
   },
   {
@@ -4771,7 +4759,7 @@
     "lat": -29.2562253,
     "lng": -51.5269167,
     "equipamentos": [
-      "19/09/2023 - 615 - Mach Pro Turbo Duo"
+      "9/19/2023 - 615 - Mach Pro Turbo Duo"
     ]
   },
   {
@@ -4783,7 +4771,7 @@
     "lat": -27.4894703,
     "lng": -48.6562297,
     "equipamentos": [
-      "05/07/2024 - 973 - Mach Pro ATCL Especial 4019"
+      "07/05/2024 - 973 - Mach Pro ATCL Especial 4019"
     ]
   },
   {
@@ -4792,11 +4780,11 @@
     "cidade": "São Paulo - SP",
     "contato": "Ricardo",
     "telefone": "nan",
-    "lat": -23.5329,
-    "lng": -46.6395,
+    "lat": -23.5383214,
+    "lng": -46.6391624,
     "equipamentos": [
-      "05/07/2024 - 944 - Edge 7 com arredondador",
-      "16/09/2025 - 2008 - Turbo Duo Dna com elevador"
+      "07/05/2024 - 944 - Edge 7 com arredondador",
+      "9/16/2025 - 2008 - Turbo Duo Dna com elevador"
     ]
   },
   {
@@ -4805,20 +4793,20 @@
     "cidade": "Serra - ES",
     "contato": "Robert",
     "telefone": "nan",
-    "lat": -20.2194739,
-    "lng": -40.2649718,
+    "lat": -20.2099123,
+    "lng": -40.2624676,
     "equipamentos": [
-      "09/10/2025 - 2082 - Solda Laser"
+      "10/09/2025 - 2082 - Solda Laser"
     ]
   },
   {
     "nome": "Metaliza (Difer)",
     "cnpj": null,
     "cidade": "São Bento do Sul - SC",
-    "contato": "nan",
-    "telefone": "nan",
-    "lat": -26.2495,
-    "lng": -49.3831,
+    "contato": "Davi",
+    "telefone": "47 99627-8822",
+    "lat": -26.2063207,
+    "lng": -49.3601763,
     "equipamentos": [
       "nan - nan - Fiber Laser"
     ]
@@ -4829,10 +4817,10 @@
     "cidade": "Igarapé - MG",
     "contato": "Eliedson",
     "telefone": "nan",
-    "lat": -20.0707,
-    "lng": -44.2994,
+    "lat": -20.0447398,
+    "lng": -44.3536459,
     "equipamentos": [
-      "15/07/2019 - nan - Elite 2013+vácuo"
+      "7/15/2019 - nan - Elite 2013+vácuo"
     ]
   },
   {
@@ -4841,10 +4829,10 @@
     "cidade": "Vinhedo - SP",
     "contato": "Ricardo",
     "telefone": "nan",
-    "lat": -23.0302,
-    "lng": -46.9833,
+    "lat": -23.0584756,
+    "lng": -47.0282716,
     "equipamentos": [
-      "22/10/2024 - 1142 - Turbo Duo Dna + coletor de pó"
+      "10/22/2024 - 1142 - Turbo Duo Dna + coletor de pó"
     ]
   },
   {
@@ -4853,10 +4841,10 @@
     "cidade": "Sorocaba - SP",
     "contato": "Kleber",
     "telefone": "nan",
-    "lat": -23.426211,
-    "lng": -47.5068915,
+    "lat": -23.4684836,
+    "lng": -47.4424129,
     "equipamentos": [
-      "05/07/2024 - 942 - Turbo Dna"
+      "07/05/2024 - 942 - Turbo Dna"
     ]
   },
   {
@@ -4865,10 +4853,10 @@
     "cidade": "Massaranduba - SC",
     "contato": "Ivan",
     "telefone": "nan",
-    "lat": -26.6117352,
-    "lng": -49.0081232,
+    "lat": -26.610868,
+    "lng": -49.005351,
     "equipamentos": [
-      "06/12/2024 - 1297 - Edge 8 Turbo"
+      "12/06/2024 - 1297 - Edge 8 Turbo"
     ]
   },
   {
@@ -4880,7 +4868,7 @@
     "lat": -27.1542415,
     "lng": -48.5424395,
     "equipamentos": [
-      "03/09/2021 - 208 - Elite X 5020"
+      "09/03/2021 - 208 - Elite X 5020"
     ]
   },
   {
@@ -4889,10 +4877,10 @@
     "cidade": "São Paulo - SP",
     "contato": "Eduardo",
     "telefone": "nan",
-    "lat": -23.5329,
-    "lng": -46.6395,
+    "lat": -23.5383214,
+    "lng": -46.6391624,
     "equipamentos": [
-      "29/08/2025 - 1946 - Turbo Duo Dna"
+      "8/29/2025 - 1946 - Turbo Duo Dna"
     ]
   },
   {
@@ -4904,7 +4892,7 @@
     "lat": -29.7887257,
     "lng": -51.1030466,
     "equipamentos": [
-      "03/09/2025 - 1931 - Mach Pro ATC L Dna 2819"
+      "09/03/2025 - 1931 - Mach Pro ATC L Dna 2819"
     ]
   },
   {
@@ -4916,7 +4904,7 @@
     "lat": -25.0977405,
     "lng": -50.1228967,
     "equipamentos": [
-      "30/03/2022 - 281 - Mach Door 1325"
+      "3/30/2022 - 281 - Mach Door 1325"
     ]
   },
   {
@@ -4928,7 +4916,7 @@
     "lat": -29.4521243,
     "lng": -49.9190608,
     "equipamentos": [
-      "30/09/2024 - 1151 - Turbo Dna"
+      "9/30/2024 - 1151 - Turbo Dna"
     ]
   },
   {
@@ -4937,8 +4925,8 @@
     "cidade": "Uberlândia - MG",
     "contato": "Lucas",
     "telefone": "nan",
-    "lat": -18.9141,
-    "lng": -48.2749,
+    "lat": -18.8941408,
+    "lng": -48.2622678,
     "equipamentos": [
       "12/12/2023 - 695 - Turbo Duo"
     ]
@@ -4952,7 +4940,7 @@
     "lat": -28.6773291,
     "lng": -49.3535027,
     "equipamentos": [
-      "06/08/2021 - 198 - Spark Al Esp 1212"
+      "08/06/2021 - 198 - Spark Al Esp 1212"
     ]
   },
   {
@@ -4961,10 +4949,10 @@
     "cidade": "Taubaté - SP",
     "contato": "Anderson",
     "telefone": "nan",
-    "lat": -23.0104,
-    "lng": -45.5593,
+    "lat": -23.0494273,
+    "lng": -45.5667506,
     "equipamentos": [
-      "08/11/2023 - 669 - Revo 3015"
+      "11/08/2023 - 669 - Revo 3015"
     ]
   },
   {
@@ -4973,10 +4961,10 @@
     "cidade": "Monte Carlo - SC",
     "contato": "Carlos",
     "telefone": "nan",
-    "lat": -27.2241613,
-    "lng": -50.978939,
+    "lat": -27.2161209,
+    "lng": -50.9824762,
     "equipamentos": [
-      "11/12/2023 - 701 - Spark 2819"
+      "12/11/2023 - 701 - Spark 2819"
     ]
   },
   {
@@ -4985,8 +4973,8 @@
     "cidade": "Imbituba - SC",
     "contato": "Rafael",
     "telefone": "nan",
-    "lat": -28.2284,
-    "lng": -48.6659,
+    "lat": -28.2496983,
+    "lng": -48.6787846,
     "equipamentos": [
       "nan - 1146 - Edge 5"
     ]
@@ -5000,7 +4988,7 @@
     "lat": -28.5966772,
     "lng": -51.7851426,
     "equipamentos": [
-      "04/08/2025 - 1869 - Turbo Dna"
+      "08/04/2025 - 1869 - Turbo Dna"
     ]
   },
   {
@@ -5009,11 +4997,11 @@
     "cidade": "Jaraguá do Sul - SC",
     "contato": "Marcio",
     "telefone": "nan",
-    "lat": -26.4607939,
-    "lng": -49.1102422,
+    "lat": -26.4638929,
+    "lng": -49.1101608,
     "equipamentos": [
-      "21/06/2024 - 921 - Edge 6",
-      "29/05/2024 - 897 - Mach Door"
+      "5/29/2024 - 897 - Mach Door",
+      "6/21/2024 - 921 - Edge 6"
     ]
   },
   {
@@ -5022,10 +5010,10 @@
     "cidade": "Campo Grande - MS",
     "contato": "Luka",
     "telefone": "nan",
-    "lat": -20.4290277,
-    "lng": -54.6436294,
+    "lat": -20.4323839,
+    "lng": -54.6330929,
     "equipamentos": [
-      "25/09/2024 - 1114 - Mach Pro ATCL dna"
+      "9/25/2024 - 1114 - Mach Pro ATCL dna"
     ]
   },
   {
@@ -5037,7 +5025,7 @@
     "lat": -22.9336758,
     "lng": -43.3834785,
     "equipamentos": [
-      "11/09/2023 - 604 - Commander com eti e orga"
+      "09/11/2023 - 604 - Commander com eti e orga"
     ]
   },
   {
@@ -5046,10 +5034,10 @@
     "cidade": "São José dos Campos - SP",
     "contato": "Luis",
     "telefone": "nan",
-    "lat": -23.2230637,
-    "lng": -45.9001954,
+    "lat": -23.1867782,
+    "lng": -45.8854538,
     "equipamentos": [
-      "31/01/2023 - 422 - Mach Laser 1490"
+      "1/31/2023 - 422 - Mach Laser 1490"
     ]
   },
   {
@@ -5058,10 +5046,10 @@
     "cidade": "Ipira - SC",
     "contato": "Tiago",
     "telefone": "nan",
-    "lat": -27.4104526,
-    "lng": -51.7723934,
+    "lat": -27.4053188,
+    "lng": -51.7734648,
     "equipamentos": [
-      "26/05/2025 - 1659 - Turbo Dna + Edge 7"
+      "5/26/2025 - 1659 - Turbo Dna + Edge 7"
     ]
   },
   {
@@ -5070,10 +5058,10 @@
     "cidade": "Bento Gonçalves - RS",
     "contato": "Luis",
     "telefone": "nan",
-    "lat": -29.1957171,
-    "lng": -51.5190989,
+    "lat": -29.1793757,
+    "lng": -51.5188377,
     "equipamentos": [
-      "07/11/2024 - 1213 - ATCL Dna"
+      "11/07/2024 - 1213 - ATCL Dna"
     ]
   },
   {
@@ -5082,10 +5070,10 @@
     "cidade": "Anápolis - GO",
     "contato": "Luiz",
     "telefone": "nan",
-    "lat": -16.2703738,
-    "lng": -48.9517039,
+    "lat": -16.3266318,
+    "lng": -48.9655628,
     "equipamentos": [
-      "21/03/2025 - 1539 - Edge 8 COMMANDER"
+      "3/21/2025 - 1539 - Edge 8 COMMANDER"
     ]
   },
   {
@@ -5094,10 +5082,10 @@
     "cidade": "Curitiba - PR",
     "contato": "Alan",
     "telefone": "nan",
-    "lat": -25.4842314,
-    "lng": -49.2419393,
+    "lat": -25.4721563,
+    "lng": -49.2478313,
     "equipamentos": [
-      "20/11/2023 - 688 - Turbo + Edge 7 + coletor 7,5"
+      "11/20/2023 - 688 - Turbo + Edge 7 + coletor 7,5"
     ]
   },
   {
@@ -5106,8 +5094,8 @@
     "cidade": "São Leopoldo - RS",
     "contato": "Felipe",
     "telefone": "nan",
-    "lat": -29.7545,
-    "lng": -51.1498,
+    "lat": -29.7634004,
+    "lng": -51.1548571,
     "equipamentos": [
       "11/11/2022 - 376 - Mach Pro Turbo"
     ]
@@ -5121,7 +5109,7 @@
     "lat": -29.4554527,
     "lng": -51.9783977,
     "equipamentos": [
-      "13/10/2025 - 2099 - ATCL Dna 2819"
+      "10/13/2025 - 2099 - ATCL Dna 2819"
     ]
   },
   {
@@ -5130,10 +5118,10 @@
     "cidade": "Massaranduba - SC",
     "contato": "Narlo/Sr Nelson",
     "telefone": "nan",
-    "lat": -26.6117352,
-    "lng": -49.0081232,
+    "lat": -26.610868,
+    "lng": -49.005351,
     "equipamentos": [
-      "23/05/2023 - 502 - Mach Pro Turbo"
+      "5/23/2023 - 502 - Mach Pro Turbo"
     ]
   },
   {
@@ -5154,10 +5142,10 @@
     "cidade": "Pinhais - PR",
     "contato": "João",
     "telefone": "nan",
-    "lat": -25.417161,
-    "lng": -49.1837887,
+    "lat": -25.4171161,
+    "lng": -49.1761776,
     "equipamentos": [
-      "17/06/2025 - 1716 - Turbo Duo Dna"
+      "6/17/2025 - 1716 - Turbo Duo Dna"
     ]
   },
   {
@@ -5166,10 +5154,10 @@
     "cidade": "Jaraguá do Sul - SC",
     "contato": "Jessé",
     "telefone": "47 3084-2933",
-    "lat": -26.4607939,
-    "lng": -49.1102422,
+    "lat": -26.4640216,
+    "lng": -49.1101598,
     "equipamentos": [
-      "24/10/2025 - nan - Turbo Duo Dna"
+      "10/24/2025 - nan - Turbo Duo Dna"
     ]
   },
   {
@@ -5178,10 +5166,10 @@
     "cidade": "Massaranduba - SC",
     "contato": "Marcos",
     "telefone": "nan",
-    "lat": -26.6117352,
-    "lng": -49.0081232,
+    "lat": -26.610868,
+    "lng": -49.005351,
     "equipamentos": [
-      "02/06/2023 - 510 - Mach Pro Turbo Duo"
+      "06/02/2023 - 510 - Mach Pro Turbo Duo"
     ]
   },
   {
@@ -5190,10 +5178,10 @@
     "cidade": "Corupá - SC",
     "contato": "Thiago",
     "telefone": "nan",
-    "lat": -26.4266403,
-    "lng": -49.2419437,
+    "lat": -26.4267153,
+    "lng": -49.24747,
     "equipamentos": [
-      "26/02/2025 - 1467 - Turbo Dna"
+      "2/26/2025 - 1467 - Turbo Dna"
     ]
   },
   {
@@ -5202,22 +5190,22 @@
     "cidade": "Brusque - SC",
     "contato": "Rafael",
     "telefone": "nan",
-    "lat": -27.069299,
-    "lng": -48.8833519,
+    "lat": -27.062133,
+    "lng": -48.8795813,
     "equipamentos": [
-      "31/07/2024 - 1002 - Turbo Dna"
+      "7/31/2024 - 1002 - Turbo Dna"
     ]
   },
   {
     "nome": "Moveis Virtual",
     "cnpj": null,
-    "cidade": "São Paulo  - SP",
+    "cidade": "São Paulo - SP",
     "contato": "Laélcio",
     "telefone": "nan",
-    "lat": -23.5329,
-    "lng": -46.6395,
+    "lat": -23.5383214,
+    "lng": -46.6391624,
     "equipamentos": [
-      "21/02/2022 - 249 - Mach Pro 1S"
+      "2/21/2022 - 249 - Mach Pro 1S"
     ]
   },
   {
@@ -5226,10 +5214,10 @@
     "cidade": "Maceió - AL",
     "contato": "Alciele",
     "telefone": "nan",
-    "lat": -9.6610777,
-    "lng": -35.7425664,
+    "lat": -9.6628292,
+    "lng": -35.7423262,
     "equipamentos": [
-      "14/10/2025 - 2100 - Spark 2819"
+      "10/14/2025 - 2100 - Spark 2819"
     ]
   },
   {
@@ -5238,11 +5226,11 @@
     "cidade": "Ilhota - SC",
     "contato": "Gilson",
     "telefone": "nan",
-    "lat": -26.9023,
-    "lng": -48.8251,
+    "lat": -26.9091819,
+    "lng": -48.8370217,
     "equipamentos": [
-      "04/07/2024 - 940 - Mach Pro ATCL dna",
-      "26/11/2024 - 1258 - Edge 7"
+      "07/04/2024 - 940 - Mach Pro ATCL dna",
+      "11/26/2024 - 1258 - Edge 7"
     ]
   },
   {
@@ -5251,10 +5239,10 @@
     "cidade": "Itamaraju - BA",
     "contato": "Davi",
     "telefone": "nan",
-    "lat": -16.9812919,
-    "lng": -39.5597398,
+    "lat": -17.0340092,
+    "lng": -39.5315525,
     "equipamentos": [
-      "23/09/2024 - 1110 - Turbo Duo Dna"
+      "9/23/2024 - 1110 - Turbo Duo Dna"
     ]
   },
   {
@@ -5263,10 +5251,10 @@
     "cidade": "São Joaquim de Bicas - MG",
     "contato": "Adalton/Ester",
     "telefone": "nan",
-    "lat": -20.062592,
-    "lng": -44.2803643,
+    "lat": -20.0489052,
+    "lng": -44.2731691,
     "equipamentos": [
-      "18/09/2024 - 1101 - Spark Dna"
+      "9/18/2024 - 1101 - Spark Dna"
     ]
   },
   {
@@ -5275,10 +5263,10 @@
     "cidade": "Osório - RS",
     "contato": "Maicon",
     "telefone": "nan",
-    "lat": -29.8992512,
-    "lng": -50.2476061,
+    "lat": -29.8890733,
+    "lng": -50.2740498,
     "equipamentos": [
-      "30/09/2025 - 2057 - Turbo Dna+ coletor + Edge 7"
+      "9/30/2025 - 2057 - Turbo Dna+ coletor + Edge 7"
     ]
   },
   {
@@ -5287,10 +5275,10 @@
     "cidade": "Camboriú - SC",
     "contato": "Murilo",
     "telefone": "nan",
-    "lat": -27.0339449,
-    "lng": -48.6652989,
+    "lat": -27.0261331,
+    "lng": -48.663984,
     "equipamentos": [
-      "28/05/2025 - 1660 - Turbo Dna"
+      "5/28/2025 - 1660 - Turbo Dna"
     ]
   },
   {
@@ -5299,10 +5287,10 @@
     "cidade": "Jaraguá do Sul - SC",
     "contato": "José",
     "telefone": "nan",
-    "lat": -26.5027465,
-    "lng": -49.1413639,
+    "lat": -26.5134897,
+    "lng": -49.1268179,
     "equipamentos": [
-      "23/05/2025 - 1649 - Turbo Dna + coletor 10CV"
+      "5/23/2025 - 1649 - Turbo Dna + coletor 10CV"
     ]
   },
   {
@@ -5311,12 +5299,12 @@
     "cidade": "Guarulhos - SP",
     "contato": "Celso",
     "telefone": "nan",
-    "lat": -23.4538,
-    "lng": -46.5333,
+    "lat": -23.4588843,
+    "lng": -46.5090214,
     "equipamentos": [
-      "19/02/2025 - 1549 - Turbo Duo Dna com Carregamento + Centrinho",
-      "21/03/2025 - 1549 - Edge 8 Turbo + coletor 10CV",
-      "23/04/2025 - 1549 - Compressor parafuso de 20CV"
+      "2/19/2025 - 1549 - Turbo Duo Dna com Carregamento + Centrinho",
+      "3/21/2025 - 1549 - Edge 8 Turbo + coletor 10CV",
+      "4/23/2025 - 1549 - Compressor parafuso de 20CV"
     ]
   },
   {
@@ -5325,11 +5313,11 @@
     "cidade": "Pomerode - SC",
     "contato": "Claudinei",
     "telefone": "nan",
-    "lat": -26.7944702,
-    "lng": -49.1640788,
+    "lat": -26.7356218,
+    "lng": -49.1770095,
     "equipamentos": [
-      "14/07/2023 - 548 - Commander nesting",
-      "15/09/2023 - 613 - Carrinho"
+      "7/14/2023 - 548 - Commander nesting",
+      "9/15/2023 - 613 - Carrinho"
     ]
   },
   {
@@ -5338,10 +5326,10 @@
     "cidade": "Santa Teresa - ES",
     "contato": "Eder",
     "telefone": "nan",
-    "lat": -18.7208159,
-    "lng": -39.8727896,
+    "lat": -19.936339,
+    "lng": -40.597945,
     "equipamentos": [
-      "20/02/2024 - 771 - Turbo Dna"
+      "2/20/2024 - 771 - Turbo Dna"
     ]
   },
   {
@@ -5350,10 +5338,10 @@
     "cidade": "Blumenau - SC",
     "contato": "Flavio",
     "telefone": "nan",
-    "lat": -26.9372058,
-    "lng": -49.1466284,
+    "lat": -26.9316332,
+    "lng": -49.1478673,
     "equipamentos": [
-      "29/10/2024 - 1179 - Mach Pro ATCL dna"
+      "10/29/2024 - 1179 - Mach Pro ATCL dna"
     ]
   },
   {
@@ -5362,11 +5350,11 @@
     "cidade": "Guarulhos - SP",
     "contato": "Diego",
     "telefone": "nan",
-    "lat": -23.4538,
-    "lng": -46.5333,
+    "lat": -23.4588843,
+    "lng": -46.5090214,
     "equipamentos": [
-      "04/09/2025 - 1961 - Edge 8 turbo + compressor 20CV",
-      "15/08/2025 - 1904 - Turbo Duo com elevador"
+      "09/04/2025 - 1961 - Edge 8 turbo + compressor 20CV",
+      "8/15/2025 - 1904 - Turbo Duo com elevador"
     ]
   },
   {
@@ -5378,7 +5366,7 @@
     "lat": null,
     "lng": null,
     "equipamentos": [
-      "13/01/2022 - 247 - Mach Pro ATCL"
+      "1/13/2022 - 247 - Mach Pro ATCL"
     ]
   },
   {
@@ -5387,14 +5375,14 @@
     "cidade": "Cuiabá - MT",
     "contato": "Luiz Fernando",
     "telefone": "nan",
-    "lat": -15.6544904,
-    "lng": -56.0315236,
+    "lat": -15.5952629,
+    "lng": -56.048765,
     "equipamentos": [
-      "22/11/2024 - 1249 - Commander Dna + NR12",
-      "22/11/2024 - 1249 - Edge 8 Commander",
-      "22/11/2024 - 1249 - Mach Air 20CV",
-      "22/11/2024 - 1249 - Mach drill top 3S",
-      "22/11/2024 - 1249 - esteira de retorno edge 8"
+      "11/22/2024 - 1249 - Commander Dna + NR12",
+      "11/22/2024 - 1249 - Edge 8 Commander",
+      "11/22/2024 - 1249 - Mach Air 20CV",
+      "11/22/2024 - 1249 - Mach drill top 3S",
+      "11/22/2024 - 1249 - esteira de retorno edge 8"
     ]
   },
   {
@@ -5403,10 +5391,10 @@
     "cidade": "Mafra - SC",
     "contato": "Helinton",
     "telefone": "nan",
-    "lat": -26.1239637,
-    "lng": -49.8117673,
+    "lat": -26.1255557,
+    "lng": -49.8188964,
     "equipamentos": [
-      "28/05/2024 - 893 - Turbo Duo Dna + Edge 5 + coletores"
+      "5/28/2024 - 893 - Turbo Duo Dna + Edge 5 + coletores"
     ]
   },
   {
@@ -5415,10 +5403,10 @@
     "cidade": "Brasília - DF",
     "contato": "Wilson",
     "telefone": "nan",
-    "lat": -15.8270631,
-    "lng": -47.898673,
+    "lat": -15.7508868,
+    "lng": -47.9250462,
     "equipamentos": [
-      "20/09/2024 - 1084 - Turbo Duo Dna  + Lifter especial"
+      "9/20/2024 - 1084 - Turbo Duo Dna + Lifter especial"
     ]
   },
   {
@@ -5427,11 +5415,11 @@
     "cidade": "Almirante Tamandaré - PR",
     "contato": "Patricia",
     "telefone": "nan",
-    "lat": -25.3823756,
-    "lng": -49.3120609,
+    "lat": -25.360252,
+    "lng": -49.3291265,
     "equipamentos": [
-      "02/04/2025 - 1360 - Mesa de descarga",
-      "16/01/2025 - 1360 - Turbo Dna + Edge 7 + coletor"
+      "04/02/2025 - 1360 - Mesa de descarga",
+      "1/16/2025 - 1360 - Turbo Dna + Edge 7 + coletor"
     ]
   },
   {
@@ -5440,10 +5428,10 @@
     "cidade": "Cascavel - PR",
     "contato": "Eduardo",
     "telefone": "nan",
-    "lat": -4.12967,
-    "lng": -38.2412,
+    "lat": -24.9554996,
+    "lng": -53.4560544,
     "equipamentos": [
-      "29/01/2020 - nan - Elite 3020/2020"
+      "1/29/2020 - nan - Elite 3020/2020"
     ]
   },
   {
@@ -5452,10 +5440,10 @@
     "cidade": "Guaramirim - SC",
     "contato": "Adriano",
     "telefone": "nan",
-    "lat": -26.4742721,
-    "lng": -49.0010955,
+    "lat": -26.4744805,
+    "lng": -48.9981151,
     "equipamentos": [
-      "26/04/2021 - 118 - Elite X 3020"
+      "4/26/2021 - 118 - Elite X 3020"
     ]
   },
   {
@@ -5467,7 +5455,7 @@
     "lat": -20.3440407,
     "lng": -40.2923368,
     "equipamentos": [
-      "01/06/2023 - 505 - Faca tangencial"
+      "06/01/2023 - 505 - Faca tangencial"
     ]
   },
   {
@@ -5476,10 +5464,10 @@
     "cidade": "Santo Ângelo - RS",
     "contato": "Ederson",
     "telefone": "nan",
-    "lat": -28.3001,
-    "lng": -54.2668,
+    "lat": -28.3005327,
+    "lng": -54.2732051,
     "equipamentos": [
-      "28/04/2022 - 287 - Mach Pro ATCL"
+      "4/28/2022 - 287 - Mach Pro ATCL"
     ]
   },
   {
@@ -5488,11 +5476,11 @@
     "cidade": "São Paulo - SP",
     "contato": "Ruan",
     "telefone": "nan",
-    "lat": -23.5329,
-    "lng": -46.6395,
+    "lat": -23.5383214,
+    "lng": -46.6391624,
     "equipamentos": [
-      "05/09/2025 - 1984 - ATCL Dna",
-      "28/05/2025 - 1674 - Edge 6"
+      "09/05/2025 - 1984 - ATCL Dna",
+      "5/28/2025 - 1674 - Edge 6"
     ]
   },
   {
@@ -5501,10 +5489,10 @@
     "cidade": "Palhoça - SC",
     "contato": "Lucas",
     "telefone": "nan",
-    "lat": -27.6455,
-    "lng": -48.6697,
+    "lat": -27.8356765,
+    "lng": -48.5985018,
     "equipamentos": [
-      "12/04/2024 - 837 - Mach Pro ATCL dna"
+      "04/12/2024 - 837 - Mach Pro ATCL dna"
     ]
   },
   {
@@ -5513,10 +5501,10 @@
     "cidade": "Bento Gonçalves - RS",
     "contato": "Cristiane",
     "telefone": "54 99183-6768",
-    "lat": -29.1651127,
-    "lng": -51.5175244,
+    "lat": -29.1649725,
+    "lng": -51.5175466,
     "equipamentos": [
-      "26/09/2025 - 2037 - ATCL Dna 2819"
+      "9/26/2025 - 2037 - ATCL Dna 2819"
     ]
   },
   {
@@ -5528,7 +5516,7 @@
     "lat": null,
     "lng": null,
     "equipamentos": [
-      "03/12/2024 - 1303 - Turbo Duo Dna"
+      "12/03/2024 - 1303 - Turbo Duo Dna"
     ]
   },
   {
@@ -5537,10 +5525,10 @@
     "cidade": "Caxias do Sul - RS",
     "contato": "Solonide",
     "telefone": "nan",
-    "lat": -29.1176182,
-    "lng": -51.1076433,
+    "lat": -29.107606,
+    "lng": -51.079827,
     "equipamentos": [
-      "17/05/2022 - 293 - Elite ESP 4° eixo"
+      "5/17/2022 - 293 - Elite ESP 4° eixo"
     ]
   },
   {
@@ -5549,10 +5537,10 @@
     "cidade": "São Paulo - SP",
     "contato": "Pedro",
     "telefone": "nan",
-    "lat": -23.5329,
-    "lng": -46.6395,
+    "lat": -23.5383214,
+    "lng": -46.6391624,
     "equipamentos": [
-      "30/09/2025 - nan - Turbo Dna"
+      "9/30/2025 - nan - Turbo Dna"
     ]
   },
   {
@@ -5561,10 +5549,10 @@
     "cidade": "São José de Ribamar - MA",
     "contato": "Pedro",
     "telefone": "nan",
-    "lat": -2.4836889,
-    "lng": -44.1904892,
+    "lat": -2.4821668,
+    "lng": -44.1913814,
     "equipamentos": [
-      "26/06/2025 - 1735 - Edge 5 + Coletor 10CV"
+      "6/26/2025 - 1735 - Edge 5 + Coletor 10CV"
     ]
   },
   {
@@ -5573,10 +5561,10 @@
     "cidade": "Santo Ângelo - RS",
     "contato": "Junior",
     "telefone": "nan",
-    "lat": -28.3001,
-    "lng": -54.2668,
+    "lat": -28.3005327,
+    "lng": -54.2732051,
     "equipamentos": [
-      "13/09/2023 - 611 - Mach Pro Turbo"
+      "9/13/2023 - 611 - Mach Pro Turbo"
     ]
   },
   {
@@ -5588,7 +5576,7 @@
     "lat": null,
     "lng": null,
     "equipamentos": [
-      "06/08/2024 - 1013 - Turbo Duo Dna"
+      "08/06/2024 - 1013 - Turbo Duo Dna"
     ]
   },
   {
@@ -5597,10 +5585,10 @@
     "cidade": "Botuverá - SC",
     "contato": "Sr Vilmar",
     "telefone": "nan",
-    "lat": -27.199098,
-    "lng": -49.0735885,
+    "lat": -27.1990695,
+    "lng": -49.0726471,
     "equipamentos": [
-      "27/04/2023 - 474 - Mach Pro Turbo Duo 2819 Esp"
+      "4/27/2023 - 474 - Mach Pro Turbo Duo 2819 Esp"
     ]
   },
   {
@@ -5609,10 +5597,10 @@
     "cidade": "Biguaçu - SC",
     "contato": "Bruno Pauli",
     "telefone": "nan",
-    "lat": -27.493659,
-    "lng": -48.6600916,
+    "lat": -27.4938426,
+    "lng": -48.6603983,
     "equipamentos": [
-      "15/03/2021 - 152 - Master Duo"
+      "3/15/2021 - 152 - Master Duo"
     ]
   },
   {
@@ -5621,12 +5609,12 @@
     "cidade": "Nova Serrana - MG",
     "contato": "Marcos",
     "telefone": "nan",
-    "lat": -19.8897194,
-    "lng": -44.9947868,
+    "lat": -19.8903201,
+    "lng": -44.9787034,
     "equipamentos": [
-      "07/12/2022 - 393 - Spark 8060 2 und",
-      "10/03/2023 - 450 - Spark 8060",
-      "10/03/2023 - 451 - Spark 8060"
+      "03/10/2023 - 450 - Spark 8060",
+      "03/10/2023 - 451 - Spark 8060",
+      "12/07/2022 - 393 - Spark 8060 2 und"
     ]
   },
   {
@@ -5635,10 +5623,10 @@
     "cidade": "Colatina - ES",
     "contato": "Pedro/ Mario",
     "telefone": "nan",
-    "lat": -19.5493,
-    "lng": -40.6269,
+    "lat": -19.4679445,
+    "lng": -40.6470419,
     "equipamentos": [
-      "15/05/2023 - 493 - Mach Pro Turbo Duo"
+      "5/15/2023 - 493 - Mach Pro Turbo Duo"
     ]
   },
   {
@@ -5647,10 +5635,10 @@
     "cidade": "Rio Bonito - RJ",
     "contato": "Edilandio",
     "telefone": "nan",
-    "lat": -22.7110115,
-    "lng": -42.6250937,
+    "lat": -22.7368566,
+    "lng": -42.5702111,
     "equipamentos": [
-      "29/09/2021 - 215 - Mach Pro 5019"
+      "9/29/2021 - 215 - Mach Pro 5019"
     ]
   },
   {
@@ -5659,10 +5647,10 @@
     "cidade": "Brusque - SC",
     "contato": "Kleiton",
     "telefone": "nan",
-    "lat": -27.1181611,
-    "lng": -48.9484703,
+    "lat": -27.1177874,
+    "lng": -48.9484636,
     "equipamentos": [
-      "19/03/2021 - 154 ab 153 fat - Evo ATC L"
+      "3/19/2021 - 154 ab 153 fat - Evo ATC L"
     ]
   },
   {
@@ -5671,10 +5659,10 @@
     "cidade": "Barra Velha - SC",
     "contato": "Agnes/Gaucho",
     "telefone": "nan",
-    "lat": -26.6453931,
-    "lng": -48.687159,
+    "lat": -26.6338203,
+    "lng": -48.6835001,
     "equipamentos": [
-      "25/09/2025 - 2040 - ATCL Dna 2819"
+      "9/25/2025 - 2040 - ATCL Dna 2819"
     ]
   },
   {
@@ -5683,8 +5671,8 @@
     "cidade": "Corupá - SC",
     "contato": "Clércio",
     "telefone": "nan",
-    "lat": -26.4246,
-    "lng": -49.246,
+    "lat": -26.4266403,
+    "lng": -49.2419437,
     "equipamentos": [
       "08/08/2019 - nan - Elite 3020+vácuo"
     ]
@@ -5695,10 +5683,10 @@
     "cidade": "Duque de Caxias - RJ",
     "contato": "Guillen",
     "telefone": "nan",
-    "lat": -22.7858,
-    "lng": -43.3049,
+    "lat": -22.7751126,
+    "lng": -43.2958146,
     "equipamentos": [
-      "09/08/2024 - 1017 - Turbo Dna"
+      "08/09/2024 - 1017 - Turbo Dna"
     ]
   },
   {
@@ -5710,7 +5698,7 @@
     "lat": -19.682223,
     "lng": -44.890555,
     "equipamentos": [
-      "23/10/2023 - 650 - Mach Edge 8"
+      "10/23/2023 - 650 - Mach Edge 8"
     ]
   },
   {
@@ -5722,7 +5710,7 @@
     "lat": -19.682223,
     "lng": -44.890555,
     "equipamentos": [
-      "25/10/2023 - 649 - Commander"
+      "10/25/2023 - 649 - Commander"
     ]
   },
   {
@@ -5731,8 +5719,8 @@
     "cidade": "São Bernardo do Campo - SP",
     "contato": "Adriana",
     "telefone": "nan",
-    "lat": -23.6914,
-    "lng": -46.5646,
+    "lat": -23.7080345,
+    "lng": -46.5506747,
     "equipamentos": [
       "04/04/2025 - 1542 - Turbo Dna 2819"
     ]
@@ -5743,10 +5731,10 @@
     "cidade": "São Leopoldo - RS",
     "contato": "Matias",
     "telefone": "nan",
-    "lat": -29.7545,
-    "lng": -51.1498,
+    "lat": -29.7365873,
+    "lng": -51.1710471,
     "equipamentos": [
-      "13/09/2019 - nan - Master 2013"
+      "9/13/2019 - nan - Master 2013"
     ]
   },
   {
@@ -5755,10 +5743,10 @@
     "cidade": "Corupá - SC",
     "contato": "Alaor",
     "telefone": "nan",
-    "lat": -26.4266403,
-    "lng": -49.2419437,
+    "lat": -26.4267153,
+    "lng": -49.24747,
     "equipamentos": [
-      "23/05/2022 - 297 - Mach Pro ATCL 5019"
+      "5/23/2022 - 297 - Mach Pro ATCL 5019"
     ]
   },
   {
@@ -5767,10 +5755,10 @@
     "cidade": "Ibaté - SP",
     "contato": "Rodrigo",
     "telefone": "nan",
-    "lat": -21.9584,
-    "lng": -47.9882,
+    "lat": -21.9599254,
+    "lng": -48.0045117,
     "equipamentos": [
-      "19/08/2025 - 1918 - Elite Super Drill",
+      "8/19/2025 - 1918 - Elite Super Drill",
       "nan - 2071 - Coladeira Edge 7"
     ]
   },
@@ -5780,11 +5768,11 @@
     "cidade": "Botuverá - SC",
     "contato": "Fernando",
     "telefone": "nan",
-    "lat": -27.199098,
-    "lng": -49.0735885,
+    "lat": -27.1990695,
+    "lng": -49.0726471,
     "equipamentos": [
-      "19/09/2023 - 616 - Mach Edge 8",
-      "23/06/2021 - 190 - Elite ATC L"
+      "6/23/2021 - 190 - Elite ATC L",
+      "9/19/2023 - 616 - Mach Edge 8"
     ]
   },
   {
@@ -5793,10 +5781,10 @@
     "cidade": "Botuverá - SC",
     "contato": "Fernando",
     "telefone": "47 98481-2107",
-    "lat": -27.199098,
-    "lng": -49.0735885,
+    "lat": -27.1990695,
+    "lng": -49.0726471,
     "equipamentos": [
-      "22/10/2025 - 2119 - Mach Drill top 4S"
+      "10/22/2025 - 2119 - Mach Drill top 4S"
     ]
   },
   {
@@ -5808,7 +5796,7 @@
     "lat": -21.7414688,
     "lng": -43.3703788,
     "equipamentos": [
-      "01/02/2024 - 757 - Edge 7"
+      "02/01/2024 - 757 - Edge 7"
     ]
   },
   {
@@ -5817,10 +5805,10 @@
     "cidade": "Curitiba - PR",
     "contato": "Alysson",
     "telefone": "nan",
-    "lat": -25.4996595,
-    "lng": -49.2170256,
+    "lat": -25.5020552,
+    "lng": -49.2150846,
     "equipamentos": [
-      "27/10/2021 - 228 - Mach Pro 5019"
+      "10/27/2021 - 228 - Mach Pro 5019"
     ]
   },
   {
@@ -5832,8 +5820,8 @@
     "lat": -23.2828593,
     "lng": -51.1581957,
     "equipamentos": [
-      "18/12/2024 - 1306 - Edge 5",
-      "18/12/2024 - 1306 - Spark Dna"
+      "12/18/2024 - 1306 - Edge 5",
+      "12/18/2024 - 1306 - Spark Dna"
     ]
   },
   {
@@ -5842,22 +5830,10 @@
     "cidade": "Juiz de Fora - MG",
     "contato": "Silvania/Vicente",
     "telefone": "nan",
-    "lat": -21.7344054,
-    "lng": -43.3885465,
+    "lat": -21.6955924,
+    "lng": -43.4258588,
     "equipamentos": [
-      "20/09/2023 - 618 - Mach Edge 8"
-    ]
-  },
-  {
-    "nome": "Projetta Aluminio",
-    "cnpj": null,
-    "cidade": "Uberlândia - MG",
-    "contato": "Felipe",
-    "telefone": "nan",
-    "lat": -18.9141,
-    "lng": -48.2749,
-    "equipamentos": [
-      "05/08/2020 - 38 - Evo 5020 2Sp"
+      "9/20/2023 - 618 - Mach Edge 8"
     ]
   },
   {
@@ -5866,10 +5842,10 @@
     "cidade": "Agudos - SP",
     "contato": "Roger",
     "telefone": "nan",
-    "lat": -22.4694,
-    "lng": -48.9863,
+    "lat": -22.4719836,
+    "lng": -48.9884476,
     "equipamentos": [
-      "25/09/2023 - 624 - Laser 1490"
+      "9/25/2023 - 624 - Laser 1490"
     ]
   },
   {
@@ -5878,10 +5854,10 @@
     "cidade": "Cianorte - PR",
     "contato": "Ana Maria",
     "telefone": "nan",
-    "lat": -23.6689538,
-    "lng": -52.6250045,
+    "lat": -23.6495969,
+    "lng": -52.613557,
     "equipamentos": [
-      "25/05/2021 - 182 - Ax Pro  c/ faca"
+      "5/25/2021 - 182 - Ax Pro c/ faca"
     ]
   },
   {
@@ -5890,10 +5866,10 @@
     "cidade": "Mairiporã - SP",
     "contato": "Lucélio",
     "telefone": "nan",
-    "lat": -23.3171,
-    "lng": -46.5897,
+    "lat": -23.4158121,
+    "lng": -46.6643673,
     "equipamentos": [
-      "22/08/2024 - 1045 - Turbo Duo Dna"
+      "8/22/2024 - 1045 - Turbo Duo Dna"
     ]
   },
   {
@@ -5902,10 +5878,10 @@
     "cidade": "Itapuí - SP",
     "contato": "Rafael",
     "telefone": "nan",
-    "lat": -22.2324,
-    "lng": -48.7197,
+    "lat": -22.2275022,
+    "lng": -48.7378187,
     "equipamentos": [
-      "08/01/2021 - 130 - Master 3025 3S"
+      "01/08/2021 - 130 - Master 3025 3S"
     ]
   },
   {
@@ -5914,10 +5890,10 @@
     "cidade": "Ubá - MG",
     "contato": "Filipe/Marcio",
     "telefone": "nan",
-    "lat": -21.1345365,
-    "lng": -42.942516,
+    "lat": -21.1344543,
+    "lng": -42.9424053,
     "equipamentos": [
-      "17/08/2023 - 578 - Revo 1010"
+      "8/17/2023 - 578 - Revo 1010"
     ]
   },
   {
@@ -5926,10 +5902,10 @@
     "cidade": "Parnaíba - PI",
     "contato": "Marcio",
     "telefone": "47 3084-2933",
-    "lat": -2.90585,
-    "lng": -41.7754,
+    "lat": -2.9036875,
+    "lng": -41.7470181,
     "equipamentos": [
-      "18/07/2022 - 328 - Mach Pro Turbo"
+      "7/18/2022 - 328 - Mach Pro Turbo"
     ]
   },
   {
@@ -5938,10 +5914,10 @@
     "cidade": "São Paulo - SP",
     "contato": "Renato",
     "telefone": "nan",
-    "lat": -23.5329,
-    "lng": -46.6395,
+    "lat": -23.5383214,
+    "lng": -46.6391624,
     "equipamentos": [
-      "31/07/2020 - 35 - Evo 3020 3SBG"
+      "7/31/2020 - 35 - Evo 3020 3SBG"
     ]
   },
   {
@@ -5950,10 +5926,10 @@
     "cidade": "Cachoeirinha - RS",
     "contato": "Samuel",
     "telefone": "nan",
-    "lat": -29.9327927,
-    "lng": -51.0779924,
+    "lat": -29.9500282,
+    "lng": -51.108922,
     "equipamentos": [
-      "28/06/2024 - 937 - Commander"
+      "6/28/2024 - 937 - Commander"
     ]
   },
   {
@@ -5962,10 +5938,10 @@
     "cidade": "Penápolis - SP",
     "contato": "Rafael",
     "telefone": "nan",
-    "lat": -21.4185386,
-    "lng": -50.0717119,
+    "lat": -21.3879477,
+    "lng": -50.0910355,
     "equipamentos": [
-      "24/10/2024 - 1161 - Turbo Duo Dna + coletor de pó"
+      "10/24/2024 - 1161 - Turbo Duo Dna + coletor de pó"
     ]
   },
   {
@@ -5974,10 +5950,10 @@
     "cidade": "São Bernardo do Campo - SP",
     "contato": "Rafael",
     "telefone": "nan",
-    "lat": -23.6914,
-    "lng": -46.5646,
+    "lat": -23.7080345,
+    "lng": -46.5506747,
     "equipamentos": [
-      "19/11/2024 - 1246 - ATCL Dna + Coletor 5 CV"
+      "11/19/2024 - 1246 - ATCL Dna + Coletor 5 CV"
     ]
   },
   {
@@ -5986,10 +5962,10 @@
     "cidade": "Mogi Mirim - SP",
     "contato": "Rafael",
     "telefone": "nan",
-    "lat": -22.417333,
-    "lng": -46.9550696,
+    "lat": -22.4173879,
+    "lng": -46.9550817,
     "equipamentos": [
-      "11/08/2025 - 1872 - Edge 8 Turbo"
+      "08/11/2025 - 1872 - Edge 8 Turbo"
     ]
   },
   {
@@ -5998,10 +5974,10 @@
     "cidade": "São José - SC",
     "contato": "Rafael",
     "telefone": "nan",
-    "lat": -31.7235003,
-    "lng": -52.3583852,
+    "lat": -31.7151883,
+    "lng": -52.3535227,
     "equipamentos": [
-      "26/11/2021 - 239 - Mach Pro 2S"
+      "11/26/2021 - 239 - Mach Pro 2S"
     ]
   },
   {
@@ -6010,11 +5986,11 @@
     "cidade": "Boa Esperança - ES",
     "contato": "Reginaldo",
     "telefone": "nan",
-    "lat": -20.8507737,
-    "lng": -41.1569143,
+    "lat": -18.5395472,
+    "lng": -40.2904088,
     "equipamentos": [
-      "20/05/2024 - 882 - ATCL Dna",
-      "25/04/2024 - 854 - Edge 5 / Coletor"
+      "4/25/2024 - 854 - Edge 5 / Coletor",
+      "5/20/2024 - 882 - ATCL Dna"
     ]
   },
   {
@@ -6023,11 +5999,11 @@
     "cidade": "Santa Maria - RS",
     "contato": "Raquel",
     "telefone": "nan",
-    "lat": -29.7024017,
-    "lng": -53.8070979,
+    "lat": -29.7027928,
+    "lng": -53.8068742,
     "equipamentos": [
-      "22/11/2024 - 1247 - ATCL Dna + Coletor 10 CV",
-      "22/11/2024 - 1247 - Edge 6"
+      "11/22/2024 - 1247 - ATCL Dna + Coletor 10 CV",
+      "11/22/2024 - 1247 - Edge 6"
     ]
   },
   {
@@ -6036,11 +6012,11 @@
     "cidade": "Itajaí - SC",
     "contato": "Alcides",
     "telefone": "46 98481-2107",
-    "lat": -27.0085014,
-    "lng": -48.7689305,
+    "lat": -27.0086803,
+    "lng": -48.7690447,
     "equipamentos": [
-      "14/07/2022 - 324 - Mach Pro Turbo",
-      "30/08/2023 - 603 - Mesa de Descarga"
+      "7/14/2022 - 324 - Mach Pro Turbo",
+      "8/30/2023 - 603 - Mesa de Descarga"
     ]
   },
   {
@@ -6052,8 +6028,8 @@
     "lat": -22.3753684,
     "lng": -47.555449,
     "equipamentos": [
-      "04/11/2021 - 230 - Evo Esp",
-      "25/08/2020 - 49 - Elite 2013 especial"
+      "11/04/2021 - 230 - Evo Esp",
+      "8/25/2020 - 49 - Elite 2013 especial"
     ]
   },
   {
@@ -6062,8 +6038,8 @@
     "cidade": "Campos dos Goytacazes - RJ",
     "contato": "Jeovane",
     "telefone": "nan",
-    "lat": -21.7631639,
-    "lng": -41.3309866,
+    "lat": -21.7570643,
+    "lng": -41.3284201,
     "equipamentos": [
       "09/09/2024 - 1073 - Edge 6"
     ]
@@ -6074,10 +6050,10 @@
     "cidade": "Sarandi - PR",
     "contato": "Leandro",
     "telefone": "nan",
-    "lat": -27.942,
-    "lng": -52.9231,
+    "lat": -23.4354081,
+    "lng": -51.8845069,
     "equipamentos": [
-      "05/09/2025 - 1973 - ATCL Dna"
+      "09/05/2025 - 1973 - ATCL Dna"
     ]
   },
   {
@@ -6089,7 +6065,7 @@
     "lat": -7.0704985,
     "lng": -34.8527862,
     "equipamentos": [
-      "28/01/2025 - 1375 - ATC-L dna  + edge 5"
+      "1/28/2025 - 1375 - ATC-L dna + edge 5"
     ]
   },
   {
@@ -6098,10 +6074,10 @@
     "cidade": "Itajaí - SC",
     "contato": "Larissa",
     "telefone": "nan",
-    "lat": -26.9101,
-    "lng": -48.6705,
+    "lat": -26.9201424,
+    "lng": -48.647609,
     "equipamentos": [
-      "23/08/2019 - nan - Spark 2013"
+      "8/23/2019 - nan - Spark 2013"
     ]
   },
   {
@@ -6113,7 +6089,7 @@
     "lat": -26.9781248,
     "lng": -48.7334683,
     "equipamentos": [
-      "16/07/2024 - 969 - Turbo Duo Dna"
+      "7/16/2024 - 969 - Turbo Duo Dna"
     ]
   },
   {
@@ -6122,10 +6098,10 @@
     "cidade": "Cambé - PR",
     "contato": "Jonas",
     "telefone": "nan",
-    "lat": -23.2972704,
-    "lng": -51.242091,
+    "lat": -23.2997445,
+    "lng": -51.2451132,
     "equipamentos": [
-      "16/01/2024 - 715 - Mach Pro ATCL"
+      "1/16/2024 - 715 - Mach Pro ATCL"
     ]
   },
   {
@@ -6134,22 +6110,22 @@
     "cidade": "Osasco - SP",
     "contato": "Julio",
     "telefone": "nan",
-    "lat": -23.5324,
-    "lng": -46.7916,
+    "lat": -23.5299744,
+    "lng": -46.7825411,
     "equipamentos": [
-      "02/01/2024 - 719 - Turbo"
+      "01/02/2024 - 719 - Turbo"
     ]
   },
   {
     "nome": "Rhodes cadeiras",
     "cnpj": null,
     "cidade": "Cambuí - MG",
-    "contato": "nan",
-    "telefone": "nan",
-    "lat": -22.6115,
-    "lng": -46.0572,
+    "contato": "Leandro",
+    "telefone": "35 98866-6577",
+    "lat": -20.5833477,
+    "lng": -46.9218612,
     "equipamentos": [
-      "24/09/2020 - 72 - Evo 1010 Especial"
+      "9/24/2020 - 72 - Evo 1010 Especial"
     ]
   },
   {
@@ -6161,7 +6137,7 @@
     "lat": -29.139893,
     "lng": -51.5154805,
     "equipamentos": [
-      "04/03/2024 - 786 - Mach Pro ATCL"
+      "03/04/2024 - 786 - Mach Pro ATCL"
     ]
   },
   {
@@ -6173,7 +6149,7 @@
     "lat": -27.0778313,
     "lng": -48.9124523,
     "equipamentos": [
-      "25/04/2025 - 1593 - ATCL Dna"
+      "4/25/2025 - 1593 - ATCL Dna"
     ]
   },
   {
@@ -6182,10 +6158,10 @@
     "cidade": "Caratinga - MG",
     "contato": "Marcos",
     "telefone": "nan",
-    "lat": -19.7868,
-    "lng": -42.1292,
+    "lat": -19.7714468,
+    "lng": -42.1284709,
     "equipamentos": [
-      "16/08/2023 - 577 - Lifter"
+      "8/16/2023 - 577 - Lifter"
     ]
   },
   {
@@ -6197,7 +6173,7 @@
     "lat": -19.8552558,
     "lng": -44.0100806,
     "equipamentos": [
-      "08/09/2023 - 605 - Mach Pro Turbo"
+      "09/08/2023 - 605 - Mach Pro Turbo"
     ]
   },
   {
@@ -6209,11 +6185,11 @@
     "lat": -28.7115702,
     "lng": -49.3613272,
     "equipamentos": [
-      "01/10/2024 - 1127 - Turbo Dna"
+      "10/01/2024 - 1127 - Turbo Dna"
     ]
   },
   {
-    "nome": "Rodrigo  Ferreira da Silva/ Juli",
+    "nome": "Rodrigo Ferreira da Silva/ Juli",
     "cnpj": null,
     "cidade": "Jaraguá do Sul - SC",
     "contato": "Rodrigo",
@@ -6221,7 +6197,7 @@
     "lat": -26.4244156,
     "lng": -49.0801989,
     "equipamentos": [
-      "18/07/2025 - 1814 - ATCL Dna"
+      "7/18/2025 - 1814 - ATCL Dna"
     ]
   },
   {
@@ -6233,7 +6209,7 @@
     "lat": -28.2963893,
     "lng": -52.4233983,
     "equipamentos": [
-      "20/08/2025 - 1910 - Edge 6"
+      "8/20/2025 - 1910 - Edge 6"
     ]
   },
   {
@@ -6242,10 +6218,10 @@
     "cidade": "Rio Claro - SP",
     "contato": "Rodrigo",
     "telefone": "nan",
-    "lat": -22.3984,
-    "lng": -47.5546,
+    "lat": -22.3588911,
+    "lng": -47.5531482,
     "equipamentos": [
-      "15/09/2019 - nan - Xpro 2515"
+      "9/15/2019 - nan - Xpro 2515"
     ]
   },
   {
@@ -6254,10 +6230,10 @@
     "cidade": "Barbosa - RS",
     "contato": "Rodrigo",
     "telefone": "nan",
-    "lat": -29.2994583,
-    "lng": -51.5021878,
+    "lat": -29.2978372,
+    "lng": -51.5005613,
     "equipamentos": [
-      "10/07/2024 - 959 - ATCL Dna"
+      "07/10/2024 - 959 - ATCL Dna"
     ]
   },
   {
@@ -6266,10 +6242,10 @@
     "cidade": "São Paulo - SP",
     "contato": "Rodrigo",
     "telefone": "nan",
-    "lat": -21.4387117,
-    "lng": -47.3481672,
+    "lat": -21.4869452,
+    "lng": -47.3654908,
     "equipamentos": [
-      "04/06/2025 - 1676 - ATCL Dna"
+      "06/04/2025 - 1676 - ATCL Dna"
     ]
   },
   {
@@ -6278,10 +6254,10 @@
     "cidade": "Nova Serrana - MG",
     "contato": "Rogério",
     "telefone": "nan",
-    "lat": -19.8713,
-    "lng": -44.9847,
+    "lat": -19.8861288,
+    "lng": -44.9811147,
     "equipamentos": [
-      "13/11/2020 - 91 - Spark 8060"
+      "11/13/2020 - 91 - Spark 8060"
     ]
   },
   {
@@ -6290,10 +6266,10 @@
     "cidade": "Poté - MG",
     "contato": "Ronaldo",
     "telefone": "nan",
-    "lat": -17.8120548,
-    "lng": -41.7907381,
+    "lat": -17.8074949,
+    "lng": -41.7892455,
     "equipamentos": [
-      "26/12/2024 - 1317 - Spark Dna"
+      "12/26/2024 - 1317 - Spark Dna"
     ]
   },
   {
@@ -6314,10 +6290,10 @@
     "cidade": "Imbituba - SC",
     "contato": "Ezequiel",
     "telefone": "nan",
-    "lat": -28.2496983,
-    "lng": -48.6787846,
+    "lat": -28.241827,
+    "lng": -48.6643444,
     "equipamentos": [
-      "23/09/2022 - 356 - Mach Laser 1390"
+      "9/23/2022 - 356 - Mach Laser 1390"
     ]
   },
   {
@@ -6326,11 +6302,11 @@
     "cidade": "Maringá - PR",
     "contato": "Rogério",
     "telefone": "nan",
-    "lat": -23.3983734,
-    "lng": -51.9671999,
+    "lat": -23.4010945,
+    "lng": -51.9628074,
     "equipamentos": [
-      "16/02/2024 - 765 - Edge 5",
-      "16/02/2024 - 766 - Turbo"
+      "2/16/2024 - 765 - Edge 5",
+      "2/16/2024 - 766 - Turbo"
     ]
   },
   {
@@ -6339,10 +6315,10 @@
     "cidade": "Cariacica - ES",
     "contato": "Rudison",
     "telefone": "nan",
-    "lat": -20.2580821,
-    "lng": -40.4260265,
+    "lat": -20.3857616,
+    "lng": -40.3706897,
     "equipamentos": [
-      "16/03/2022 - 276 - Mach Pro ATCL"
+      "3/16/2022 - 276 - Mach Pro ATCL"
     ]
   },
   {
@@ -6354,7 +6330,7 @@
     "lat": -26.7964918,
     "lng": -49.0964268,
     "equipamentos": [
-      "31/03/2025 - 1538 - 2 und Revo especial"
+      "3/31/2025 - 1538 - 2 und Revo especial"
     ]
   },
   {
@@ -6366,7 +6342,7 @@
     "lat": -27.4711965,
     "lng": -48.4134631,
     "equipamentos": [
-      "20/12/2022 - 399 - Spark 8060"
+      "12/20/2022 - 399 - Spark 8060"
     ]
   },
   {
@@ -6375,10 +6351,10 @@
     "cidade": "Ituporanga - SC",
     "contato": "Thiago",
     "telefone": "nan",
-    "lat": -27.4101,
-    "lng": -49.5963,
+    "lat": -27.3990091,
+    "lng": -49.6035661,
     "equipamentos": [
-      "06/11/2020 - 103 - Evo 5019"
+      "11/06/2020 - 103 - Evo 5019"
     ]
   },
   {
@@ -6387,10 +6363,10 @@
     "cidade": "Vila Velha - ES",
     "contato": "Vinicius",
     "telefone": "nan",
-    "lat": -20.3417,
-    "lng": -40.2875,
+    "lat": -20.4240958,
+    "lng": -40.3290506,
     "equipamentos": [
-      "29/10/2020 - 94 - Ax pro 3020"
+      "10/29/2020 - 94 - Ax pro 3020"
     ]
   },
   {
@@ -6402,19 +6378,19 @@
     "lat": -19.4638531,
     "lng": -42.5391566,
     "equipamentos": [
-      "12/09/2022 - 349 - Mach Turbo"
+      "09/12/2022 - 349 - Mach Turbo"
     ]
   },
   {
-    "nome": "Sandra M L  de Castro FJ2",
+    "nome": "Sandra M L de Castro FJ2",
     "cnpj": null,
     "cidade": "Salvador - BA",
     "contato": "Delsuc",
     "telefone": "nan",
-    "lat": -12.9790899,
-    "lng": -38.4805282,
+    "lat": -12.9783675,
+    "lng": -38.5006223,
     "equipamentos": [
-      "05/08/2024 - 998 - Mach Pro ATCL dna"
+      "08/05/2024 - 998 - Mach Pro ATCL dna"
     ]
   },
   {
@@ -6423,10 +6399,10 @@
     "cidade": "Cariacica - ES",
     "contato": "Taquetti",
     "telefone": "nan",
-    "lat": -20.2580821,
-    "lng": -40.4260265,
+    "lat": -20.3857616,
+    "lng": -40.3706897,
     "equipamentos": [
-      "25/06/2024 - 928 - ATCL Dna"
+      "6/25/2024 - 928 - ATCL Dna"
     ]
   },
   {
@@ -6435,10 +6411,10 @@
     "cidade": "Palhoça - SC",
     "contato": "Junior Elmar",
     "telefone": "nan",
-    "lat": -27.6455,
-    "lng": -48.6697,
+    "lat": -27.8356886,
+    "lng": -48.5985022,
     "equipamentos": [
-      "02/08/2024 - 1004 - Turbo Dna"
+      "08/02/2024 - 1004 - Turbo Dna"
     ]
   },
   {
@@ -6450,8 +6426,8 @@
     "lat": -19.4716748,
     "lng": -42.5167644,
     "equipamentos": [
-      "29/07/2024 - 994 - Edge 7",
-      "30/04/2025 - 1605 - Mach Door 4S"
+      "4/30/2025 - 1605 - Mach Door 4S",
+      "7/29/2024 - 994 - Edge 7"
     ]
   },
   {
@@ -6460,11 +6436,11 @@
     "cidade": "Goiânia - GO",
     "contato": "José Antonio",
     "telefone": "nan",
-    "lat": -16.6864,
-    "lng": -49.2643,
+    "lat": -16.2590184,
+    "lng": -47.9300112,
     "equipamentos": [
-      "14/06/2023 - 489 - Fiber Laser",
-      "15/03/2023 - 447 - Spark 2819/ mach laser 1390"
+      "3/15/2023 - 447 - Spark 2819/ mach laser 1390",
+      "6/14/2023 - 489 - Fiber Laser"
     ]
   },
   {
@@ -6473,10 +6449,10 @@
     "cidade": "Rio Claro - SP",
     "contato": "Junior",
     "telefone": "nan",
-    "lat": -22.3984,
-    "lng": -47.5546,
+    "lat": -22.3588911,
+    "lng": -47.5531482,
     "equipamentos": [
-      "31/08/2019 - nan - M32"
+      "8/31/2019 - nan - M32"
     ]
   },
   {
@@ -6485,12 +6461,12 @@
     "cidade": "Salto de Pirapora - SP",
     "contato": "Eric",
     "telefone": "nan",
-    "lat": -23.6474,
-    "lng": -47.5743,
+    "lat": -23.6646409,
+    "lng": -47.5818636,
     "equipamentos": [
-      "07/06/2022 - 311 - Evo especial",
-      "11/05/2021 - 172 - Elite X 5019",
-      "24/03/2021 - 155 - ELITE 3020 2S"
+      "05/11/2021 - 172 - Elite X 5019",
+      "06/07/2022 - 311 - Evo especial",
+      "3/24/2021 - 155 - ELITE 3020 2S"
     ]
   },
   {
@@ -6502,7 +6478,7 @@
     "lat": -20.3958969,
     "lng": -40.3347815,
     "equipamentos": [
-      "30/04/2025 - 1727 - Turbo Duo Dna"
+      "4/30/2025 - 1727 - Turbo Duo Dna"
     ]
   },
   {
@@ -6511,10 +6487,10 @@
     "cidade": "Colombo - PR",
     "contato": "Diogo",
     "telefone": "nan",
-    "lat": -25.365221,
-    "lng": -49.1857777,
+    "lat": -25.3769429,
+    "lng": -49.1850269,
     "equipamentos": [
-      "19/12/2024 - 1305 - Turbo Dna + coletor de pó + Mach laser 1390 150w"
+      "12/19/2024 - 1305 - Turbo Dna + coletor de pó + Mach laser 1390 150w"
     ]
   },
   {
@@ -6523,10 +6499,10 @@
     "cidade": "Canaã dos Carajás - PA",
     "contato": "Diego",
     "telefone": "nan",
-    "lat": -6.49659,
-    "lng": -49.8776,
+    "lat": -6.5174363,
+    "lng": -49.8638952,
     "equipamentos": [
-      "06/02/2024 - 762 - Turbo Dna"
+      "02/06/2024 - 762 - Turbo Dna"
     ]
   },
   {
@@ -6535,11 +6511,11 @@
     "cidade": "Teresina - PI",
     "contato": "Reis",
     "telefone": "nan",
-    "lat": -5.09194,
-    "lng": -42.8034,
+    "lat": -5.0902277,
+    "lng": -42.8129529,
     "equipamentos": [
-      "05/04/2023 - 431 - Mesa de descarga",
-      "08/02/2023 - 431 - Mach Pro Turbo"
+      "02/08/2023 - 431 - Mach Pro Turbo",
+      "04/05/2023 - 431 - Mesa de descarga"
     ]
   },
   {
@@ -6551,7 +6527,7 @@
     "lat": -27.0244201,
     "lng": -48.6112421,
     "equipamentos": [
-      "12/05/2025 - 1616 - Turbo Dna com mesa"
+      "05/12/2025 - 1616 - Turbo Dna com mesa"
     ]
   },
   {
@@ -6560,8 +6536,8 @@
     "cidade": "Osório - RS",
     "contato": "Hiago",
     "telefone": "nan",
-    "lat": -29.8992512,
-    "lng": -50.2476061,
+    "lat": -29.8890733,
+    "lng": -50.2740498,
     "equipamentos": [
       "08/08/2025 - 1878 - Turbo Dna"
     ]
@@ -6575,7 +6551,7 @@
     "lat": -23.3511059,
     "lng": -47.8440746,
     "equipamentos": [
-      "20/12/2024 - 1271 - Edge 6"
+      "12/20/2024 - 1271 - Edge 6"
     ]
   },
   {
@@ -6584,10 +6560,10 @@
     "cidade": "Juiz de Fora - MG",
     "contato": "Roberto",
     "telefone": "nan",
-    "lat": -21.7595,
-    "lng": -43.3398,
+    "lat": -21.6955924,
+    "lng": -43.4258588,
     "equipamentos": [
-      "14/08/2020 - 45 - Elite X 3020 2S +/4º eixo"
+      "8/14/2020 - 45 - Elite X 3020 2S +/4º eixo"
     ]
   },
   {
@@ -6599,7 +6575,7 @@
     "lat": -24.7951117,
     "lng": -53.2961804,
     "equipamentos": [
-      "12/09/2025 - 1939 - Turbo Duo Dna"
+      "09/12/2025 - 1939 - Turbo Duo Dna"
     ]
   },
   {
@@ -6608,10 +6584,10 @@
     "cidade": "Santo Ângelo - RS",
     "contato": "Vinicius",
     "telefone": "nan",
-    "lat": -28.2781278,
-    "lng": -54.2472378,
+    "lat": -28.2963311,
+    "lng": -54.2388568,
     "equipamentos": [
-      "28/08/2023 - 584 - Mach Laser 1490"
+      "8/28/2023 - 584 - Mach Laser 1490"
     ]
   },
   {
@@ -6623,7 +6599,7 @@
     "lat": -29.2562253,
     "lng": -51.5269167,
     "equipamentos": [
-      "25/02/2021 - 148 - Laser corte tecido"
+      "2/25/2021 - 148 - Laser corte tecido"
     ]
   },
   {
@@ -6635,7 +6611,7 @@
     "lat": -0.1160565,
     "lng": -51.2861759,
     "equipamentos": [
-      "08/07/2022 - 325 - Elite Duo"
+      "07/08/2022 - 325 - Elite Duo"
     ]
   },
   {
@@ -6644,10 +6620,10 @@
     "cidade": "Araçatuba - SP",
     "contato": "Picollin",
     "telefone": "nan",
-    "lat": -21.2076,
-    "lng": -50.4401,
+    "lat": -21.1986335,
+    "lng": -50.4548515,
     "equipamentos": [
-      "25/06/2025 - 1746 - Turbo Dna"
+      "6/25/2025 - 1746 - Turbo Dna"
     ]
   },
   {
@@ -6656,10 +6632,10 @@
     "cidade": "Mauá - SP",
     "contato": "Alfredo",
     "telefone": "nan",
-    "lat": -23.6677,
-    "lng": -46.4613,
+    "lat": -23.6818722,
+    "lng": -46.4655555,
     "equipamentos": [
-      "22/01/2025 - 1350 - Edge 6 a pronta entrega"
+      "1/22/2025 - 1350 - Edge 6 a pronta entrega"
     ]
   },
   {
@@ -6671,7 +6647,7 @@
     "lat": -27.1528578,
     "lng": -52.3096985,
     "equipamentos": [
-      "03/02/2025 - 1398 - Turbo Duo Dna"
+      "02/03/2025 - 1398 - Turbo Duo Dna"
     ]
   },
   {
@@ -6680,10 +6656,10 @@
     "cidade": "Imbé - RS",
     "contato": "Jocelito",
     "telefone": "nan",
-    "lat": -29.8978814,
-    "lng": -50.0860492,
+    "lat": -29.975269,
+    "lng": -50.128068,
     "equipamentos": [
-      "18/09/2025 - 2013 - Turbo Duo Dna com elevador"
+      "9/18/2025 - 2013 - Turbo Duo Dna com elevador"
     ]
   },
   {
@@ -6692,10 +6668,10 @@
     "cidade": "Joinville - SC",
     "contato": "Marco Pinheiro",
     "telefone": "nan",
-    "lat": -26.3128912,
-    "lng": -48.8430841,
+    "lat": -26.3126727,
+    "lng": -48.8377894,
     "equipamentos": [
-      "28/10/2024 - 1280 - ATCL Dna + coletor de pó"
+      "10/28/2024 - 1280 - ATCL Dna + coletor de pó"
     ]
   },
   {
@@ -6704,10 +6680,10 @@
     "cidade": "Patos de Minas - MG",
     "contato": "Doglas",
     "telefone": "nan",
-    "lat": -18.6056529,
-    "lng": -46.512067,
+    "lat": -18.586743,
+    "lng": -46.494278,
     "equipamentos": [
-      "29/09/2025 - 2053 - Turbo Duo Dna com elevador"
+      "9/29/2025 - 2053 - Turbo Duo Dna com elevador"
     ]
   },
   {
@@ -6719,7 +6695,7 @@
     "lat": -22.9776559,
     "lng": -43.7049763,
     "equipamentos": [
-      "28/02/2023 - 442 - Spark 2819"
+      "2/28/2023 - 442 - Spark 2819"
     ]
   },
   {
@@ -6731,7 +6707,7 @@
     "lat": -26.6023644,
     "lng": -51.0992893,
     "equipamentos": [
-      "18/02/2024 - 1441 - ATCL Dna + coletor"
+      "2/18/2024 - 1441 - ATCL Dna + coletor"
     ]
   },
   {
@@ -6743,7 +6719,7 @@
     "lat": -20.8539657,
     "lng": -41.0972018,
     "equipamentos": [
-      "30/06/2025 - 1749 - Turbo Dna + coletor"
+      "6/30/2025 - 1749 - Turbo Dna + coletor"
     ]
   },
   {
@@ -6752,23 +6728,23 @@
     "cidade": "São Paulo - SP",
     "contato": "Diego",
     "telefone": "nan",
-    "lat": -23.5329,
-    "lng": -46.6395,
+    "lat": -23.5383214,
+    "lng": -46.6391624,
     "equipamentos": [
-      "20/10/2020 - 86 - Elite X 3020",
-      "23/10/2020 - 89/173 - Laser 1490 150W"
+      "10/20/2020 - 86 - Elite X 3020",
+      "10/23/2020 - 89/173 - Laser 1490 150W"
     ]
   },
   {
-    "nome": "T  R Araujo Alves",
+    "nome": "T R Araujo Alves",
     "cnpj": null,
     "cidade": "Natal - RN",
     "contato": "Thyago / Nei",
     "telefone": "nan",
-    "lat": -5.79357,
-    "lng": -35.1986,
+    "lat": -5.8193078,
+    "lng": -35.2126281,
     "equipamentos": [
-      "29/12/2020 - 129 - Elite X  2819 2S"
+      "12/29/2020 - 129 - Elite X 2819 2S"
     ]
   },
   {
@@ -6777,12 +6753,12 @@
     "cidade": "Balsas - MA",
     "contato": "Tadeu",
     "telefone": "nan",
-    "lat": -8.5008789,
-    "lng": -46.7534042,
+    "lat": -7.53214,
+    "lng": -46.037163,
     "equipamentos": [
-      "05/06/2023 - 518 - Edge 7",
-      "09/08/2024 - 1018 - Turbo Duo Dna sem esteira",
-      "30/09/2025 - 2059 - Esteira de retorno+Lifter"
+      "06/05/2023 - 518 - Edge 7",
+      "08/09/2024 - 1018 - Turbo Duo Dna sem esteira",
+      "9/30/2025 - 2059 - Esteira de retorno+Lifter"
     ]
   },
   {
@@ -6791,11 +6767,11 @@
     "cidade": "Salto Veloso - SC",
     "contato": "Marcos",
     "telefone": "nan",
-    "lat": -26.901729,
-    "lng": -51.4064551,
+    "lat": -26.9071647,
+    "lng": -51.406771,
     "equipamentos": [
-      "14/12/2022 - 395 - Mach Pro ATCL",
-      "29/06/2023 - 538 - Mach Pro ATCL"
+      "12/14/2022 - 395 - Mach Pro ATCL",
+      "6/29/2023 - 538 - Mach Pro ATCL"
     ]
   },
   {
@@ -6804,10 +6780,10 @@
     "cidade": "Toledo - PR",
     "contato": "Helder",
     "telefone": "nan",
-    "lat": -24.7246,
-    "lng": -53.7412,
+    "lat": -24.7222438,
+    "lng": -53.7402476,
     "equipamentos": [
-      "31/05/2021 - 180 - Elite S 2819"
+      "5/31/2021 - 180 - Elite S 2819"
     ]
   },
   {
@@ -6816,10 +6792,10 @@
     "cidade": "São Pedro de Alcântara - SC",
     "contato": "Marcelo",
     "telefone": "nan",
-    "lat": -27.5681613,
-    "lng": -48.8050743,
+    "lat": -27.5676985,
+    "lng": -48.8047973,
     "equipamentos": [
-      "24/03/2023 - 458 - MCU4606"
+      "3/24/2023 - 458 - MCU4606"
     ]
   },
   {
@@ -6828,10 +6804,10 @@
     "cidade": "Canoas - RS",
     "contato": "Nelmo",
     "telefone": "nan",
-    "lat": -29.9078313,
-    "lng": -51.1839471,
+    "lat": -29.9074721,
+    "lng": -51.1904138,
     "equipamentos": [
-      "26/08/2024 - 1051 - Turbo + coletor de pó"
+      "8/26/2024 - 1051 - Turbo + coletor de pó"
     ]
   },
   {
@@ -6840,11 +6816,11 @@
     "cidade": "Itapema - SC",
     "contato": "Gabrielle",
     "telefone": "nan",
-    "lat": -27.0861,
-    "lng": -48.616,
+    "lat": -27.1458237,
+    "lng": -48.6417866,
     "equipamentos": [
-      "24/09/2019 - nan - Elite S 3020 4º eixo",
-      "25/01/2021 - 135 - Laser 1490"
+      "1/25/2021 - 135 - Laser 1490",
+      "9/24/2019 - nan - Elite S 3020 4º eixo"
     ]
   },
   {
@@ -6853,10 +6829,10 @@
     "cidade": "Barueri - SP",
     "contato": "Fred/Ramon",
     "telefone": "nan",
-    "lat": -23.5057,
-    "lng": -46.879,
+    "lat": -23.4978404,
+    "lng": -46.9184537,
     "equipamentos": [
-      "18/12/2023 - 729 - Turbo especial"
+      "12/18/2023 - 729 - Turbo especial"
     ]
   },
   {
@@ -6865,10 +6841,10 @@
     "cidade": "Apucarana - PR",
     "contato": "Bruno",
     "telefone": "nan",
-    "lat": -23.5228787,
-    "lng": -51.443441,
+    "lat": -23.5592285,
+    "lng": -51.5393236,
     "equipamentos": [
-      "17/07/2023 - 543 - Elite ATC L"
+      "7/17/2023 - 543 - Elite ATC L"
     ]
   },
   {
@@ -6880,7 +6856,7 @@
     "lat": -29.1651127,
     "lng": -51.5175244,
     "equipamentos": [
-      "18/01/2024 - 733 - Mach Pro ATCL"
+      "1/18/2024 - 733 - Mach Pro ATCL"
     ]
   },
   {
@@ -6889,11 +6865,11 @@
     "cidade": "Goiânia - GO",
     "contato": "Vanderlan",
     "telefone": "nan",
-    "lat": -16.6864,
-    "lng": -49.2643,
+    "lat": -16.2590184,
+    "lng": -47.9300112,
     "equipamentos": [
-      "13/11/2024 - 1240 - Turbo Dna",
-      "29/08/2025 - 1947 - Edge 8 Turbo"
+      "11/13/2024 - 1240 - Turbo Dna",
+      "8/29/2025 - 1947 - Edge 8 Turbo"
     ]
   },
   {
@@ -6902,10 +6878,10 @@
     "cidade": "Balneário Arroio do Silva - SC",
     "contato": "Tiago",
     "telefone": "nan",
-    "lat": -28.9791345,
-    "lng": -49.4058066,
+    "lat": -28.9815269,
+    "lng": -49.4189932,
     "equipamentos": [
-      "12/07/2022 - 323 - Laser 1390"
+      "07/12/2022 - 323 - Laser 1390"
     ]
   },
   {
@@ -6917,7 +6893,7 @@
     "lat": -26.1311927,
     "lng": -49.8071728,
     "equipamentos": [
-      "18/02/2022 - 259 - Mach Pro ATCL + mesa LE"
+      "2/18/2022 - 259 - Mach Pro ATCL + mesa LE"
     ]
   },
   {
@@ -6926,10 +6902,10 @@
     "cidade": "Itapema - SC",
     "contato": "Matheus",
     "telefone": "nan",
-    "lat": -27.1458384,
-    "lng": -48.6418064,
+    "lat": -27.09472,
+    "lng": -48.6137778,
     "equipamentos": [
-      "30/09/2025 - 2062 - ATCL Dna 2819"
+      "9/30/2025 - 2062 - ATCL Dna 2819"
     ]
   },
   {
@@ -6941,7 +6917,7 @@
     "lat": -29.4406842,
     "lng": -51.9782414,
     "equipamentos": [
-      "25/06/2024 - 924 - ATCL Dna"
+      "6/25/2024 - 924 - ATCL Dna"
     ]
   },
   {
@@ -6953,7 +6929,7 @@
     "lat": -19.8785723,
     "lng": -44.0175251,
     "equipamentos": [
-      "02/10/2025 - 2064 - Spark 2819"
+      "10/02/2025 - 2064 - Spark 2819"
     ]
   },
   {
@@ -6962,11 +6938,11 @@
     "cidade": "Rio de Janeiro - RJ",
     "contato": "Tarcisio",
     "telefone": "nan",
-    "lat": -22.8967289,
-    "lng": -43.2017502,
+    "lat": -22.8995586,
+    "lng": -43.2081744,
     "equipamentos": [
-      "17/10/2019 - nan - Elite S 3020 câmera",
-      "25/01/2022 - 253 - Mach Pro ATCL ESP"
+      "1/25/2022 - 253 - Mach Pro ATCL ESP",
+      "10/17/2019 - nan - Elite S 3020 câmera"
     ]
   },
   {
@@ -6975,10 +6951,10 @@
     "cidade": "Iporã do Oeste - SC",
     "contato": "Fabio",
     "telefone": "nan",
-    "lat": -26.9892704,
-    "lng": -53.5340148,
+    "lat": -26.9884305,
+    "lng": -53.5345628,
     "equipamentos": [
-      "22/03/2024 - 809 - Turbo"
+      "3/22/2024 - 809 - Turbo"
     ]
   },
   {
@@ -6987,10 +6963,10 @@
     "cidade": "Araraquara - SP",
     "contato": "Augusto",
     "telefone": "nan",
-    "lat": -21.7658155,
-    "lng": -48.173205,
+    "lat": -21.7681721,
+    "lng": -48.1716394,
     "equipamentos": [
-      "29/07/2025 - 1844 - Turbo Dna + coletor"
+      "7/29/2025 - 1844 - Turbo Dna + coletor"
     ]
   },
   {
@@ -6999,10 +6975,10 @@
     "cidade": "Juazeiro - BA",
     "contato": "Jailton/Davi",
     "telefone": "nan",
-    "lat": -9.41622,
-    "lng": -40.5033,
+    "lat": -11.7627292,
+    "lng": -41.9133286,
     "equipamentos": [
-      "03/12/2021 - 244 - Evo 5019 2S"
+      "12/03/2021 - 244 - Evo 5019 2S"
     ]
   },
   {
@@ -7011,10 +6987,10 @@
     "cidade": "Cotia - SP",
     "contato": "Ricardo",
     "telefone": "nan",
-    "lat": -23.6022,
-    "lng": -46.919,
+    "lat": -23.6124139,
+    "lng": -46.9248924,
     "equipamentos": [
-      "27/10/2023 - 657 - Mach Pro 2819 Esp"
+      "10/27/2023 - 657 - Mach Pro 2819 Esp"
     ]
   },
   {
@@ -7023,11 +6999,11 @@
     "cidade": "Cascavel - PR",
     "contato": "Diego",
     "telefone": "nan",
-    "lat": -4.12967,
-    "lng": -38.2412,
+    "lat": -24.9554996,
+    "lng": -53.4560544,
     "equipamentos": [
-      "10/09/2025 - 1986 - Edge 5",
-      "30/09/2024 - 1129 - Mach Pro ATCL dna"
+      "09/10/2025 - 1986 - Edge 5",
+      "9/30/2024 - 1129 - Mach Pro ATCL dna"
     ]
   },
   {
@@ -7039,7 +7015,7 @@
     "lat": -22.9017098,
     "lng": -43.261638,
     "equipamentos": [
-      "24/05/2022 - 288 - Laser 2513"
+      "5/24/2022 - 288 - Laser 2513"
     ]
   },
   {
@@ -7051,7 +7027,7 @@
     "lat": -21.3753167,
     "lng": -42.3175405,
     "equipamentos": [
-      "14/10/2021 - 230 - Mach Pro ATCL 2819"
+      "10/14/2021 - 230 - Mach Pro ATCL 2819"
     ]
   },
   {
@@ -7063,8 +7039,8 @@
     "lat": -19.953056,
     "lng": -45.084166,
     "equipamentos": [
-      "14/05/2021 - 178 - Spark 8060",
-      "18/07/2022 - 333 - Spark 8060"
+      "5/14/2021 - 178 - Spark 8060",
+      "7/18/2022 - 333 - Spark 8060"
     ]
   },
   {
@@ -7073,10 +7049,10 @@
     "cidade": "Porto Velho - RO",
     "contato": "nan",
     "telefone": "nan",
-    "lat": -8.7442939,
-    "lng": -63.8625902,
+    "lat": -8.7449625,
+    "lng": -63.8657067,
     "equipamentos": [
-      "14/05/2021 - 179 - Laser 1490"
+      "5/14/2021 - 179 - Laser 1490"
     ]
   },
   {
@@ -7085,10 +7061,10 @@
     "cidade": "Blumenau - SC",
     "contato": "Vanderlei",
     "telefone": "nan",
-    "lat": -26.8664001,
-    "lng": -49.1094732,
+    "lat": -26.8733037,
+    "lng": -49.1144387,
     "equipamentos": [
-      "22/09/2023 - 623 - Laser 1490 + 4ºeixo"
+      "9/22/2023 - 623 - Laser 1490 + 4ºeixo"
     ]
   },
   {
@@ -7097,10 +7073,10 @@
     "cidade": "Rio Verde - GO",
     "contato": "Whanathan",
     "telefone": "nan",
-    "lat": -17.7950821,
-    "lng": -50.9376767,
+    "lat": -18.0904815,
+    "lng": -50.2111629,
     "equipamentos": [
-      "31/01/2025 - 1399 - Turbo Dna + Edge 8 turbo"
+      "1/31/2025 - 1399 - Turbo Dna + Edge 8 turbo"
     ]
   },
   {
@@ -7109,10 +7085,10 @@
     "cidade": "Massaranduba - SC",
     "contato": "Vagner",
     "telefone": "nan",
-    "lat": -26.6117352,
-    "lng": -49.0081232,
+    "lat": -26.610868,
+    "lng": -49.005351,
     "equipamentos": [
-      "13/08/2025 - 1886 - Turbo Dna com mesa + coletor"
+      "8/13/2025 - 1886 - Turbo Dna com mesa + coletor"
     ]
   },
   {
@@ -7121,10 +7097,10 @@
     "cidade": "Timóteo - MG",
     "contato": "Valdemiro",
     "telefone": "nan",
-    "lat": -19.5431773,
-    "lng": -42.6254211,
+    "lat": -19.5428861,
+    "lng": -42.6248608,
     "equipamentos": [
-      "25/08/2023 - 586 - Mach Pro ATCL ESP"
+      "8/25/2023 - 586 - Mach Pro ATCL ESP"
     ]
   },
   {
@@ -7133,10 +7109,10 @@
     "cidade": "Santo André - SP",
     "contato": "nan",
     "telefone": "nan",
-    "lat": -7.22016,
-    "lng": -36.6213,
+    "lat": -23.7672489,
+    "lng": -46.3727555,
     "equipamentos": [
-      "28/03/2025 - 1547 - Edge 6 + Coletor de pó"
+      "3/28/2025 - 1547 - Edge 6 + Coletor de pó"
     ]
   },
   {
@@ -7145,10 +7121,10 @@
     "cidade": "Sousa - PB",
     "contato": "Luiz Henrique",
     "telefone": "nan",
-    "lat": -6.757109,
-    "lng": -38.2256912,
+    "lat": -6.8923694,
+    "lng": -38.5592505,
     "equipamentos": [
-      "23/11/2023 - 689 - Turbo"
+      "11/23/2023 - 689 - Turbo"
     ]
   },
   {
@@ -7157,10 +7133,10 @@
     "cidade": "Veranópolis - RS",
     "contato": "Rafael",
     "telefone": "nan",
-    "lat": -28.9364672,
-    "lng": -51.5516599,
+    "lat": -28.9351239,
+    "lng": -51.5519175,
     "equipamentos": [
-      "14/06/2021 - 188 Fat 197 Ab - Elite S 2819"
+      "6/14/2021 - 188 Fat 197 Ab - Elite S 2819"
     ]
   },
   {
@@ -7169,10 +7145,10 @@
     "cidade": "Joinville - SC",
     "contato": "Fabio",
     "telefone": "nan",
-    "lat": -26.3363569,
-    "lng": -48.8556952,
+    "lat": -26.3363474,
+    "lng": -48.8558649,
     "equipamentos": [
-      "14/09/2022 - 350 - Elite ATC L"
+      "9/14/2022 - 350 - Elite ATC L"
     ]
   },
   {
@@ -7181,11 +7157,11 @@
     "cidade": "Botucatu - SP",
     "contato": "Fabio",
     "telefone": "nan",
-    "lat": -22.8837,
-    "lng": -48.4437,
+    "lat": -22.8762406,
+    "lng": -48.4248649,
     "equipamentos": [
-      "03/05/2023 - 477 - Elite 2819 2S Usado",
-      "30/09/2024 - 1120 - Turbo Especial 6031"
+      "05/03/2023 - 477 - Elite 2819 2S Usado",
+      "9/30/2024 - 1120 - Turbo Especial 6031"
     ]
   },
   {
@@ -7194,10 +7170,10 @@
     "cidade": "Tijucas - SC",
     "contato": "Victor",
     "telefone": "nan",
-    "lat": -27.2354,
-    "lng": -48.6322,
+    "lat": -27.2225529,
+    "lng": -48.6492436,
     "equipamentos": [
-      "14/03/2024 - 803 - Turbo Duo Dna"
+      "3/14/2024 - 803 - Turbo Duo Dna"
     ]
   },
   {
@@ -7206,10 +7182,10 @@
     "cidade": "São Paulo - SP",
     "contato": "André/Ivyna",
     "telefone": "nan",
-    "lat": -23.5329,
-    "lng": -46.6395,
+    "lat": -23.5383214,
+    "lng": -46.6391624,
     "equipamentos": [
-      "12/08/2024 - 993 - Spark Dna + Mach Laser 1325"
+      "08/12/2024 - 993 - Spark Dna + Mach Laser 1325"
     ]
   },
   {
@@ -7218,10 +7194,10 @@
     "cidade": "Fortaleza - CE",
     "contato": "Andre",
     "telefone": "nan",
-    "lat": -3.7667118,
-    "lng": -38.5138408,
+    "lat": -3.7665905,
+    "lng": -38.513218,
     "equipamentos": [
-      "19/04/2024 - 839 - Laser 1325 c/ 4º eixo"
+      "4/19/2024 - 839 - Laser 1325 c/ 4º eixo"
     ]
   },
   {
@@ -7230,10 +7206,10 @@
     "cidade": "Fortaleza - CE",
     "contato": "Andre",
     "telefone": "nan",
-    "lat": -3.71664,
-    "lng": -38.5423,
+    "lat": -3.8660947,
+    "lng": -38.5306096,
     "equipamentos": [
-      "01/09/2020 - 55 - Ax Pro 3020"
+      "09/01/2020 - 55 - Ax Pro 3020"
     ]
   },
   {
@@ -7242,24 +7218,24 @@
     "cidade": "Contagem - MG",
     "contato": "Douglas",
     "telefone": "nan",
-    "lat": -19.873083,
-    "lng": -44.0283143,
+    "lat": -19.8879389,
+    "lng": -44.0497272,
     "equipamentos": [
-      "09/10/2024 - 1147 - Edge 8 c. Disposit.Ripado",
-      "12/07/2023 - 545 - Mach Edge 8",
-      "25/08/2023 - 599 - Commander"
+      "07/12/2023 - 545 - Mach Edge 8",
+      "10/09/2024 - 1147 - Edge 8 c. Disposit.Ripado",
+      "8/25/2023 - 599 - Commander"
     ]
   },
   {
     "nome": "Vitor Carlos Della Flora",
     "cnpj": null,
     "cidade": "Tupanciretã - RS",
-    "contato": "nan",
-    "telefone": "nan",
-    "lat": -29.0858,
-    "lng": -53.8445,
+    "contato": "Vitor",
+    "telefone": "55 99126-5998",
+    "lat": -29.0814481,
+    "lng": -53.8378957,
     "equipamentos": [
-      "18/01/2021 - 133 - Elite Super Drill"
+      "1/18/2021 - 133 - Elite Super Drill"
     ]
   },
   {
@@ -7268,20 +7244,20 @@
     "cidade": "Barra do Garças - MT",
     "contato": "Leandro",
     "telefone": "nan",
-    "lat": -15.8804,
-    "lng": -52.264,
+    "lat": -15.3865674,
+    "lng": -52.2027193,
     "equipamentos": [
-      "31/05/2022 - 304 - Mach Pro Turbo"
+      "5/31/2022 - 304 - Mach Pro Turbo"
     ]
   },
   {
-    "nome": "W&M  Design/ L&F Comercio/ Artesian",
+    "nome": "W&M Design/ L&F Comercio/ Artesian",
     "cnpj": null,
     "cidade": "Campo Largo - PR",
-    "contato": "nan",
-    "telefone": "nan",
-    "lat": -25.4525,
-    "lng": -49.529,
+    "contato": "Ronaldo",
+    "telefone": "41 99218-1877",
+    "lat": -25.4361954,
+    "lng": -49.435565,
     "equipamentos": [
       "nan - 157 Ab 149 Fat - Elite S especial 4º eixos"
     ]
@@ -7292,10 +7268,10 @@
     "cidade": "Presidente Prudente - SP",
     "contato": "Wander",
     "telefone": "nan",
-    "lat": -22.128024,
-    "lng": -51.4245605,
+    "lat": -22.1278841,
+    "lng": -51.4246774,
     "equipamentos": [
-      "28/03/2025 - 1518 - Laser 1390"
+      "3/28/2025 - 1518 - Laser 1390"
     ]
   },
   {
@@ -7304,10 +7280,10 @@
     "cidade": "Navegantes - SC",
     "contato": "Rodrigo",
     "telefone": "nan",
-    "lat": -26.8943,
-    "lng": -48.6546,
+    "lat": -26.7734858,
+    "lng": -48.7936693,
     "equipamentos": [
-      "15/09/2025 - 1997 - ATCL Dna"
+      "9/15/2025 - 1997 - ATCL Dna"
     ]
   },
   {
@@ -7316,10 +7292,10 @@
     "cidade": "Navegantes - SC",
     "contato": "Rodrigo",
     "telefone": "nan",
-    "lat": -26.8943,
-    "lng": -48.6546,
+    "lat": -26.7734858,
+    "lng": -48.7936693,
     "equipamentos": [
-      "15/08/2025 - 1900 - Edge 5"
+      "8/15/2025 - 1900 - Edge 5"
     ]
   },
   {
@@ -7328,10 +7304,10 @@
     "cidade": "Colombo - PR",
     "contato": "Dionata",
     "telefone": "nan",
-    "lat": -25.3308188,
-    "lng": -49.2262038,
+    "lat": -25.3172615,
+    "lng": -49.2322358,
     "equipamentos": [
-      "08/02/2021 - 142 - Evo Duo L"
+      "02/08/2021 - 142 - Evo Duo L"
     ]
   },
   {
@@ -7340,10 +7316,10 @@
     "cidade": "Rolândia - PR",
     "contato": "Wilian",
     "telefone": "nan",
-    "lat": -23.3224266,
-    "lng": -51.3493446,
+    "lat": -23.3345659,
+    "lng": -51.3796341,
     "equipamentos": [
-      "30/06/2023 - 539 - Mach Laser 1325"
+      "6/30/2023 - 539 - Mach Laser 1325"
     ]
   },
   {
@@ -7352,11 +7328,11 @@
     "cidade": "Brusque - SC",
     "contato": "Claudio",
     "telefone": "nan",
-    "lat": -27.1486061,
-    "lng": -48.89729,
+    "lat": -27.148598,
+    "lng": -48.8973414,
     "equipamentos": [
-      "06/08/2023 - 597 - Mach Laser 1490",
-      "24/05/2023 - 504 - Spark 2819"
+      "08/06/2023 - 597 - Mach Laser 1490",
+      "5/24/2023 - 504 - Spark 2819"
     ]
   },
   {
@@ -7365,11 +7341,11 @@
     "cidade": "São Paulo - SP",
     "contato": "Eduardo",
     "telefone": "nan",
-    "lat": -23.5329,
-    "lng": -46.6395,
+    "lat": -23.5383214,
+    "lng": -46.6391624,
     "equipamentos": [
-      "21/07/2025 - 1809 - Edge 6 + coletor + compressor",
-      "24/06/2025 - 1715 - Turbo Dna + coletor"
+      "6/24/2025 - 1715 - Turbo Dna + coletor",
+      "7/21/2025 - 1809 - Edge 6 + coletor + compressor"
     ]
   },
   {
@@ -7378,10 +7354,10 @@
     "cidade": "São Paulo - SP",
     "contato": "Kristian",
     "telefone": "nan",
-    "lat": -23.5329,
-    "lng": -46.6395,
+    "lat": -23.5383214,
+    "lng": -46.6391624,
     "equipamentos": [
-      "30/10/2024 - 1193 - Turbo Dna + coletor"
+      "10/30/2024 - 1193 - Turbo Dna + coletor"
     ]
   },
   {
@@ -7390,10 +7366,10 @@
     "cidade": "Agudos do Sul - PR",
     "contato": "Weslei",
     "telefone": "nan",
-    "lat": -25.9934668,
-    "lng": -49.3375084,
+    "lat": -25.9890808,
+    "lng": -49.3328175,
     "equipamentos": [
-      "02/09/2025 - 1963 - Spark 2819"
+      "09/02/2025 - 1963 - Spark 2819"
     ]
   },
   {
@@ -7402,10 +7378,10 @@
     "cidade": "Goiânia - GO",
     "contato": "Ronaldo",
     "telefone": "nan",
-    "lat": -16.706894,
-    "lng": -49.2377444,
+    "lat": -16.7063739,
+    "lng": -49.2383208,
     "equipamentos": [
-      "26/03/2025 - 1541 - Mach Pro 5019 ATCL esp + Edge 6"
+      "3/26/2025 - 1541 - Mach Pro 5019 ATCL esp + Edge 6"
     ]
   },
   {
@@ -7414,10 +7390,10 @@
     "cidade": "Cafelândia - PR",
     "contato": "Edson",
     "telefone": "nan",
-    "lat": -24.6195461,
-    "lng": -53.3214655,
+    "lat": -24.6176963,
+    "lng": -53.3218057,
     "equipamentos": [
-      "20/08/2025 - 1912 - Edge 6"
+      "8/20/2025 - 1912 - Edge 6"
     ]
   },
   {
@@ -7426,20 +7402,20 @@
     "cidade": "Colatina - ES",
     "contato": "Alessandra",
     "telefone": "nan",
-    "lat": -19.4931521,
-    "lng": -40.6740046,
+    "lat": -19.4931648,
+    "lng": -40.674018,
     "equipamentos": [
-      "26/06/2023 - 534 - Mach Pro Turbo Duo"
+      "6/26/2023 - 534 - Mach Pro Turbo Duo"
     ]
   },
   {
-    "nome": "Zilmar Henrique Junior  / JH Móveis",
+    "nome": "Zilmar Henrique Junior / JH Móveis",
     "cnpj": null,
     "cidade": "Florianópolis - SC",
     "contato": "Zilmar",
     "telefone": "nan",
-    "lat": -27.4377545,
-    "lng": -48.4025549,
+    "lat": -27.4510315,
+    "lng": -48.4409659,
     "equipamentos": [
       "02/02/2024 - 758 - Edge 5"
     ]
@@ -7450,10 +7426,10 @@
     "cidade": "Cariacica - ES",
     "contato": "Nasirc",
     "telefone": "nan",
-    "lat": -20.3610193,
-    "lng": -40.3802996,
+    "lat": -20.3522265,
+    "lng": -40.3900652,
     "equipamentos": [
-      "07/11/2022 - 379 - Mach Pro Turbo"
+      "11/07/2022 - 379 - Mach Pro Turbo"
     ]
   },
   {
@@ -7462,10 +7438,22 @@
     "cidade": "Balneário Camboriú - SC",
     "contato": "Valdir/ Gabriel",
     "telefone": "nan",
-    "lat": -27.0271736,
-    "lng": -48.6509651,
+    "lat": -27.0271746,
+    "lng": -48.6507724,
     "equipamentos": [
-      "12/07/2024 - 991 - Turbo Duo Dna"
+      "07/12/2024 - 991 - Turbo Duo Dna"
+    ]
+  },
+  {
+    "nome": "nan",
+    "cnpj": null,
+    "cidade": "nan",
+    "contato": "nan",
+    "telefone": "nan",
+    "lat": null,
+    "lng": null,
+    "equipamentos": [
+      "nan - nan - nan"
     ]
   }
 ]
