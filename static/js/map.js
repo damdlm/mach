@@ -343,6 +343,37 @@ document.addEventListener('alpine:init', () => {
             updateMarkers(this.visibleClients);
         },
         
+        confirmLogout() {
+            Swal.fire({
+                title: 'Realmente deseja sair?',
+                icon: 'question',
+                iconColor: '#ef4444',
+                showCancelButton: true,
+                confirmButtonColor: '#ef4444',
+                cancelButtonColor: '#6b7280',
+                confirmButtonText: 'Sim',
+                cancelButtonText: 'Cancelar',
+                background: '#ffffff',
+                color: '#1f2937',
+                backdrop: `
+                    rgba(0, 0, 0, 0.4)
+                    url("/static/images/nyan-cat.gif")
+                    left top
+                    no-repeat
+                `,
+                customClass: {
+                    popup: 'rounded-2xl shadow-2xl',
+                    title: 'text-lg font-semibold text-gray-800',
+                    confirmButton: 'px-7 py-2 rounded-lg font-medium',
+                    cancelButton: 'px-3 py-2 rounded-lg font-medium'
+                }
+            }).then((result) => {
+                if (result.isConfirmed) {
+                    window.location.href = '/logout';
+                }
+            });
+        },		
+		
         focusClient(index) {
             const client = this.visibleClients[index];
             if (client.lat && client.lng && map) {
