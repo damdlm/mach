@@ -1,58 +1,80 @@
 // static/js/map.js
 
+// Variáveis globais do mapa
+let map = null;
+let markersCluster = null;
+let userLocationMarker = null;
+let userLocationCircle = null;
+
 /**
  * Normaliza o texto removendo acentos, cedilhas e convertendo para minúsculas.
  * Ex: 'São Paulo' -> 'sao paulo'
  */
 function normalizeText(text) {
     if (!text) return '';
-    // Converte para String, remove acentos (NFD) e caracteres não ASCII (regex)
     return String(text)
-        .normalize('NFD') // Normaliza para decompor caracteres (e.g., á em a + ´)
-        .replace(/[\u0300-\u036f]/g, "") // Remove os acentos decompostos (os caracteres diacríticos)
+        .normalize('NFD')
+        .replace(/[\u0300-\u036f]/g, "")
         .toLowerCase()
         .trim();
 }
 
-console.log("🗺️ Iniciando Mapa de Clientes com Leaflet e Alpine.js...");
+/**
+ * Inicializa o mapa Leaflet
+ */
+function initializeMap() {
+    console.log("🗺️ Inicializando mapa...");
+    
+    // Verifica se o container do mapa existe
+    const mapContainer = document.getElementById('map');
+    if (!mapContainer) {
+        console.error('❌ Container do mapa não encontrado!');
+        return false;
+    }
 
-// Inicialização do mapa (Lógica pura Leaflet)
-const map = L.map('map', { 
-    tap: true,
-    // DESATIVA o controle de zoom PADRÃO (left)
-    zoomControl: false 
-}).setView([-15.7801, -47.9292], 4);
+    try {
+        // Inicialização do mapa
+        map = L.map('map', { 
+            tap: true,
+            zoomControl: false 
+        }).setView([-15.7801, -47.9292], 4);
 
-L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    maxZoom: 19,
-    attribution: '© OpenStreetMap'
-}).addTo(map);
+        // Tile layer
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            maxZoom: 19,
+            attribution: '© OpenStreetMap'
+        }).addTo(map);
 
-// ADICIONA o controle de zoom no canto superior direito
-L.control.zoom({ position: 'topright' }).addTo(map); 
+        // Controle de zoom
+        L.control.zoom({ position: 'topright' }).addTo(map); 
 
-// Cluster de marcadores
-const markersCluster = L.markerClusterGroup({
-    chunkedLoading: true,
-    maxClusterRadius: 50
-});
-map.addLayer(markersCluster);
+        // Cluster de marcadores
+        markersCluster = L.markerClusterGroup({
+            chunkedLoading: true,
+            maxClusterRadius: 50
+        });
+        map.addLayer(markersCluster);
 
-// -------------------------------------------------------------
-// Funções do Leaflet (Separadas da lógica do Alpine.js)
-// -------------------------------------------------------------
-
-// VARIÁVEIS PARA A LOCALIZAÇÃO DO USUÁRIO
-let userLocationMarker = null;
-let userLocationCircle = null;
+        console.log("✅ Mapa inicializado com sucesso!");
+        return true;
+        
+    } catch (error) {
+        console.error('❌ Erro ao inicializar mapa:', error);
+        return false;
+    }
+}
 
 /**
  * Inicia o processo de obtenção da localização do usuário via Geolocation API.
  */
 function locateUser() {
+    if (!map) {
+        console.error('❌ Mapa não inicializado!');
+        return;
+    }
+    
     console.log("Procurando sua localização...");
     
-    // Tenta obter a localização, centraliza o mapa e define um zoom padrão (14)
     map.locate({
         setView: true, 
         maxZoom: 14,   
@@ -60,47 +82,50 @@ function locateUser() {
     });
 }
 
-// Evento disparado quando a localização é encontrada
-map.on('locationfound', function(e) {
-    const latlng = e.latlng;
-    const radius = e.accuracy; // Precisão em metros
-    
-    // 1. Remove o marcador e o círculo antigos, se existirem
-    if (userLocationMarker) {
-        map.removeLayer(userLocationMarker);
-        map.removeLayer(userLocationCircle);
-    }
-    
-    // 2. Adiciona NOVO marcador de localização (ícone azul personalizado)
-    userLocationMarker = L.marker(latlng, {
-        icon: L.divIcon({
-            className: 'user-location-icon',
-            // Ponto central azul com borda
-            html: '<div style="background-color: #0078FF; width: 10px; height: 10px; border-radius: 50%; border: 2px solid white; box-shadow: 0 0 0 3px #0078FF66;"></div>',
-            iconSize: [14, 14],
-            iconAnchor: [7, 7]
-        })
-    }).addTo(map)
-      .bindPopup(`Você está aqui!`)
-      .openPopup();
-    
-    // 3. Adiciona um círculo para mostrar a área de precisão
-    userLocationCircle = L.circle(latlng, radius, {
-        color: '#0078FF',
-        fillColor: '#0078FF',
-        fillOpacity: 0.15,
-        weight: 1
-    }).addTo(map);
+// Configura eventos de localização apenas se o mapa foi inicializado
+function setupLocationEvents() {
+    if (!map) return;
 
-    console.log(`✅ Localização encontrada: Lat=${latlng.lat}, Lng=${latlng.lng}`);
-});
+    // Evento disparado quando a localização é encontrada
+    map.on('locationfound', function(e) {
+        const latlng = e.latlng;
+        const radius = e.accuracy;
+        
+        // Remove o marcador e o círculo antigos, se existirem
+        if (userLocationMarker) {
+            map.removeLayer(userLocationMarker);
+            map.removeLayer(userLocationCircle);
+        }
+        
+        // Adiciona NOVO marcador de localização
+        userLocationMarker = L.marker(latlng, {
+            icon: L.divIcon({
+                className: 'user-location-icon',
+                html: '<div style="background-color: #0078FF; width: 10px; height: 10px; border-radius: 50%; border: 2px solid white; box-shadow: 0 0 0 3px #0078FF66;"></div>',
+                iconSize: [14, 14],
+                iconAnchor: [7, 7]
+            })
+        }).addTo(map)
+          .bindPopup(`Você está aqui!`)
+          .openPopup();
+        
+        // Adiciona um círculo para mostrar a área de precisão
+        userLocationCircle = L.circle(latlng, radius, {
+            color: '#0078FF',
+            fillColor: '#0078FF',
+            fillOpacity: 0.15,
+            weight: 1
+        }).addTo(map);
 
-// Evento disparado em caso de erro (ex: usuário negou permissão)
-map.on('locationerror', function(e) {
-    console.error("❌ Erro ao obter localização:", e.message);
-    alert("Erro ao obter a localização: " + e.message + " (Verifique se a permissão foi concedida ao navegador.)");
-});
-// FIM DAS FUNÇÕES DE LOCALIZAÇÃO DO USUÁRIO
+        console.log(`✅ Localização encontrada: Lat=${latlng.lat}, Lng=${latlng.lng}`);
+    });
+
+    // Evento disparado em caso de erro
+    map.on('locationerror', function(e) {
+        console.error("❌ Erro ao obter localização:", e.message);
+        alert("Erro ao obter a localização: " + e.message + " (Verifique se a permissão foi concedida ao navegador.)");
+    });
+}
 
 function createPopupContent(client) {
     const phone = client.telefone ? client.telefone.replace(/\D/g, '') : '';
@@ -111,7 +136,6 @@ function createPopupContent(client) {
         </a>
     ` : '';
     
-    // NOVO: Link de Rota para o Google Maps
     const routeLink = (client.lat && client.lng) ? `
         <a href="https://www.google.com/maps/dir/Current+Location/${client.lat},${client.lng}" 
            target="_blank" 
@@ -147,6 +171,11 @@ function createPopupContent(client) {
 }
 
 function updateMarkers(clients) {
+    if (!markersCluster) {
+        console.error('❌ Cluster de marcadores não inicializado!');
+        return;
+    }
+    
     markersCluster.clearLayers();
     const markers = [];
     
@@ -158,13 +187,11 @@ function updateMarkers(clients) {
 
             marker.bindPopup(createPopupContent(client));
             
-            // 💡 Tooltip: Adiciona o Tooltip com o nome do cliente
             marker.bindTooltip(client.nome, {
-                permanent: false, // O Tooltip só aparece ao passar o mouse
-                direction: 'top', // Aparece acima do marcador
+                permanent: false,
+                direction: 'top',
                 offset: [0, -5]   
             });
-            // FIM DO Tooltip
 
             markers.push(marker);
         }
@@ -173,15 +200,17 @@ function updateMarkers(clients) {
     markersCluster.addLayers(markers);
     console.log(`📍 ${markers.length} marcadores adicionados/atualizados no mapa.`);
     
-    if (markers.length > 0) {
+    if (markers.length > 0 && map) {
         try {
             map.fitBounds(markersCluster.getBounds(), { padding: [50, 50] });
         } catch (e) {
-            map.setView([clients[0].lat, clients[0].lng], 8); 
+            console.warn('⚠️ Erro ao ajustar bounds, definindo view padrão');
+            if (clients[0].lat && clients[0].lng) {
+                map.setView([clients[0].lat, clients[0].lng], 8); 
+            }
         }
     }
 }
-
 
 // -------------------------------------------------------------
 // Estado Global do Alpine.js (x-data="appState")
@@ -189,7 +218,7 @@ function updateMarkers(clients) {
 
 document.addEventListener('alpine:init', () => {
     Alpine.data('appState', () => ({
-        // Estado da UI: Inicia FECHADA em Mobile e ABERTA em Desktop
+        // Estado da UI
         sidebarOpen: window.innerWidth >= 768, 
         loadingData: true,
         errorData: false,
@@ -204,45 +233,58 @@ document.addEventListener('alpine:init', () => {
         cityFilter: '',
 
         // Função de inicialização
-        initMap() {
-            this.loadData();
+        async initMap() {
+            console.log("🚀 Iniciando aplicação...");
             
-            // ADICIONADO: Observa mudanças em searchQuery (agora debounced) para aplicar filtro
+            // 1. Inicializa o mapa primeiro
+            const mapInitialized = initializeMap();
+            if (!mapInitialized) {
+                this.errorData = true;
+                this.loadingData = false;
+                return;
+            }
+            
+            // 2. Configura eventos de localização
+            setupLocationEvents();
+            
+            // 3. Carrega os dados
+            await this.loadData();
+            
+            // 4. Configura watchers
             this.$watch('searchQuery', () => this.filterClients());
             
-            // CORREÇÃO CRUCIAL PARA MOBILE: Aumentamos o delay para 500ms
+            // 5. Corrige tamanho do mapa após inicialização
             setTimeout(() => {
-                map.invalidateSize();
-                console.log("📏 CORRIGIDO: Mapa invalidado após inicialização (500ms delay).");
-            }, 500); 
+                if (map) {
+                    map.invalidateSize();
+                    console.log("📏 Mapa invalidado após inicialização");
+                }
+            }, 500);
 
-            // Adiciona um listener extra para o evento 'load' da janela, como um fallback robusto.
             window.addEventListener('load', () => {
-                map.invalidateSize();
+                if (map) map.invalidateSize();
             }, { once: true });
         },
         
-        // NOVO MÉTODO: Expõe a função locateUser() global ao Alpine
         locateUser() {
             locateUser();
         },
 
-        // MÉTODO PARA CONTROLE DA SIDEBAR
         toggleSidebar() {
             this.sidebarOpen = !this.sidebarOpen;
             
-            // Força o Leaflet a recalcular o tamanho APÓS a transição da sidebar.
             setTimeout(() => {
-                map.invalidateSize();
-            }, 350); 
+                if (map) map.invalidateSize();
+            }, 350);
         },
 
-        // -------------------------------------------------------------
-        // Métodos de Dados
-        // -------------------------------------------------------------
         async loadData() {
             this.loadingData = true;
             this.errorData = false;
+            
+            const minLoadingTime = 1500;
+            const startTime = Date.now();
+            
             try {
                 const response = await fetch('/api/clients');
                 if (!response.ok) throw new Error('Falha ao buscar dados');
@@ -253,7 +295,7 @@ document.addEventListener('alpine:init', () => {
                 const uniqueCities = new Set(clients.map(c => c.cidade).filter(Boolean));
                 this.availableCities = Array.from(uniqueCities).sort();
                 
-                this.filterClients(); // Aplica filtros iniciais e atualiza o mapa
+                this.filterClients();
                 
                 console.log(`✅ ${clients.length} clientes carregados`);
 
@@ -261,7 +303,12 @@ document.addEventListener('alpine:init', () => {
                 console.error('❌ Erro ao carregar clientes:', err);
                 this.errorData = true;
             } finally {
-                this.loadingData = false;
+                const elapsedTime = Date.now() - startTime;
+                const remainingTime = Math.max(0, minLoadingTime - elapsedTime);
+                
+                setTimeout(() => {
+                    this.loadingData = false;
+                }, remainingTime);
             }
         },
 
@@ -269,42 +316,27 @@ document.addEventListener('alpine:init', () => {
             this.loadData();
         },
 
-        // -------------------------------------------------------------
-        // Métodos de Filtro e UI
-        // -------------------------------------------------------------
         filterClients() {
-            // 1. Normaliza a consulta de busca digitada
             const query = normalizeText(this.searchQuery);
-            const city = this.cityFilter; // Valor do select (string original, não normalizada)
+            const city = this.cityFilter;
 
-            // NOVIDADE: Implementa o filtro de 3 caracteres. Se query tem 1 ou 2 chars E não há filtro de cidade, zera a lista.
             if (query.length > 0 && query.length < 3 && !city) {
                 this.visibleClients = [];
                 updateMarkers(this.visibleClients);
-                return; // Pára a execução do filtro
+                return;
             }
 
             this.visibleClients = this.allClients.filter(client => {
-                // Filtro do SELECT de Cidades (Usa a string original)
                 const matchesCityFilter = !city || client.cidade === city;
                 
-                // Se a busca de texto está vazia, o filtro só depende da cidade
                 if (!query) return matchesCityFilter;
 
-                // --- Regras de Busca de Texto Normalizada ---
-                
-                // 1. Busca por nome (NORMALIZADA)
                 const nameMatches = normalizeText(client.nome).includes(query);
-                
-                // 2. Busca por equipamento (NORMALIZADA)
                 const equipmentMatches = client.equipamentos.some(e => 
                     normalizeText(e).includes(query)
                 );
-                
-                // 3. Busca por cidade (NORMALIZADA)
                 const citySearchMatches = normalizeText(client.cidade).includes(query);
                 
-                // Retorna verdadeiro se o cliente atende ao filtro do select E à busca de texto
                 return matchesCityFilter && (nameMatches || equipmentMatches || citySearchMatches);
             });
             
@@ -313,54 +345,20 @@ document.addEventListener('alpine:init', () => {
         
         focusClient(index) {
             const client = this.visibleClients[index];
-            if (client.lat && client.lng) {
+            if (client.lat && client.lng && map) {
                 map.setView([client.lat, client.lng], 12);
                 console.log(`🎯 Focando em: ${client.nome}`);
                 
-                // Abre o popup do marcador clicado
-                markersCluster.eachLayer(cluster => {
-                    cluster.eachLayer(marker => {
-                        // Usa o índice salvo no marcador para encontrar o popup correto
-                        if (marker.options.clientIndex === index) {
-                            marker.openPopup();
-                        }
+                if (markersCluster) {
+                    markersCluster.eachLayer(cluster => {
+                        cluster.eachLayer(marker => {
+                            if (marker.options.clientIndex === index) {
+                                marker.openPopup();
+                            }
+                        });
                     });
-                });
-            }
-        }
-    }));
-});
-
-// Remova o bloco anterior 'document.addEventListener('click', ...)' e substitua por este:
-
-// -------------------------------------------------------------
-// Fechar o painel em telas pequenas ao clicar fora (Solução FINAL - Evento Leaflet)
-// -------------------------------------------------------------
-map.on('click', function(e) {
-    const sidebar = document.getElementById('sidebar');
-    const isSmallScreen = window.innerWidth < 768;
-
-    // 1. Verifica se a tela é pequena E se a sidebar está aberta.
-    if (isSmallScreen && sidebar && window.appState?.sidebarOpen) {
-        
-        // 2. Verifica se o clique **NÃO** atingiu o elemento da sidebar.
-        // O `e.originalEvent.target` é o elemento DOM clicado pelo Leaflet.
-        const clickedInsideSidebar = sidebar.contains(e.originalEvent.target);
-
-        if (!clickedInsideSidebar) {
-            
-            // 3. Verifica se o clique **NÃO** foi no botão de toggle (para evitar fechamento imediato após abrir).
-            const toggleButtonSelector = '[title="Alternar Filtros e Lista"]';
-            const clickedOnToggleButton = e.originalEvent.target.closest(toggleButtonSelector);
-
-            if (!clickedOnToggleButton) {
-                
-                // 4. Fecha a sidebar chamando o método reativo do Alpine.js
-                if (typeof window.appState.toggleSidebar === 'function') {
-                    window.appState.toggleSidebar(); 
-                    console.log('✅ SOLUÇÃO FINAL: Painel fechado por clique no mapa (evento Leaflet).');
                 }
             }
         }
-    }
+    }));
 });
