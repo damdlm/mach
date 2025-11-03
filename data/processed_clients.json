@@ -129,7 +129,7 @@
         "lat": -22.3412148,
         "lng": -47.3975102,
         "equipamentos": [
-            "nan - 978 - ATCL Dna"
+            "19/07/2024 - 978 - ATCL Dna"
         ]
     },
     {
@@ -949,8 +949,8 @@
         "cidade": "Araruna - PR",
         "contato": "Hanna",
         "telefone": "(44)99990-1115",
-        "lat": -23.9293144,
-        "lng": -52.4967167,
+        "lat": -23.9753129,
+        "lng": -52.5532048,
         "equipamentos": [
             "02/12/2020 - 97/98 - Evo 3SPE52BG completa"
         ]
@@ -1005,8 +1005,8 @@
         "cidade": "Mogi das Cruzes - SP",
         "contato": "Bruno",
         "telefone": "11 987424661",
-        "lat": -23.5393849,
-        "lng": -46.216729,
+        "lat": -23.5275476,
+        "lng": -46.2063846,
         "equipamentos": [
             "05/08/2020 - 41 - Elite X 3020 1S"
         ]
@@ -1258,8 +1258,8 @@
         "cidade": "Nova Friburgo - RJ",
         "contato": "Celio",
         "telefone": "(22)99602-5411",
-        "lat": -22.2887261,
-        "lng": -42.5340796,
+        "lat": -22.2927079,
+        "lng": -42.5311625,
         "equipamentos": [
             "11/01/2021 - 131 - Fio quente FCM3"
         ]
@@ -2949,9 +2949,9 @@
         "lat": -7.178064600000001,
         "lng": -35.9800539,
         "equipamentos": [
-            "05/06/2023 - 515 - Spark 2819",
-            "05/06/2023 - 516 - Spark 2819",
             "05/05/2021 - 165 - Elite S Especial",
+            "05/06/2023 - 516 - Spark 2819",
+            "05/06/2023 - 515 - Spark 2819",
             "23/11/2020 - 110 - Elite X 2819"
         ]
     },
@@ -3026,21 +3026,11 @@
         "cidade": "São Paulo - SP",
         "contato": "Guilherme",
         "telefone": "19 3527-3147",
-        "lat": -23.5557714,
-        "lng": -46.6395571,
-        "equipamentos": [
-            "27/04/2023 - 483 - Elite Esp"
-        ]
-    },
-    {
-        "nome": "Inoplast",
-        "cidade": "São Paulo - SP",
-        "contato": "Guilherme",
-        "telefone": "19 3527-3147",
         "lat": -22.3527321,
         "lng": -47.5492913,
         "equipamentos": [
-            "27/04/2023 - 482 - Mach 5 eixos"
+            "27/04/2023 - 482 - Mach 5 eixos",
+            "27/04/2023 - 483 - Elite Esp"
         ]
     },
     {
@@ -3755,11 +3745,11 @@
     },
     {
         "nome": "Laminart Ind",
-        "cidade": "n/a",
+        "cidade": "IMBIRIBEIRA- PE",
         "contato": "n/a",
-        "telefone": "n/a",
-        "lat": -14.235004,
-        "lng": -51.92528,
+        "telefone": "(81) 3465-9251",
+        "lat": -8.114262,
+        "lng": -34.9077426,
         "equipamentos": [
             "06/11/2020 - 101 - MCU 4606"
         ]
@@ -4525,8 +4515,8 @@
         "cidade": "São Bento do Sul - SC",
         "contato": "Davi",
         "telefone": "47 99627-8822",
-        "lat": -26.3608963,
-        "lng": -49.3411852,
+        "lat": -26.3608785,
+        "lng": -49.341214,
         "equipamentos": [
             "nan - nan - Fiber Laser"
         ]
@@ -4627,7 +4617,7 @@
         "lat": -28.1853357,
         "lng": -48.6990679,
         "equipamentos": [
-            "nan - 1146 - Edge 5"
+            "10/10/2024 - 1146 - Edge 5"
         ]
     },
     {
@@ -5040,7 +5030,7 @@
         "nome": "Nuvem Sublimação Ltda",
         "cidade": "Vila Velha - ES",
         "contato": "Ananda",
-        "telefone": "n/a",
+        "telefone": "27) 99922-0490",
         "lat": -20.3446272,
         "lng": -40.2953369,
         "equipamentos": [
@@ -5051,7 +5041,7 @@
         "nome": "OZKI",
         "cidade": "Caxias do Sul - RS",
         "contato": "Solonide",
-        "telefone": "n/a",
+        "telefone": "(54)3283-1630",
         "lat": -29.1145201,
         "lng": -51.0958248,
         "equipamentos": [
@@ -5073,9 +5063,9 @@
         "nome": "Oficina Ambientes",
         "cidade": "Santo Ângelo - RS",
         "contato": "Ederson",
-        "telefone": "n/a",
-        "lat": -28.3001866,
-        "lng": -54.26583170000001,
+        "telefone": "(55)9627-3574",
+        "lat": -28.3092286,
+        "lng": -54.2608537,
         "equipamentos": [
             "28/04/2022 - 287 - Mach Pro ATCL"
         ]
@@ -5084,7 +5074,7 @@
         "nome": "Olimpo Group Comercial",
         "cidade": "São Paulo - SP",
         "contato": "Ruan",
-        "telefone": "n/a",
+        "telefone": "(11)98290-9431",
         "lat": -23.4723637,
         "lng": -46.7356098,
         "equipamentos": [
@@ -5096,7 +5086,7 @@
         "nome": "Olsen Indústria e Comércio",
         "cidade": "Palhoça - SC",
         "contato": "Lucas",
-        "telefone": "n/a",
+        "telefone": "(48) 2106-6000",
         "lat": -27.6280561,
         "lng": -48.6593539,
         "equipamentos": [
@@ -5118,7 +5108,7 @@
         "nome": "Oscar Bazzo",
         "cidade": "Uruguai - UY",
         "contato": "Oscar",
-        "telefone": "n/a",
+        "telefone": "(59)89404-4800",
         "lat": -34.8942113,
         "lng": -56.1754561,
         "equipamentos": [
@@ -5129,7 +5119,7 @@
         "nome": "P K Planejados",
         "cidade": "São Paulo - SP",
         "contato": "Pedro",
-        "telefone": "n/a",
+        "telefone": "(11) 98529-1001",
         "lat": -23.5557714,
         "lng": -46.6395571,
         "equipamentos": [
@@ -5140,7 +5130,7 @@
         "nome": "P P Rabelo Junior",
         "cidade": "São José de Ribamar - MA",
         "contato": "Pedro",
-        "telefone": "n/a",
+        "telefone": "(98)98169-4334",
         "lat": -2.5523978,
         "lng": -44.0692539,
         "equipamentos": [
@@ -5151,7 +5141,7 @@
         "nome": "P.R Barbosa (Refinato Ambientes)",
         "cidade": "Santo Ângelo - RS",
         "contato": "Junior",
-        "telefone": "n/a",
+        "telefone": "(55)99917-5001",
         "lat": -28.3080724,
         "lng": -54.27160989999999,
         "equipamentos": [
@@ -5162,7 +5152,7 @@
         "nome": "Pablo Ferrer / ZONA M PROYECTOS SAS",
         "cidade": "Montevidéu - UY (Uruguai)",
         "contato": "Pablo",
-        "telefone": "n/a",
+        "telefone": "(98)9960-1521",
         "lat": -34.8942113,
         "lng": -56.1754561,
         "equipamentos": [
@@ -5173,7 +5163,7 @@
         "nome": "Paloschi Ind de Móveis",
         "cidade": "Botuverá - SC",
         "contato": "Sr Vilmar",
-        "telefone": "n/a",
+        "telefone": "(47)98467-0628",
         "lat": -27.1965482,
         "lng": -49.0842934,
         "equipamentos": [
@@ -5184,7 +5174,7 @@
         "nome": "Pauli Ind e Com de Móveis",
         "cidade": "Biguaçu - SC",
         "contato": "Bruno Pauli",
-        "telefone": "n/a",
+        "telefone": "(48)99610-2356",
         "lat": -27.4935344,
         "lng": -48.66003749999999,
         "equipamentos": [
@@ -5195,7 +5185,7 @@
         "nome": "Paulo Henrique de Lacerda/Marcos Paulo",
         "cidade": "Leandro Ferreira - MG",
         "contato": "Marcos",
-        "telefone": "n/a",
+        "telefone": "(37)99194-0027",
         "lat": -19.702388,
         "lng": -45.0373171,
         "equipamentos": [
@@ -5206,7 +5196,7 @@
         "nome": "Paulo Henrique de Lacerda/Marcos Paulo",
         "cidade": "Nova Serrana - MG",
         "contato": "Marcos",
-        "telefone": "n/a",
+        "telefone": "(37)99194-0027",
         "lat": -19.884352,
         "lng": -44.9945355,
         "equipamentos": [
@@ -5218,7 +5208,7 @@
         "nome": "Pedro Camilo Nascimento Moveis",
         "cidade": "Colatina - ES",
         "contato": "Pedro/ Mario",
-        "telefone": "n/a",
+        "telefone": "(27)99947-2874",
         "lat": -19.5368995,
         "lng": -40.6307885,
         "equipamentos": [
@@ -5229,7 +5219,7 @@
         "nome": "Perfect Sign",
         "cidade": "Rio Bonito - RJ",
         "contato": "Edilandio",
-        "telefone": "n/a",
+        "telefone": "(21)99956-1095",
         "lat": -22.7373942,
         "lng": -42.5901672,
         "equipamentos": [
@@ -5240,7 +5230,7 @@
         "nome": "Performance",
         "cidade": "Brusque - SC",
         "contato": "Kleiton",
-        "telefone": "n/a",
+        "telefone": "47 99181-9192",
         "lat": -27.1180997,
         "lng": -48.9483896,
         "equipamentos": [
@@ -5251,7 +5241,7 @@
         "nome": "Pertutti Art Moveis",
         "cidade": "Barra Velha - SC",
         "contato": "Agnes/Gaucho",
-        "telefone": "n/a",
+        "telefone": "(51)98110-6999",
         "lat": -26.6904274,
         "lng": -48.739224,
         "equipamentos": [
@@ -5262,9 +5252,9 @@
         "nome": "Phanda Portas- Tropical Wood",
         "cidade": "Corupá - SC",
         "contato": "Clércio",
-        "telefone": "n/a",
-        "lat": -26.4279149,
-        "lng": -49.2398122,
+        "telefone": "47 99118-8100",
+        "lat": -26.4334179,
+        "lng": -49.34501119999999,
         "equipamentos": [
             "08/08/2019 - nan - Elite 3020+vácuo"
         ]
@@ -5273,7 +5263,7 @@
         "nome": "Pigmento Laqueados",
         "cidade": "Duque de Caxias - RJ",
         "contato": "Guillen",
-        "telefone": "n/a",
+        "telefone": "(21)98702-6517",
         "lat": -22.7600659,
         "lng": -43.2904714,
         "equipamentos": [
@@ -5284,7 +5274,7 @@
         "nome": "Pit Moveis Planejados LTDA",
         "cidade": "Pitangui - MG",
         "contato": "Edilson",
-        "telefone": "n/a",
+        "telefone": "(37)99979-2796",
         "lat": -19.5774563,
         "lng": -44.8879576,
         "equipamentos": [
@@ -5295,7 +5285,7 @@
         "nome": "Pitangui Moveis LTDA",
         "cidade": "Pitangui - MG",
         "contato": "Edilson",
-        "telefone": "n/a",
+        "telefone": "(37)99979-2796",
         "lat": -19.5774563,
         "lng": -44.8879576,
         "equipamentos": [
@@ -5306,7 +5296,7 @@
         "nome": "Placon Contruções e Montagens Ltda",
         "cidade": "São Bernardo do Campo - SP",
         "contato": "Adriana",
-        "telefone": "n/a",
+        "telefone": "(11)96318-2828",
         "lat": -23.6587594,
         "lng": -46.569992,
         "equipamentos": [
@@ -5317,7 +5307,7 @@
         "nome": "Plastfera",
         "cidade": "São Leopoldo - RS",
         "contato": "Matias",
-        "telefone": "n/a",
+        "telefone": "(51)3081-3401",
         "lat": -29.76074169999999,
         "lng": -51.1480174,
         "equipamentos": [
@@ -5328,7 +5318,7 @@
         "nome": "Plastifica / Kasabelle",
         "cidade": "Corupá - SC",
         "contato": "Alaor",
-        "telefone": "n/a",
+        "telefone": "47996015279",
         "lat": -26.4334179,
         "lng": -49.34501119999999,
         "equipamentos": [
@@ -5339,11 +5329,11 @@
         "nome": "Precisao Movelaria Planejados LTDA",
         "cidade": "Ibaté - SP",
         "contato": "Rodrigo",
-        "telefone": "n/a",
+        "telefone": "(16)99619-9848",
         "lat": -21.9497383,
         "lng": -48.0208484,
         "equipamentos": [
-            "nan - 2071 - Coladeira Edge 7",
+            "06/10/2025 - 2071 - Coladeira Edge 7",
             "19/08/2025 - 1918 - Elite Super Drill"
         ]
     },
@@ -5362,7 +5352,7 @@
         "nome": "Primos Móveis",
         "cidade": "Botuverá - SC",
         "contato": "Fernando",
-        "telefone": "n/a",
+        "telefone": "47 98481-2107",
         "lat": -27.1965482,
         "lng": -49.0842934,
         "equipamentos": [
@@ -5374,7 +5364,7 @@
         "nome": "Primu's Madeiras Ltda",
         "cidade": "Juiz de Fora - MG",
         "contato": "Diogo",
-        "telefone": "n/a",
+        "telefone": "(32)99947-9899",
         "lat": -21.7429858,
         "lng": -43.3680776,
         "equipamentos": [
@@ -5385,7 +5375,7 @@
         "nome": "Pro-Market Moveis e Expositores LTDA",
         "cidade": "Agudos - SP",
         "contato": "Roger",
-        "telefone": "n/a",
+        "telefone": "(14)99787-8315",
         "lat": -22.4714683,
         "lng": -48.9790477,
         "equipamentos": [
@@ -5396,7 +5386,7 @@
         "nome": "Projeto 8",
         "cidade": "Curitiba - PR",
         "contato": "Alysson",
-        "telefone": "n/a",
+        "telefone": "41 99261-8080",
         "lat": -25.5019047,
         "lng": -49.2151901,
         "equipamentos": [
@@ -5407,7 +5397,7 @@
         "nome": "Projeto A Móveis Planejados",
         "cidade": "Londrina - PR",
         "contato": "Rafael Fidelis",
-        "telefone": "n/a",
+        "telefone": "(43)99951-0006",
         "lat": -23.2831828,
         "lng": -51.1606278,
         "equipamentos": [
@@ -5419,7 +5409,7 @@
         "nome": "Projeto Móveis e Decorações Ind e Com LTDA",
         "cidade": "Juiz de Fora - MG",
         "contato": "Silvania/Vicente",
-        "telefone": "n/a",
+        "telefone": "(32)98866-3119",
         "lat": -21.7344146,
         "lng": -43.3889016,
         "equipamentos": [
@@ -5430,7 +5420,7 @@
         "nome": "Protótipus paineis",
         "cidade": "Cianorte - PR",
         "contato": "Ana Maria",
-        "telefone": "n/a",
+        "telefone": "44 99968-5001",
         "lat": -23.6569437,
         "lng": -52.6065512,
         "equipamentos": [
@@ -5441,7 +5431,7 @@
         "nome": "Pryus Design Mobiliarios & Planejados Ltda",
         "cidade": "Mairiporã - SP",
         "contato": "Lucélio",
-        "telefone": "n/a",
+        "telefone": "(11)99819-2526",
         "lat": -23.2558668,
         "lng": -46.5938655,
         "equipamentos": [
@@ -5452,9 +5442,9 @@
         "nome": "R Acostic",
         "cidade": "Itapuí - SP",
         "contato": "Rafael",
-        "telefone": "n/a",
-        "lat": -22.2345403,
-        "lng": -48.71979200000001,
+        "telefone": "(14) 3664-4395",
+        "lat": -22.2375046,
+        "lng": -48.6990679,
         "equipamentos": [
             "08/01/2021 - 130 - Master 3025 3S"
         ]
@@ -5463,7 +5453,7 @@
         "nome": "R Baião Ind e Comercio Ltda",
         "cidade": "Ubá - MG",
         "contato": "Filipe/Marcio",
-        "telefone": "n/a",
+        "telefone": "(32)99902-6864",
         "lat": -21.1328704,
         "lng": -42.9412418,
         "equipamentos": [
@@ -5485,9 +5475,9 @@
         "nome": "R&R Technical P/ 14/10 coleta",
         "cidade": "São Paulo - SP",
         "contato": "Renato",
-        "telefone": "n/a",
-        "lat": -23.5557714,
-        "lng": -46.6395571,
+        "telefone": "11 95023-5289",
+        "lat": -23.4166723,
+        "lng": -46.8208458,
         "equipamentos": [
             "31/07/2020 - 35 - Evo 3020 3SBG"
         ]
@@ -5507,7 +5497,7 @@
         "nome": "RCA Ind e Com de Móveis Ltda",
         "cidade": "Itajaí - SC",
         "contato": "Alcides",
-        "telefone": "n/a",
+        "telefone": "47 99791-5723",
         "lat": -26.9973172,
         "lng": -48.76967399999999,
         "equipamentos": [
@@ -5518,29 +5508,19 @@
         "nome": "RD Fibras / Inoplast",
         "cidade": "Rio Claro - SP",
         "contato": "Guilherme",
-        "telefone": "n/a",
-        "lat": -22.4107652,
-        "lng": -47.5596215,
-        "equipamentos": [
-            "25/08/2020 - 49 - Elite 2013 especial"
-        ]
-    },
-    {
-        "nome": "RD Fibras / Inoplast",
-        "cidade": "Rio Claro - SP",
-        "contato": "Guilherme",
-        "telefone": "n/a",
+        "telefone": "19 3527-3147",
         "lat": -22.3827408,
         "lng": -47.55716450000001,
         "equipamentos": [
-            "04/11/2021 - 230 - Evo Esp"
+            "04/11/2021 - 230 - Evo Esp",
+            "25/08/2020 - 49 - Elite 2013 especial"
         ]
     },
     {
         "nome": "RNV Industria e Comercio de Moveis Ltda",
         "cidade": "Caratinga - MG",
         "contato": "Marcos",
-        "telefone": "n/a",
+        "telefone": "(33)98826-7010",
         "lat": -19.7716357,
         "lng": -42.1278567,
         "equipamentos": [
@@ -5551,7 +5531,7 @@
         "nome": "RR Móveis Planejados",
         "cidade": "Maringá - PR",
         "contato": "Rogério",
-        "telefone": "n/a",
+        "telefone": "(44)99712-6520",
         "lat": -23.401309,
         "lng": -51.9614889,
         "equipamentos": [
@@ -5563,7 +5543,7 @@
         "nome": "RVB Isolantes",
         "cidade": "Blumenau - SC",
         "contato": "Hugo",
-        "telefone": "n/a",
+        "telefone": "(47)99124-4610",
         "lat": -26.7957341,
         "lng": -49.1061874,
         "equipamentos": [
@@ -5574,7 +5554,7 @@
         "nome": "Radha Comercio",
         "cidade": "Cachoeirinha - RS",
         "contato": "Samuel",
-        "telefone": "n/a",
+        "telefone": "(51)99337-9959",
         "lat": -29.9465668,
         "lng": -51.0925719,
         "equipamentos": [
@@ -5585,7 +5565,7 @@
         "nome": "Rafael Cousso Rodrigues",
         "cidade": "Penápolis - SP",
         "contato": "Rafael",
-        "telefone": "n/a",
+        "telefone": "(18)99198-8484",
         "lat": -21.4142877,
         "lng": -50.0670041,
         "equipamentos": [
@@ -5596,7 +5576,7 @@
         "nome": "Rafael F Herreira / Cezano Marcenaria",
         "cidade": "São Bernardo do Campo - SP",
         "contato": "Rafael",
-        "telefone": "n/a",
+        "telefone": "(11)93088-7646",
         "lat": -23.750482,
         "lng": -46.6009348,
         "equipamentos": [
@@ -5607,7 +5587,7 @@
         "nome": "Rafael Farias - Rare Moveis Planejados",
         "cidade": "Mogi Mirim - SP",
         "contato": "Rafael",
-        "telefone": "n/a",
+        "telefone": "(19)98361-3826",
         "lat": -22.4228869,
         "lng": -46.9555224,
         "equipamentos": [
@@ -5618,7 +5598,7 @@
         "nome": "Rafael Herger Pinto / Singular Amb",
         "cidade": "São José - SC",
         "contato": "Rafael",
-        "telefone": "n/a",
+        "telefone": "(48) 99138 9969",
         "lat": -27.5950396,
         "lng": -48.61376809999999,
         "equipamentos": [
@@ -5629,7 +5609,7 @@
         "nome": "Ramiro Móveis Ltda",
         "cidade": "Boa Esperança - ES",
         "contato": "Reginaldo",
-        "telefone": "n/a",
+        "telefone": "(27)99606-4251",
         "lat": -18.4958087,
         "lng": -40.3292795,
         "equipamentos": [
@@ -5641,7 +5621,7 @@
         "nome": "Raquel Mello de Medeiros/Struture Ambientes",
         "cidade": "Santa Maria - RS",
         "contato": "Raquel",
-        "telefone": "n/a",
+        "telefone": "(55)98107-0623",
         "lat": -29.7052588,
         "lng": -53.8054271,
         "equipamentos": [
@@ -5653,7 +5633,7 @@
         "nome": "Realizart Design Empreendimentos Comerciais Ltda Me",
         "cidade": "Campos dos Goytacazes - RJ",
         "contato": "Jeovane",
-        "telefone": "n/a",
+        "telefone": "(22)98187-5516",
         "lat": -21.757157,
         "lng": -41.3288361,
         "equipamentos": [
@@ -5664,7 +5644,7 @@
         "nome": "Refinatto Moveis LTDA ME",
         "cidade": "Sarandi - PR",
         "contato": "Leandro",
-        "telefone": "n/a",
+        "telefone": "(44)9990-5100",
         "lat": -23.443229,
         "lng": -51.8745045,
         "equipamentos": [
@@ -5675,7 +5655,7 @@
         "nome": "Reformart Marcenaria",
         "cidade": "Cabedelo - PB",
         "contato": "Tiago",
-        "telefone": "n/a",
+        "telefone": "(83)98728-2108",
         "lat": -7.0710377,
         "lng": -34.8529316,
         "equipamentos": [
@@ -5686,9 +5666,9 @@
         "nome": "Rei das Calhas - Liberty Calhas",
         "cidade": "Itajaí - SC",
         "contato": "Larissa",
-        "telefone": "n/a",
-        "lat": -26.9082859,
-        "lng": -48.6775167,
+        "telefone": "47 3348-2050",
+        "lat": -26.8991576,
+        "lng": -48.6829195,
         "equipamentos": [
             "23/08/2019 - nan - Spark 2013"
         ]
@@ -5697,7 +5677,7 @@
         "nome": "Renan Eduardo Kerkoske Werner",
         "cidade": "Itajaí - SC",
         "contato": "Renan",
-        "telefone": "n/a",
+        "telefone": "(47)99204-7374",
         "lat": -26.9082859,
         "lng": -48.6775167,
         "equipamentos": [
@@ -5708,7 +5688,7 @@
         "nome": "Reve Ambientes Planejados Ltda",
         "cidade": "Cambé - PR",
         "contato": "Jonas",
-        "telefone": "n/a",
+        "telefone": "(43)99612-5690",
         "lat": -23.2974251,
         "lng": -51.2420312,
         "equipamentos": [
@@ -5719,7 +5699,7 @@
         "nome": "Rhino Wood",
         "cidade": "Osasco - SP",
         "contato": "Julio",
-        "telefone": "n/a",
+        "telefone": "(11)99804-9288",
         "lat": -23.4981599,
         "lng": -46.7655337,
         "equipamentos": [
@@ -5731,8 +5711,8 @@
         "cidade": "Cambuí - MG",
         "contato": "Leandro",
         "telefone": "35 98866-6577",
-        "lat": -22.6100267,
-        "lng": -46.0576301,
+        "lat": -22.577108,
+        "lng": -46.0753991,
         "equipamentos": [
             "24/09/2020 - 72 - Evo 1010 Especial"
         ]
@@ -5741,7 +5721,7 @@
         "nome": "Rigotti 3R Moveis Ltda",
         "cidade": "Bento Gonçalves - RS",
         "contato": "Robson",
-        "telefone": "n/a",
+        "telefone": "(54)9914-9379",
         "lat": -29.1398319,
         "lng": -51.515829,
         "equipamentos": [
@@ -5752,7 +5732,7 @@
         "nome": "Rizartte Indústria de Móveis Ltda",
         "cidade": "Brusque - SC",
         "contato": "Clarice",
-        "telefone": "n/a",
+        "telefone": "(47)99141-9702",
         "lat": -27.0778599,
         "lng": -48.9125172,
         "equipamentos": [
@@ -5763,7 +5743,7 @@
         "nome": "Robson Luiz Senem de Araujo",
         "cidade": "Belo Horizonte - MG",
         "contato": "Robson",
-        "telefone": "n/a",
+        "telefone": "(31)98878-8096",
         "lat": -19.8559134,
         "lng": -44.0100946,
         "equipamentos": [
@@ -5774,7 +5754,7 @@
         "nome": "Rocha Moveis",
         "cidade": "Criciúma - SC",
         "contato": "Claudio",
-        "telefone": "n/a",
+        "telefone": "(48)996686065",
         "lat": -28.711352,
         "lng": -49.3613298,
         "equipamentos": [
@@ -5785,7 +5765,7 @@
         "nome": "Rodrigo Aresi / Moresi - Moveis Sob Medida",
         "cidade": "Passo Fundo - RS",
         "contato": "Rodrigo",
-        "telefone": "n/a",
+        "telefone": "(54)99153-1472",
         "lat": -28.2840281,
         "lng": -52.42840109999999,
         "equipamentos": [
@@ -5796,9 +5776,9 @@
         "nome": "Rodrigo Bortolin",
         "cidade": "Rio Claro - SP",
         "contato": "Rodrigo",
-        "telefone": "n/a",
-        "lat": -22.4107652,
-        "lng": -47.5596215,
+        "telefone": "(19) 99667-8881",
+        "lat": -22.3988246,
+        "lng": -47.5578554,
         "equipamentos": [
             "15/09/2019 - nan - Xpro 2515"
         ]
@@ -5807,7 +5787,7 @@
         "nome": "Rodrigo Ferreira da Silva/ Juli",
         "cidade": "Jaraguá do Sul - SC",
         "contato": "Rodrigo",
-        "telefone": "n/a",
+        "telefone": "(47)99728-2506",
         "lat": -26.4244218,
         "lng": -49.0801916,
         "equipamentos": [
@@ -5818,7 +5798,7 @@
         "nome": "Rodrigo Mauricio Liesenfeld",
         "cidade": "Carlos Barbosa - RS",
         "contato": "Rodrigo",
-        "telefone": "n/a",
+        "telefone": "(54)98147-3618",
         "lat": -29.320972,
         "lng": -51.5044957,
         "equipamentos": [
@@ -5829,9 +5809,9 @@
         "nome": "Rodrigo Milanez",
         "cidade": "São Paulo - SP",
         "contato": "Rodrigo",
-        "telefone": "n/a",
-        "lat": -21.4839996,
-        "lng": -47.3665664,
+        "telefone": "(16)98123-0666",
+        "lat": -21.4839985,
+        "lng": -47.3665662,
         "equipamentos": [
             "04/06/2025 - 1676 - ATCL Dna"
         ]
@@ -5840,9 +5820,9 @@
         "nome": "Rogério Aprigio",
         "cidade": "Nova Serrana - MG",
         "contato": "Rogério",
-        "telefone": "n/a",
-        "lat": -19.8777714,
-        "lng": -44.9856483,
+        "telefone": "37 99171-0916",
+        "lat": -19.8509278,
+        "lng": -44.9626829,
         "equipamentos": [
             "13/11/2020 - 91 - Spark 8060"
         ]
@@ -5851,7 +5831,7 @@
         "nome": "Ronaldo Alves Afonso Junior",
         "cidade": "Poté - MG",
         "contato": "Ronaldo",
-        "telefone": "n/a",
+        "telefone": "(33)98866-1101",
         "lat": -17.8270725,
         "lng": -41.8004409,
         "equipamentos": [
@@ -5862,7 +5842,7 @@
         "nome": "Rosana Pereira da Silva Salto",
         "cidade": "Salto - SP",
         "contato": "Rosana",
-        "telefone": "n/a",
+        "telefone": "(11)99854-6541",
         "lat": -23.1932088,
         "lng": -47.2675747,
         "equipamentos": [
@@ -5873,7 +5853,7 @@
         "nome": "Roupa pra Casa",
         "cidade": "Imbituba - SC",
         "contato": "Ezequiel",
-        "telefone": "n/a",
+        "telefone": "4832557997",
         "lat": -28.1853357,
         "lng": -48.6990679,
         "equipamentos": [
@@ -5884,7 +5864,7 @@
         "nome": "Rudison Theodoro",
         "cidade": "Cariacica - ES",
         "contato": "Rudison",
-        "telefone": "n/a",
+        "telefone": "(27)99999-5076",
         "lat": -20.3852231,
         "lng": -40.3722437,
         "equipamentos": [
@@ -5906,7 +5886,7 @@
         "nome": "Sabre Coldres Ltda",
         "cidade": "Florianópolis - SC",
         "contato": "Edu",
-        "telefone": "n/a",
+        "telefone": "(48)99658-4992",
         "lat": -27.471186,
         "lng": -48.4135339,
         "equipamentos": [
@@ -5917,7 +5897,7 @@
         "nome": "Salver Construtora",
         "cidade": "Ituporanga - SC",
         "contato": "Thiago",
-        "telefone": "n/a",
+        "telefone": "(47)9704-8589",
         "lat": -27.4148756,
         "lng": -49.6014176,
         "equipamentos": [
@@ -5928,9 +5908,9 @@
         "nome": "Samuel Dal'Col Follador",
         "cidade": "Vila Velha - ES",
         "contato": "Vinicius",
-        "telefone": "n/a",
-        "lat": -20.3477818,
-        "lng": -40.2949184,
+        "telefone": "27 99980-3262",
+        "lat": -20.3689198,
+        "lng": -40.3103799,
         "equipamentos": [
             "29/10/2020 - 94 - Ax pro 3020"
         ]
@@ -5939,7 +5919,7 @@
         "nome": "Sandra M L de Castro FJ2",
         "cidade": "Salvador - BA",
         "contato": "Delsuc",
-        "telefone": "n/a",
+        "telefone": "(71)98165-2843",
         "lat": -12.984015,
         "lng": -38.4907626,
         "equipamentos": [
@@ -5950,7 +5930,7 @@
         "nome": "Sandra da Silva /Fab Móveis Modular",
         "cidade": "Ipatinga - MG",
         "contato": "Josue",
-        "telefone": "n/a",
+        "telefone": "31 97155-8976",
         "lat": -19.4638994,
         "lng": -42.53945359999999,
         "equipamentos": [
@@ -5961,7 +5941,7 @@
         "nome": "Sant Pietro Ind de Móveis",
         "cidade": "Cariacica - ES",
         "contato": "Taquetti",
-        "telefone": "n/a",
+        "telefone": "(27)98119-1444",
         "lat": -20.3852231,
         "lng": -40.3722437,
         "equipamentos": [
@@ -5972,7 +5952,7 @@
         "nome": "Scalle Moveis Planejados",
         "cidade": "Palhoça - SC",
         "contato": "Junior Elmar",
-        "telefone": "n/a",
+        "telefone": "(48)99164-4055",
         "lat": -27.6746755,
         "lng": -48.67895790000001,
         "equipamentos": [
@@ -5983,7 +5963,7 @@
         "nome": "Schwartz e Costa Ltda ME",
         "cidade": "Ipatinga - MG",
         "contato": "Elmiro",
-        "telefone": "n/a",
+        "telefone": "(31)8422-6728",
         "lat": -19.4722733,
         "lng": -42.5503593,
         "equipamentos": [
@@ -5995,7 +5975,7 @@
         "nome": "Servulo e Servulo",
         "cidade": "Goiânia - GO",
         "contato": "Jose Antonio",
-        "telefone": "n/a",
+        "telefone": "(62)99247-4018",
         "lat": -16.6868491,
         "lng": -49.2707899,
         "equipamentos": [
@@ -6006,7 +5986,7 @@
         "nome": "Servulo e Servulo",
         "cidade": "Goiânia - GO",
         "contato": "José Antonio",
-        "telefone": "n/a",
+        "telefone": "(62)99247-4018",
         "lat": -16.6868491,
         "lng": -49.2707899,
         "equipamentos": [
@@ -6028,7 +6008,7 @@
         "nome": "Siw",
         "cidade": "Ipojuca - PE",
         "contato": "Eric",
-        "telefone": "n/a",
+        "telefone": "15 99676-6162",
         "lat": -8.4627496,
         "lng": -35.0828588,
         "equipamentos": [
@@ -6039,7 +6019,7 @@
         "nome": "Siw",
         "cidade": "Salto de Pirapora - SP",
         "contato": "Eric",
-        "telefone": "n/a",
+        "telefone": "15 99676-6162",
         "lat": -23.661914,
         "lng": -47.58649639999999,
         "equipamentos": [
@@ -6051,7 +6031,7 @@
         "nome": "Smart Industria e Comercio de Moveis Ltda ME",
         "cidade": "Vila Velha - ES",
         "contato": "Alexandre",
-        "telefone": "n/a",
+        "telefone": "(27)99991-8388",
         "lat": -20.3943499,
         "lng": -40.3348132,
         "equipamentos": [
@@ -6062,7 +6042,7 @@
         "nome": "Smartfibra telecomunicações",
         "cidade": "Colombo - PR",
         "contato": "Diogo",
-        "telefone": "n/a",
+        "telefone": "(41)3037-5771",
         "lat": -25.3763813,
         "lng": -49.1855047,
         "equipamentos": [
@@ -6073,7 +6053,7 @@
         "nome": "Soberano Comercio",
         "cidade": "Canaã dos Carajás - PA",
         "contato": "Diego",
-        "telefone": "n/a",
+        "telefone": "(94)9133-2898",
         "lat": -6.4605786,
         "lng": -50.1009527,
         "equipamentos": [
@@ -6084,7 +6064,7 @@
         "nome": "Sofistica Móveis",
         "cidade": "Teresina - PI",
         "contato": "Reis",
-        "telefone": "n/a",
+        "telefone": "(86)99989-0468",
         "lat": -5.0810984,
         "lng": -42.774291,
         "equipamentos": [
@@ -6096,7 +6076,7 @@
         "nome": "Sordi Móvelaria",
         "cidade": "Balneário Camboriú - SC",
         "contato": "Fernando",
-        "telefone": "n/a",
+        "telefone": "(47)3367-0793",
         "lat": -27.0234162,
         "lng": -48.61113169999999,
         "equipamentos": [
@@ -6107,7 +6087,7 @@
         "nome": "Sorense Marcenaria",
         "cidade": "Osório - RS",
         "contato": "Hiago",
-        "telefone": "n/a",
+        "telefone": "(51)99503-4004",
         "lat": -29.9194588,
         "lng": -50.2244429,
         "equipamentos": [
@@ -6118,7 +6098,7 @@
         "nome": "Spazzio Tatui Moveis Planejados",
         "cidade": "Tatuí - SP",
         "contato": "Fabricio",
-        "telefone": "n/a",
+        "telefone": "(15)99130-6137",
         "lat": -23.3488392,
         "lng": -47.8455431,
         "equipamentos": [
@@ -6129,9 +6109,9 @@
         "nome": "Spot Sonorização",
         "cidade": "Juiz de Fora - MG",
         "contato": "Roberto",
-        "telefone": "n/a",
-        "lat": -21.7623932,
-        "lng": -43.3434669,
+        "telefone": "32 99153-4317",
+        "lat": -21.7942951,
+        "lng": -43.3062236,
         "equipamentos": [
             "14/08/2020 - 45 - Elite X 3020 2S +/4º eixo"
         ]
@@ -6140,7 +6120,7 @@
         "nome": "Stadium Acrilicos Ltda",
         "cidade": "Santo Ângelo - RS",
         "contato": "Vinicius",
-        "telefone": "n/a",
+        "telefone": "(55)98127-7074",
         "lat": -28.2781311,
         "lng": -54.247293,
         "equipamentos": [
@@ -6151,7 +6131,7 @@
         "nome": "Star Mobile",
         "cidade": "Garibaldi - RS",
         "contato": "Ademir",
-        "telefone": "n/a",
+        "telefone": "54 3462-6631",
         "lat": -29.237483,
         "lng": -51.5781151,
         "equipamentos": [
@@ -6162,7 +6142,7 @@
         "nome": "Starplan Móveis",
         "cidade": "Mazagão - AP",
         "contato": "Lucas",
-        "telefone": "n/a",
+        "telefone": "(96)9200-5772",
         "lat": -0.1175691,
         "lng": -51.852273,
         "equipamentos": [
@@ -6173,7 +6153,7 @@
         "nome": "Stell Tech Smart",
         "cidade": "Araçatuba - SP",
         "contato": "Picollin",
-        "telefone": "n/a",
+        "telefone": "(11)97138-6756",
         "lat": -21.2066711,
         "lng": -50.4387286,
         "equipamentos": [
@@ -6184,7 +6164,7 @@
         "nome": "Stetka Industria e Comercio de Moveis Ltda Me",
         "cidade": "Mauá - SP",
         "contato": "Alfredo",
-        "telefone": "n/a",
+        "telefone": "(11)99723-4466",
         "lat": -23.6764745,
         "lng": -46.4396058,
         "equipamentos": [
@@ -6195,7 +6175,7 @@
         "nome": "Stilo Ambientes Planejados",
         "cidade": "Seara - SC",
         "contato": "Juliano",
-        "telefone": "n/a",
+        "telefone": "(49)9929-0255",
         "lat": -27.1511569,
         "lng": -52.318772,
         "equipamentos": [
@@ -6206,7 +6186,7 @@
         "nome": "Studio Design",
         "cidade": "Imbé - RS",
         "contato": "Jocelito",
-        "telefone": "n/a",
+        "telefone": "(51)99148-3984",
         "lat": -29.92710959999999,
         "lng": -50.11123389999999,
         "equipamentos": [
@@ -6217,7 +6197,7 @@
         "nome": "Styllo Projetados Comercio de Moveis",
         "cidade": "Joinville - SC",
         "contato": "Marco Pinheiro",
-        "telefone": "n/a",
+        "telefone": "(47)99684-0123",
         "lat": -26.3127357,
         "lng": -48.8399176,
         "equipamentos": [
@@ -6228,7 +6208,7 @@
         "nome": "Sua Casa Planejados LTDA ME",
         "cidade": "Patos de Minas - MG",
         "contato": "Doglas",
-        "telefone": "n/a",
+        "telefone": "(34)99937-1081",
         "lat": -18.5833795,
         "lng": -46.4919689,
         "equipamentos": [
@@ -6239,7 +6219,7 @@
         "nome": "Sucar dos encartes",
         "cidade": "Rio de Janeiro - RJ",
         "contato": "Cleiton",
-        "telefone": "n/a",
+        "telefone": "(21)96494-7054",
         "lat": -22.9837493,
         "lng": -43.7011933,
         "equipamentos": [
@@ -6250,7 +6230,7 @@
         "nome": "Supermade",
         "cidade": "Campina Grande do Sul - PR",
         "contato": "Marcos",
-        "telefone": "n/a",
+        "telefone": "(41)99721-4825",
         "lat": -25.3642418,
         "lng": -49.101878,
         "equipamentos": [
@@ -6261,7 +6241,7 @@
         "nome": "Supremo Modulados",
         "cidade": "Cachoeiro de Itapemirim - ES",
         "contato": "Herculano",
-        "telefone": "n/a",
+        "telefone": "(28)99886-0869",
         "lat": -20.8517991,
         "lng": -41.1148627,
         "equipamentos": [
@@ -6272,7 +6252,7 @@
         "nome": "Surreal Estruturas",
         "cidade": "São Paulo - SP",
         "contato": "Diego",
-        "telefone": "n/a",
+        "telefone": "(11)99720-1697",
         "lat": -23.5557714,
         "lng": -46.6395571,
         "equipamentos": [
@@ -6284,11 +6264,23 @@
         "nome": "T R Araujo Alves",
         "cidade": "Natal - RN",
         "contato": "Thyago / Nei",
-        "telefone": "n/a",
-        "lat": -5.7841695,
-        "lng": -35.1999708,
+        "telefone": "84 99664-4434",
+        "lat": -5.8240957,
+        "lng": -35.2512127,
         "equipamentos": [
             "29/12/2020 - 129 - Elite X 2819 2S"
+        ]
+    },
+    {
+        "nome": "T.O Dos Santos Fab de Moveis Planejados / Line Móveis",
+        "cidade": "Balsas - MA",
+        "contato": "Tadeu",
+        "telefone": "(99)98805-4376",
+        "lat": -8.7070739,
+        "lng": -46.670534,
+        "equipamentos": [
+            "05/06/2023 - 518 - Edge 7",
+            "09/08/2024 - 1018 - Turbo Duo Dna sem esteira"
         ]
     },
     {
@@ -6303,22 +6295,10 @@
         ]
     },
     {
-        "nome": "T.O Dos Santos Fab de Moveis Planejados / Line Móveis",
-        "cidade": "Balsas - MA",
-        "contato": "Tadeu",
-        "telefone": "n/a",
-        "lat": -8.7070739,
-        "lng": -46.670534,
-        "equipamentos": [
-            "05/06/2023 - 518 - Edge 7",
-            "09/08/2024 - 1018 - Turbo Duo Dna sem esteira"
-        ]
-    },
-    {
         "nome": "TAS Equipamentos Ltda",
         "cidade": "São Pedro de Alcântara - SC",
         "contato": "Marcelo",
-        "telefone": "n/a",
+        "telefone": "(48) 99648-2020",
         "lat": -27.5852252,
         "lng": -48.8296806,
         "equipamentos": [
@@ -6329,7 +6309,7 @@
         "nome": "Taigar Ind e Equi de Som Ltda",
         "cidade": "Salto Veloso - SC",
         "contato": "Marcos",
-        "telefone": "n/a",
+        "telefone": "(49)98402-6354",
         "lat": -26.895893,
         "lng": -51.4519605,
         "equipamentos": [
@@ -6341,7 +6321,7 @@
         "nome": "Tallato Ind e Com",
         "cidade": "Toledo - PR",
         "contato": "Helder",
-        "telefone": "n/a",
+        "telefone": "45 99933-3638",
         "lat": -24.6173346,
         "lng": -53.7099854,
         "equipamentos": [
@@ -6352,7 +6332,7 @@
         "nome": "Tche Moveis Ltda",
         "cidade": "Canoas - RS",
         "contato": "Nelmo",
-        "telefone": "n/a",
+        "telefone": "(51)99340-5011",
         "lat": -29.9063743,
         "lng": -51.21030390000001,
         "equipamentos": [
@@ -6363,9 +6343,9 @@
         "nome": "Teak Design",
         "cidade": "Itapema - SC",
         "contato": "Gabrielle",
-        "telefone": "n/a",
-        "lat": -27.0965505,
-        "lng": -48.6164234,
+        "telefone": "(47)99191-0766",
+        "lat": -27.106748,
+        "lng": -48.6288642,
         "equipamentos": [
             "24/09/2019 - nan - Elite S 3020 4º eixo",
             "25/01/2021 - 135 - Laser 1490"
@@ -6375,7 +6355,7 @@
         "nome": "Techome Construtura Ltda",
         "cidade": "Barueri - SP",
         "contato": "Fred/Ramon",
-        "telefone": "n/a",
+        "telefone": "(41)9552-4968",
         "lat": -23.5023892,
         "lng": -46.8533739,
         "equipamentos": [
@@ -6386,7 +6366,7 @@
         "nome": "Temda Estofados e Decorações Ltda",
         "cidade": "Apucarana - PR",
         "contato": "Bruno",
-        "telefone": "n/a",
+        "telefone": "(43)98816-3539",
         "lat": -23.559461,
         "lng": -51.5413363,
         "equipamentos": [
@@ -6397,7 +6377,7 @@
         "nome": "Tempo Novo Ind",
         "cidade": "Bento Gonçalves - RS",
         "contato": "Erny",
-        "telefone": "n/a",
+        "telefone": "(54)99112-1820",
         "lat": -29.1667089,
         "lng": -51.5169861,
         "equipamentos": [
@@ -6408,7 +6388,7 @@
         "nome": "Thera Móveis Planejados Ltda",
         "cidade": "Goiânia - GO",
         "contato": "Vanderlan",
-        "telefone": "n/a",
+        "telefone": "(62)99235-5681",
         "lat": -16.6478602,
         "lng": -49.35658979999999,
         "equipamentos": [
@@ -6420,7 +6400,7 @@
         "nome": "Tiago Fragozo Pompeo",
         "cidade": "Balneário Arroio do Silva - SC",
         "contato": "Tiago",
-        "telefone": "n/a",
+        "telefone": "49 99913-1687",
         "lat": -29.0195187,
         "lng": -49.4771118,
         "equipamentos": [
@@ -6431,7 +6411,7 @@
         "nome": "Tiago Liebl Miranda",
         "cidade": "Mafra - SC",
         "contato": "Tiago",
-        "telefone": "n/a",
+        "telefone": "47 99623-6665",
         "lat": -26.133029,
         "lng": -49.8059543,
         "equipamentos": [
@@ -6442,7 +6422,7 @@
         "nome": "Tolomeotti Industria de Moveis",
         "cidade": "Itapema - SC",
         "contato": "Matheus",
-        "telefone": "n/a",
+        "telefone": "(45)9970-0339",
         "lat": -27.106748,
         "lng": -48.6288642,
         "equipamentos": [
@@ -6453,7 +6433,7 @@
         "nome": "Tona Móveis",
         "cidade": "Lajeado - RS",
         "contato": "Carlos P",
-        "telefone": "n/a",
+        "telefone": "(51)98460-0330",
         "lat": -29.440523,
         "lng": -51.9782751,
         "equipamentos": [
@@ -6464,7 +6444,7 @@
         "nome": "Toro Design e Interiores",
         "cidade": "Contagem - MG",
         "contato": "Luis Felipe",
-        "telefone": "n/a",
+        "telefone": "(31)98691-5154",
         "lat": -19.8788607,
         "lng": -44.0176594,
         "equipamentos": [
@@ -6475,29 +6455,19 @@
         "nome": "Traços Cultura",
         "cidade": "Rio de Janeiro - RJ",
         "contato": "Tarcisio",
-        "telefone": "n/a",
-        "lat": -22.9068467,
-        "lng": -43.1728965,
-        "equipamentos": [
-            "17/10/2019 - nan - Elite S 3020 câmera"
-        ]
-    },
-    {
-        "nome": "Traços Cultura",
-        "cidade": "Rio de Janeiro - RJ",
-        "contato": "Tarcisio",
-        "telefone": "n/a",
+        "telefone": "21 3173-2412",
         "lat": -22.8981571,
         "lng": -43.2055048,
         "equipamentos": [
-            "25/01/2022 - 253 - Mach Pro ATCL ESP"
+            "25/01/2022 - 253 - Mach Pro ATCL ESP",
+            "17/10/2019 - nan - Elite S 3020 câmera"
         ]
     },
     {
         "nome": "Treviart Ind. de Moveis Ltda",
         "cidade": "Iporã do Oeste - SC",
         "contato": "Fabio",
-        "telefone": "n/a",
+        "telefone": "(49)9929-2220",
         "lat": -27.0086816,
         "lng": -53.4986586,
         "equipamentos": [
@@ -6508,7 +6478,7 @@
         "nome": "Unika Móveis Planejados",
         "cidade": "Araraquara - SP",
         "contato": "Augusto",
-        "telefone": "n/a",
+        "telefone": "(16)99208-8000",
         "lat": -21.7620788,
         "lng": -48.17571239999999,
         "equipamentos": [
@@ -6519,7 +6489,7 @@
         "nome": "Unike Industria",
         "cidade": "Juazeiro - BA",
         "contato": "Jailton/Davi",
-        "telefone": "n/a",
+        "telefone": "87 98122-1003",
         "lat": -9.4312866,
         "lng": -40.5079903,
         "equipamentos": [
@@ -6530,7 +6500,7 @@
         "nome": "Universo Personalizado/ Abra Retail",
         "cidade": "Cotia - SP",
         "contato": "Ricardo",
-        "telefone": "n/a",
+        "telefone": "(11)99713-0454",
         "lat": -23.5960974,
         "lng": -46.9630539,
         "equipamentos": [
@@ -6541,7 +6511,7 @@
         "nome": "Urbanus Decor LTDA ME",
         "cidade": "Cascavel - PR",
         "contato": "Diego",
-        "telefone": "n/a",
+        "telefone": "(45)3227-3670",
         "lat": -24.9756371,
         "lng": -53.4562379,
         "equipamentos": [
@@ -6552,7 +6522,7 @@
         "nome": "Urbanus Decor LTDA ME",
         "cidade": "Cascavel - PR",
         "contato": "Diego",
-        "telefone": "n/a",
+        "telefone": "(45)3227-3670",
         "lat": -24.9541356,
         "lng": -53.48024059999999,
         "equipamentos": [
@@ -6563,7 +6533,7 @@
         "nome": "Urbe Com Visual",
         "cidade": "Rio de Janeiro - RJ",
         "contato": "Daniel",
-        "telefone": "n/a",
+        "telefone": "(21)99195-9811",
         "lat": -22.9012672,
         "lng": -43.2634066,
         "equipamentos": [
@@ -6574,11 +6544,22 @@
         "nome": "Usa planejados",
         "cidade": "Palma - MG",
         "contato": "Elias",
-        "telefone": "n/a",
+        "telefone": "(19)3527-3147",
         "lat": -21.4149514,
         "lng": -42.3347949,
         "equipamentos": [
             "14/10/2021 - 230 - Mach Pro ATCL 2819"
+        ]
+    },
+    {
+        "nome": "Usinagem Perdigão",
+        "cidade": "Perdigão - MG",
+        "contato": "Marcio",
+        "telefone": "37 99971-9050",
+        "lat": -19.9534107,
+        "lng": -45.0788225,
+        "equipamentos": [
+            "14/05/2021 - 178 - Spark 8060"
         ]
     },
     {
@@ -6593,21 +6574,10 @@
         ]
     },
     {
-        "nome": "Usinagem Perdigão",
-        "cidade": "Perdigão - MG",
-        "contato": "Marcio",
-        "telefone": "n/a",
-        "lat": -19.9534107,
-        "lng": -45.0788225,
-        "equipamentos": [
-            "14/05/2021 - 178 - Spark 8060"
-        ]
-    },
-    {
         "nome": "V A Comunicação",
         "cidade": "Porto Velho - RO",
         "contato": "n/a",
-        "telefone": "n/a",
+        "telefone": "(69) 3223-6925",
         "lat": -8.7449484,
         "lng": -63.8657187,
         "equipamentos": [
@@ -6618,7 +6588,7 @@
         "nome": "V V M Ind e Com de Acrilicos Eireli",
         "cidade": "Blumenau - SC",
         "contato": "Vanderlei",
-        "telefone": "n/a",
+        "telefone": "(47)99928-1221",
         "lat": -26.8667894,
         "lng": -49.1088724,
         "equipamentos": [
@@ -6629,7 +6599,7 @@
         "nome": "V10 Colheita / Mastercraft Ltda",
         "cidade": "Rio Verde - GO",
         "contato": "Whanathan",
-        "telefone": "n/a",
+        "telefone": "(64)99225-4178",
         "lat": -17.7961717,
         "lng": -50.93764360000001,
         "equipamentos": [
@@ -6640,7 +6610,7 @@
         "nome": "Vagner Piccinini - Projetar Ambientes Planejados",
         "cidade": "Massaranduba - SC",
         "contato": "Vagner",
-        "telefone": "n/a",
+        "telefone": "(47)98455-0564",
         "lat": -26.6195818,
         "lng": -48.9807651,
         "equipamentos": [
@@ -6651,7 +6621,7 @@
         "nome": "Valdemiro dos Santos Pinheiro",
         "cidade": "Timóteo - MG",
         "contato": "Valdemiro",
-        "telefone": "n/a",
+        "telefone": "(31)98875-7850",
         "lat": -19.5432718,
         "lng": -42.625061,
         "equipamentos": [
@@ -6662,7 +6632,7 @@
         "nome": "Valete Móveis",
         "cidade": "Santo André - SP",
         "contato": "n/a",
-        "telefone": "n/a",
+        "telefone": "(11)94902-2341",
         "lat": -23.6767969,
         "lng": -46.50137240000001,
         "equipamentos": [
@@ -6673,7 +6643,7 @@
         "nome": "Vanessa de Lira Freires",
         "cidade": "Sousa - PB",
         "contato": "Luiz Henrique",
-        "telefone": "n/a",
+        "telefone": "(83)98114-2126",
         "lat": -6.7605197,
         "lng": -38.2257719,
         "equipamentos": [
@@ -6684,7 +6654,7 @@
         "nome": "Veramóveis",
         "cidade": "Veranópolis - RS",
         "contato": "Rafael",
-        "telefone": "n/a",
+        "telefone": "54 98439-2082",
         "lat": -28.9737835,
         "lng": -51.5570726,
         "equipamentos": [
@@ -6695,7 +6665,7 @@
         "nome": "Versátil Móveis",
         "cidade": "Joinville - SC",
         "contato": "Fabio",
-        "telefone": "n/a",
+        "telefone": "47 99665-3811",
         "lat": -26.3364047,
         "lng": -48.8565629,
         "equipamentos": [
@@ -6706,7 +6676,7 @@
         "nome": "Vetroresina do Brasil",
         "cidade": "Botucatu - SP",
         "contato": "Fabio",
-        "telefone": "n/a",
+        "telefone": "(11)96315-6666",
         "lat": -22.9267349,
         "lng": -48.4391612,
         "equipamentos": [
@@ -6717,7 +6687,7 @@
         "nome": "Vetroresina do Brasil",
         "cidade": "Botucatu - SP",
         "contato": "Fabio",
-        "telefone": "n/a",
+        "telefone": "(11)96315-6666",
         "lat": -22.8873233,
         "lng": -48.444658,
         "equipamentos": [
@@ -6728,7 +6698,7 @@
         "nome": "Victor Feltz",
         "cidade": "Tijucas - SC",
         "contato": "Victor",
-        "telefone": "n/a",
+        "telefone": "(48)99915-8599",
         "lat": -27.2433155,
         "lng": -48.6589406,
         "equipamentos": [
@@ -6750,7 +6720,7 @@
         "nome": "Villas CV Comunicação Visual",
         "cidade": "Fortaleza - CE",
         "contato": "Andre",
-        "telefone": "n/a",
+        "telefone": "85 8699-9001",
         "lat": -3.7667228,
         "lng": -38.5139622,
         "equipamentos": [
@@ -6761,7 +6731,7 @@
         "nome": "Villas Comunicação Visual Ltda",
         "cidade": "São Paulo - SP",
         "contato": "André/Ivyna",
-        "telefone": "n/a",
+        "telefone": "(85)98699-9001",
         "lat": -23.4918254,
         "lng": -46.6890969,
         "equipamentos": [
@@ -6772,7 +6742,7 @@
         "nome": "Vip Armários Ltda",
         "cidade": "Contagem - MG",
         "contato": "Douglas",
-        "telefone": "n/a",
+        "telefone": "(31)98646-4166",
         "lat": -19.8868769,
         "lng": -44.0439386,
         "equipamentos": [
@@ -6786,8 +6756,8 @@
         "cidade": "Tupanciretã - RS",
         "contato": "Vitor",
         "telefone": "55 99126-5998",
-        "lat": -29.0811933,
-        "lng": -53.8367486,
+        "lat": -29.0282919,
+        "lng": -53.95415630000001,
         "equipamentos": [
             "18/01/2021 - 133 - Elite Super Drill"
         ]
@@ -6796,7 +6766,7 @@
         "nome": "W Da Silva / La Kazza",
         "cidade": "Barra do Garças - MT",
         "contato": "Leandro",
-        "telefone": "n/a",
+        "telefone": "(66)8419-1302",
         "lat": -15.8916202,
         "lng": -52.2618826,
         "equipamentos": [
@@ -6811,14 +6781,14 @@
         "lat": -25.4603625,
         "lng": -49.5730628,
         "equipamentos": [
-            "nan - 157 Ab 149 Fat - Elite S especial 4º eixos"
+            "25/02/2021 - 157 Ab 149 Fat - Elite S especial 4º eixos"
         ]
     },
     {
         "nome": "WR Confecções",
         "cidade": "São Paulo - SP",
         "contato": "Eduardo",
-        "telefone": "n/a",
+        "telefone": "(11)94785-7834",
         "lat": -23.5450518,
         "lng": -46.59228359999999,
         "equipamentos": [
@@ -6830,7 +6800,7 @@
         "nome": "WSR Moveis Sob Medida LTDA",
         "cidade": "Agudos do Sul - PR",
         "contato": "Weslei",
-        "telefone": "n/a",
+        "telefone": "(41)9981-2957",
         "lat": -26.0286752,
         "lng": -49.3044253,
         "equipamentos": [
@@ -6841,7 +6811,7 @@
         "nome": "Wander de Oliveira Gomes e Cia",
         "cidade": "Presidente Prudente - SP",
         "contato": "Wander",
-        "telefone": "n/a",
+        "telefone": "(18)99736-2141",
         "lat": -22.1280523,
         "lng": -51.42460209999999,
         "equipamentos": [
@@ -6852,7 +6822,7 @@
         "nome": "Warnava Marcenaria",
         "cidade": "Navegantes - SC",
         "contato": "Rodrigo",
-        "telefone": "n/a",
+        "telefone": "(47)98455-4647",
         "lat": -26.8394809,
         "lng": -48.74926749999999,
         "equipamentos": [
@@ -6863,7 +6833,7 @@
         "nome": "Warvana Marcenaria",
         "cidade": "Navegantes - SC",
         "contato": "Rodrigo",
-        "telefone": "n/a",
+        "telefone": "(47)98455-4647",
         "lat": -26.8394809,
         "lng": -48.74926749999999,
         "equipamentos": [
@@ -6874,7 +6844,7 @@
         "nome": "Wesley Renatto (First Line)",
         "cidade": "Colombo - PR",
         "contato": "Dionata",
-        "telefone": "n/a",
+        "telefone": "41 9650-5774",
         "lat": -25.3268723,
         "lng": -49.22872,
         "equipamentos": [
@@ -6885,7 +6855,7 @@
         "nome": "Wilian Attrot",
         "cidade": "Rolândia - PR",
         "contato": "Wilian",
-        "telefone": "n/a",
+        "telefone": "(43)98863-7489",
         "lat": -23.3098237,
         "lng": -51.3608473,
         "equipamentos": [
@@ -6896,7 +6866,7 @@
         "nome": "Wohnmobil Motorhome Brasil Ltda",
         "cidade": "Brusque - SC",
         "contato": "Claudio",
-        "telefone": "n/a",
+        "telefone": "(47)99260-5352",
         "lat": -27.1485499,
         "lng": -48.8974494,
         "equipamentos": [
@@ -6908,7 +6878,7 @@
         "nome": "Ws Comercio De Moveis Ltda",
         "cidade": "São Paulo - SP",
         "contato": "Kristian",
-        "telefone": "n/a",
+        "telefone": "(11)94521-6384",
         "lat": -23.6265466,
         "lng": -46.7102845,
         "equipamentos": [
@@ -6919,7 +6889,7 @@
         "nome": "X Prime Mundo das Impressoes",
         "cidade": "Goiânia - GO",
         "contato": "Ronaldo",
-        "telefone": "n/a",
+        "telefone": "(62)99147-9460",
         "lat": -16.704495,
         "lng": -49.2406885,
         "equipamentos": [
@@ -6930,7 +6900,7 @@
         "nome": "Z. MOBILI PLANEJADOS",
         "cidade": "Cafelândia - PR",
         "contato": "Edson",
-        "telefone": "n/a",
+        "telefone": "(45)99972-0249",
         "lat": -24.6938177,
         "lng": -53.3690158,
         "equipamentos": [
@@ -6941,7 +6911,7 @@
         "nome": "Zanetti Marcenaria Ltda",
         "cidade": "Colatina - ES",
         "contato": "Alessandra",
-        "telefone": "n/a",
+        "telefone": "(27)99947-2885",
         "lat": -19.4939482,
         "lng": -40.676782,
         "equipamentos": [
@@ -6952,7 +6922,7 @@
         "nome": "Zilmar Henrique Junior / JH Móveis",
         "cidade": "Florianópolis - SC",
         "contato": "Zilmar",
-        "telefone": "n/a",
+        "telefone": "(48)3369-6962",
         "lat": -27.44475049892284,
         "lng": -48.42599408955292,
         "equipamentos": [
@@ -6963,7 +6933,7 @@
         "nome": "Zirk Móveis",
         "cidade": "Cariacica - ES",
         "contato": "Nasirc",
-        "telefone": "n/a",
+        "telefone": "(27)99947-4314",
         "lat": -20.352571,
         "lng": -40.3885153,
         "equipamentos": [
@@ -6974,7 +6944,7 @@
         "nome": "Zonta Moveis",
         "cidade": "Camboriú - SC",
         "contato": "Valdir/ Gabriel",
-        "telefone": "n/a",
+        "telefone": "(47)99626-8627",
         "lat": -27.0271852,
         "lng": -48.65128079999999,
         "equipamentos": [
