@@ -161,11 +161,11 @@
                 <div class="mt-2 pt-2 border-t border-gray-100">
                     <span class="font-semibold text-xs text-gray-700">Equipamentos:</span>
                     <ul class="list-disc list-inside text-xs text-gray-500 ml-2">
-                        <template x-for="equipamento in client.equipamentos.slice(0, 2)">
+                        <template x-for="equipamento in client.equipamentos.slice(0, 6)">
                             <li x-text="equipamento"></li>
                         </template>
-                        <li x-show="client.equipamentos.length > 3" class="text-blue-500 cursor-pointer hover:underline" @click.stop="alert('Equipamentos: ' + client.equipamentos.join(', '))">
-                            + Mais <span x-text="client.equipamentos.length - 3"></span>
+                        <li x-show="client.equipamentos.length > 6" class="text-blue-500 cursor-pointer hover:underline" @click.stop="alert('Equipamentos: ' + client.equipamentos.join(', '))">
+                            + Mais <span x-text="client.equipamentos.length - 2"></span>
                         </li>
                     </ul>
                 </div>
