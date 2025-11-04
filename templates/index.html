@@ -164,8 +164,8 @@
                         <template x-for="equipamento in client.equipamentos.slice(0, 2)">
                             <li x-text="equipamento"></li>
                         </template>
-                        <li x-show="client.equipamentos.length > 2" class="text-blue-500 cursor-pointer hover:underline" @click.stop="alert('Equipamentos: ' + client.equipamentos.join(', '))">
-                            + Mais <span x-text="client.equipamentos.length - 2"></span>
+                        <li x-show="client.equipamentos.length > 3" class="text-blue-500 cursor-pointer hover:underline" @click.stop="alert('Equipamentos: ' + client.equipamentos.join(', '))">
+                            + Mais <span x-text="client.equipamentos.length - 3"></span>
                         </li>
                     </ul>
                 </div>
