@@ -183,7 +183,7 @@ function createPopupContent(client) {
 			
             ${routeLink}
             
-            <div class="mt-2 pt-0 border-t border-gray-300">
+            <div class="mt-3 pt-0 border-t border-gray-300">
                 <p class="text-xs font-semibold text-gray-800">Equipamentos:</p>
                 <ul class="list-disc list-inside ml-2 space-y-0.5">
                     ${equipamentosList}
