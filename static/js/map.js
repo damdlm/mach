@@ -136,9 +136,9 @@ function createPopupContent(client) {
     const whatsappLink = phone && phone.length >= 10 ? `
         <a href="https://wa.me/55${phone}" 
 		   target="_blank" 
-		   style="color: #10B981;"
+		   style="color: #2dc866;"
             onmouseover="this.style.color='#047857'" 
-            onmouseout="this.style.color='#10B981'" 
+            onmouseout="this.style.color='#2dc866'" 
            class="text-green-600 hover:text-green-800 font-semibold flex items-center mt-1">
             <svg xmlns="http://www.w3.org/2000/svg" 
               viewBox="0 0 32 32" 
