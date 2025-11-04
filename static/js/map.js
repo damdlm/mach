@@ -153,10 +153,9 @@ function createPopupContent(client) {
            onmouseover="this.style.color='#b91c1c'" 
            onmouseout="this.style.color='#EF4444'"
            class="text-red-600 hover:text-red-800 font-semibold flex items-center mt-1">
-            <svg class="h-4 w-4 mr-1 fill-current" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.828 0l-4.243-4.243a8 8 0 1111.314 0z"/>
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"/>
-            </svg>
+           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" class="h-4 w-4 mr-1 fill-current">
+            <path d="M172.268 501.67C272.268 393.45 384 290.7 384 192C384 86 298.6 0 192 0S0 86 0 192c0 98.7 111.732 201.45 211.732 309.67c12.32 12.82 32.84 12.82 45.16 0zM192 272c-44.183 0-80-35.817-80-80s35.817-80 80-80 80 35.817 80 80-35.817 80-80 80z"/>
+           </svg>
             Rota Google Maps
         </a>
     ` : '';
