@@ -129,38 +129,57 @@ function setupLocationEvents() {
 
 function createPopupContent(client) {
     const phone = client.telefone ? client.telefone.replace(/\D/g, '') : '';
+	
+    const formattedPhone = client.telefone ? client.telefone : 'N/A';
+    
+    // CORREÇÃO 1: Link do WhatsApp agora exibe o número de telefone
     const whatsappLink = phone && phone.length >= 10 ? `
-        <a href="https://wa.me/55${phone}" target="_blank" class="text-green-600 hover:text-green-800 font-semibold flex items-center mt-1">
+        <a href="https://wa.me/55${phone}" 
+		   target="_blank" 
+		   style="color: #10B981;"
+            onmouseover="this.style.color='#047857'" 
+            onmouseout="this.style.color='#10B981'" 
+           class="text-green-600 hover:text-green-800 font-semibold flex items-center mt-1">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" class="h-4 w-4 mr-1 fill-current"><path d="M380.9 97.1C339.4 55.4 283.4 32 224.2 32c-122.9 0-222 99.8-222 223 0 39.1 10.3 77.2 29.8 111L3 487.6l103.5-30.9c32.7 17.7 69.8 27.1 107.7 27.1h.4c122.8 0 221.7-99.7 221.7-223.1 0-59.5-22.7-115-64.8-156.7zM224.2 448c-30.8 0-61.2-8.8-87.3-25.2l-6.1-3.6-64.8 19.3 20.3-63.5-4-6.3c-19.1-30.2-29.4-65.5-29.4-102.5 0-99.9 81-180.9 181.1-180.9 49.3 0 95.6 19.3 130.4 54.1 34.8 34.8 54 81 54 130.4 0 100.2-81.1 181.2-181.2 181.2-.4 0-.8 0-1.2 0zM361.6 314.9c-2.3-1.4-13.6-6.7-15.7-7.4-2.1-.7-3.6-1.1-5.1 1.1-1.5 2.1-5.9 7.4-7.2 8.9-1.3 1.5-2.6 1.7-4.8.6-2.2-1.1-9.3-3.4-17.7-10.9-6.5-5.9-10.8-11.8-12.1-13.9-1.3-2.1-.1-3.2 1-4.2 1-.8 2.2-2.1 3.3-3.3 1.1-1.1 1.5-2.1 2.2-3.4.7-1.3.4-2.4-.2-3.4-2.2-3.8-15.7-37.5-18-43.4-2.3-5.9-4.5-5.1-6.1-5.2-1.5-.1-3.3-.1-5.1-.1-1.8 0-4.8.7-7.4 3.7-2.6 2.9-9.8 9.6-9.8 23.4s10.1 27.1 11.5 29c1.3 1.9 20 30.6 48.6 43.8 28.5 13.1 34.4 11.9 38.8 11.1 4.4-.8 13.6-5.5 15.5-11.2s2.1-10.8.6-13.3z"/></svg>
-            WhatsApp
+            ${formattedPhone}
         </a>
     ` : '';
     
+    // CORREÇÃO 2: Link de Rota usando URL padrão do Google Maps e texto "Rota"
     const routeLink = (client.lat && client.lng) ? `
-        <a href="https://www.google.com/maps/dir/Current+Location/${client.lat},${client.lng}" 
+        <a href="https://www.google.com/maps/dir/?api=1&destination=${client.lat},${client.lng}" 
            target="_blank" 
+		   style="color: #EF4444;"
+           onmouseover="this.style.color='#b91c1c'" 
+           onmouseout="this.style.color='#EF4444'"
            class="text-red-600 hover:text-red-800 font-semibold flex items-center mt-1">
-            <svg class="h-4 w-4 mr-1 fill-current" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.828 0l-4.243-4.243a8 8 0 1111.314 0z"/><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"/></svg>
-            Ver Rota no Google Maps
+            <svg class="h-4 w-4 mr-1 fill-current" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.828 0l-4.243-4.243a8 8 0 1111.314 0z"/>
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"/>
+            </svg>
+            Rota Google Maps
         </a>
     ` : '';
 
     const equipamentosList = client.equipamentos.map(e => `<li class="text-xs text-gray-700">${e}</li>`).join('');
 
     return `
-        <div class="client-popup-content p-2 font-sans">
-            <h3 class="text-base font-bold text-blue-700">${client.nome}</h3>
+        <div class="client-popup-content p-3 font-sans">
+            <h3 class="text-base font-bold text-gray-800">${client.nome}</h3>
+			
             <p class="text-sm text-gray-700">${client.cidade}</p>
             
-            <p class="text-xs text-gray-500 mt-1">
-                Contato: ${client.contato ? client.contato : 'N/A'} 
-                <span class="font-semibold text-gray-700">| ${client.telefone ? client.telefone : 'N/A'}</span>
+            <p class="text-xs text-gray-600 mt-1">
+                Contato: ${client.contato ? client.contato : 'N/A'}
             </p>
             
             ${whatsappLink}
+			
+			<div style="height: 0.7em;"></div>
+			
             ${routeLink}
             
-            <div class="mt-2 pt-2 border-t border-gray-200">
+            <div class="mt-2 pt-0 border-t border-gray-300">
                 <p class="text-xs font-semibold text-gray-800">Equipamentos:</p>
                 <ul class="list-disc list-inside ml-2 space-y-0.5">
                     ${equipamentosList}
