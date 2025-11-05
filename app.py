@@ -90,6 +90,14 @@ def get_cities():
     cidades = sorted(list(set(item["cidade"] for item in data)))
     return jsonify(cidades)
 
+@app.route("/service-worker.js")
+def service_worker():
+    return app.send_static_file("service-worker.js")
+
+@app.route("/manifest.json")
+def manifest():
+    return app.send_static_file("manifest.json")
+
 # ===============================
 if __name__ == "__main__":
     print("🚀 Servidor Flask iniciado com autenticação via JSON.")
