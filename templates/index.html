@@ -285,5 +285,20 @@
   <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
   <script defer src="https://unpkg.com/alpinejs@3.x.x/dist/cdn.min.js"></script>
   <script src="/static/js/map.js"></script>
+
+<script>
+  if ("serviceWorker" in navigator) {
+    window.addEventListener("load", () => {
+      navigator.serviceWorker
+        .register("/service-worker.js")
+        .then((reg) => console.log("✅ Service Worker registrado:", reg.scope))
+        .catch((err) => console.error("❌ Falha ao registrar SW:", err));
+    });
+  }
+</script>
+
+<link rel="manifest" href="/static/manifest.json">
+<meta name="theme-color" content="#2563eb">
+	
 </body>
 </html>
