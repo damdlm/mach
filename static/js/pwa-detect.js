@@ -47,7 +47,7 @@ window.addEventListener("load", () => {
   if (isIOS && isSafari && !window.matchMedia('(display-mode: standalone)').matches) {
     // Safari no iPhone: mostra tutorial
     showBanner(
-      "📱 Para instalar o <strong>MachMap</strong>: toque no botão <span style='font-size:18px;'>⬆️</span> e escolha <strong>“Tela de Início”</strong>.",
+      "Para instalar o <strong>MachMap</strong>: toque no botão <span style='font-size:18px;'>⬆️</span> e escolha <strong>“Adicionar à Tela de Início”</strong>.",
       "#2563eb",
       12000
     );
@@ -55,7 +55,7 @@ window.addEventListener("load", () => {
     // Chrome no iPhone: avisa para usar Safari
     showBanner(
       "⚠️ No iPhone, o <strong>MachMap</strong> só pode ser instalado pelo Safari.<br>Abra este link no Safari 🍏",
-      "#e11d48",
+      "#ff6347",
       10000
     );
   }
