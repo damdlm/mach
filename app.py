@@ -2,6 +2,7 @@ from flask import Flask, render_template, jsonify, request, redirect, url_for, s
 import json, os
 from dotenv import load_dotenv
 from flask_session import Session
+from flask import send_from_directory
 
 app = Flask(__name__)
 load_dotenv()
@@ -89,16 +90,6 @@ def get_cities():
     data = load_processed_data()
     cidades = sorted(list(set(item["cidade"] for item in data)))
     return jsonify(cidades)
-
-@app.route("/service-worker.js")
-def service_worker():
-    return app.send_static_file("service-worker.js")
-
-@app.route("/manifest.json")
-def manifest():
-    return app.send_static_file("manifest.json")
-
-from flask import send_from_directory
 
 # === PWA SUPPORT ===
 @app.route('/service-worker.js')
