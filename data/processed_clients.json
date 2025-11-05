@@ -505,18 +505,9 @@
         "lat": -26.3450496,
         "lng": -48.8508702,
         "equipamentos": [
+            "03/12/2020 - 115 - Spark 1310 especial comando",
             "05/07/2021 - 192 - Ax pro 2515 esp",
             "13/07/2022 - 318 - Spark 2815"
-        ]
-    },
-    {
-        "nome": "Aquarilopa Arte e Artesanato LTDA",
-        "cidade": "Joinville - SC",
-        "contato": "Ariete",
-        "telefone": "(47)99162-1896",
-        "lat": -26.3043758,
-        "lng": -48.84637439999999,
-        "equipamentos": [
             "06/02/2023 - 428 - Spark 3019"
         ]
     },
@@ -541,17 +532,6 @@
         "lng": -51.22107099999999,
         "equipamentos": [
             "23/01/2020 - nan - Evo 3020"
-        ]
-    },
-    {
-        "nome": "Aquarilopa Arte e Artesanato LTDA",
-        "cidade": "Joinville - SC",
-        "contato": "Ariete",
-        "telefone": "(47)99162-1896",
-        "lat": -26.3450496,
-        "lng": -48.8508702,
-        "equipamentos": [
-            "03/12/2020 - 115 - Spark 1310 especial comando"
         ]
     },
     {
@@ -773,19 +753,9 @@
         "lat": -23.4796002,
         "lng": -46.8843234,
         "equipamentos": [
+            "27/07/2023 - 557 - Mach Pro Turbo",
             "02/12/2024 - 1256 - Edge 6",
             "02/12/2024 - 1256 - Mesa de descarga"
-        ]
-    },
-    {
-        "nome": "Barueri Industria E Comercio De Moveis Colonial Ltda",
-        "cidade": "Barueri - SP",
-        "contato": "Marcio",
-        "telefone": "(11)99481-5844",
-        "lat": -23.4796002,
-        "lng": -46.8843234,
-        "equipamentos": [
-            "27/07/2023 - 557 - Mach Pro Turbo"
         ]
     },
     {
